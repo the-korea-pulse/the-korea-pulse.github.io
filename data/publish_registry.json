@@ -20,7 +20,7 @@
     },
     {
       "content_id": "synd:c-baaf1dc23eb2",
-      "gate_version": "1.2.0",
+      "gate_version": "",
       "keywords": [
         "KOSPI",
         "Korean stocks",
@@ -31,27 +31,10 @@
       ],
       "language": "en",
       "platform": "github_site",
-      "published_at": "2026-07-06T17:05:38.493998Z",
+      "published_at": null,
       "slug_hint": "kospi-snaps-back-576-reclaims-8000-as-chip-giants-lead-rebound",
       "title": "KOSPI Snaps Back 5.76%, Reclaims 8,000 as Chip Giants Lead Rebound",
       "url": "https://thishw.github.io/the-korea-pulse/posts/kospi-snaps-back-576-reclaims-8000-as-chip-giants-lead-rebound/"
-    },
-    {
-      "content_id": "synd:c-d1654cf99152",
-      "gate_version": "1.2.0",
-      "keywords": [
-        "Future Response Fund",
-        "semiconductor tax revenue",
-        "Kang Hoon-sik",
-        "Lee Jae-myung government",
-        "Korea fiscal policy"
-      ],
-      "language": "en",
-      "platform": "github_site",
-      "published_at": "2026-07-06T17:05:41.892363Z",
-      "slug_hint": "korea-to-create-future-response-fund-from-semiconductor-tax-windfall",
-      "title": "Korea to Create 'Future Response Fund' From Semiconductor Tax Windfall",
-      "url": "https://thishw.github.io/the-korea-pulse/posts/korea-to-create-future-response-fund-from-semiconductor-tax-windfall/"
     }
   ],
   "version": 1
