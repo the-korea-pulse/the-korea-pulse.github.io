@@ -311,6 +311,23 @@
       "slug_hint": "three-kosdaq-firms-file-same-day-capital-moves-on-july-7",
       "title": "Three KOSDAQ Firms File Same-Day Capital Moves on July 7",
       "url": "https://the-korea-pulse.github.io/posts/three-kosdaq-firms-file-same-day-capital-moves-on-july-7/"
+    },
+    {
+      "content_id": "synd:c-480c4ef1758f",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "KOSPI",
+        "circuit breaker",
+        "Korea stock market",
+        "KRX",
+        "market crash"
+      ],
+      "language": "en",
+      "platform": "github_site",
+      "published_at": "2026-07-07T08:04:20.255528Z",
+      "slug_hint": "kospi-plunges-8-triggering-circuit-breaker-as-index-sinks-below-7500",
+      "title": "KOSPI Plunges 8%, Triggering Circuit Breaker as Index Sinks Below 7,500",
+      "url": "https://the-korea-pulse.github.io/posts/kospi-plunges-8-triggering-circuit-breaker-as-index-sinks-below-7500/"
     }
   ],
   "version": 1
