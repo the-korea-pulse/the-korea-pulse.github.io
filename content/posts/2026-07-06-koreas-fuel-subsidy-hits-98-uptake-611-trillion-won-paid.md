@@ -23,6 +23,10 @@ The headline figure — 6.1123 trillion won — places this among the larger tar
 
 For fiscal watchers, a high application rate paired with a fully deployed budget carries two signals. First, it confirms that demand for fuel-cost relief materialized as anticipated, validating the sizing of the program. Second, it leaves little room for reallocation of leftover funds, meaning any further support would require fresh appropriations rather than repurposing an underspent envelope. The 98% closure rate effectively marks the program as complete, shifting the policy question from "who still needs to claim" to "whether another round is warranted."
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260704019300530)
-- rss_hankyung (https://www.hankyung.com/article/2026070454967)
+<details class="sources">
+<summary>Sources (2) — Yonhap News Agency · The Korea Economic Daily</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260704019300530">고유가 지원금 최종 신청률 98%…6조1천123억원 지급</a> — Yonhap News Agency, 2026-07-04</li>
+<li><a href="https://www.hankyung.com/article/2026070454967">고유가 지원금 최종 신청률 98%…총 6조1123억원 지급</a> — The Korea Economic Daily, 2026-07-04</li>
+</ul>
+</details>

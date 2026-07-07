@@ -33,8 +33,12 @@ Those gaps matter because the practical impact of such a fund hinges on its desi
 
 The immediate questions are procedural and quantitative. Markets and analysts will look for the government to publish a target fund size, a formula linking chip tax receipts to contributions, and a timeline for standing the fund up. Equally important will be the definition of eligible spending — whether "future response" points toward R&D, demographic and pension pressures, climate adaptation, or a broader mandate. Until those parameters are set, the announcement stands as a statement of fiscal intent whose scale and durability cannot yet be assessed.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260705033200001)
-- rss_hankyung (https://www.hankyung.com/article/2026070561487)
-- rss_mk (https://www.mk.co.kr/news/politics/12090577)
-- rss_chosunbiz (https://biz.chosun.com/policy/policy_sub/2026/07/05/IB32VUDDGNB5TBSXE7EBT5KOYU/)
+<details class="sources">
+<summary>Sources (4) — Yonhap News Agency · The Korea Economic Daily · Maeil Business Newspaper · ChosunBiz</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260705033200001">[속보] 강훈식 "반도체 추가세수로 미래대응기금 신설…미래위해 투자"</a> — Yonhap News Agency, 2026-07-05</li>
+<li><a href="https://www.hankyung.com/article/2026070561487">[속보] 강훈식 "반도체 추가세수로 미래대응기금 신설…미래위해 투자"</a> — The Korea Economic Daily, 2026-07-05</li>
+<li><a href="https://www.mk.co.kr/news/politics/12090577">[속보] 강훈식 “반도체 추가세수로 미래대응기금 신설…미래위해 투자”</a> — Maeil Business Newspaper, 2026-07-05</li>
+<li><a href="https://biz.chosun.com/policy/policy_sub/2026/07/05/IB32VUDDGNB5TBSXE7EBT5KOYU/">강훈식 “반도체 추가 세수로 미래대응기금 신설”</a> — ChosunBiz, 2026-07-05</li>
+</ul>
+</details>

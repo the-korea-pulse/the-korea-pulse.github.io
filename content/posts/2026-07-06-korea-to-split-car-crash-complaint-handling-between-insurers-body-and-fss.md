@@ -25,6 +25,10 @@ The reorganization arrives in two conceptual layers. The reassignment of fault-r
 
 For consumers, the practical promise is faster resolution. Bundling high-volume, lower-stakes complaints under an industry body is designed to keep them from clogging the regulator's dispute queue, which can then concentrate on cases that truly require its authority. The risk that observers will watch is one of perceived independence: routing service and fault-ratio complaints through a body tied to the insurers themselves raises the question of whether consumers will trust the outcome as much as a regulator-led review. How firmly the line is drawn between a "non-dispute" complaint handled by the association and a "dispute" escalated to the FSS will shape how well the new split serves drivers once it takes effect.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260704037200002)
-- rss_chosunbiz (https://biz.chosun.com/stock/finance/2026/07/05/UFKXBAPGKNB4NLDZNCYKHMXMOE/)
+<details class="sources">
+<summary>Sources (2) — Yonhap News Agency · ChosunBiz</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260704037200002">보험협회, 車사고 과실비율 민원 맡는다…9월부턴 불친절 민원도</a> — Yonhap News Agency, 2026-07-05</li>
+<li><a href="https://biz.chosun.com/stock/finance/2026/07/05/UFKXBAPGKNB4NLDZNCYKHMXMOE/">보험협회, 車사고 과실비율 민원 담당…9월부턴 불친절 민원도 처리</a> — ChosunBiz, 2026-07-05</li>
+</ul>
+</details>

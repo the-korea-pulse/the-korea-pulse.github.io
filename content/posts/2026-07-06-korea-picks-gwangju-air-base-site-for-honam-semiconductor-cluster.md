@@ -31,7 +31,11 @@ Placing a semiconductor cluster in Honam addresses a long-standing regional-bala
 
 The available signals establish the site and the reported headline scale but leave the operational details open. Not specified in these reports are the anchor tenants or lead chipmakers, the construction and production timeline, the split between government and corporate funding, and how the airbase relocation required to free the land will proceed. These elements will determine whether the 800 trillion won figure reflects committed investment or an aspirational ceiling, and readers should treat the number as a reported projection until official disclosures provide a formal breakdown.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260706090900011)
-- rss_hankyung (https://www.hankyung.com/article/2026070679337)
-- rss_chosunbiz (https://biz.chosun.com/policy/politics/president_office/2026/07/06/DECWI55ASNFTTET2SHN2MPTARY/)
+<details class="sources">
+<summary>Sources (3) — Yonhap News Agency · The Korea Economic Daily · ChosunBiz</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260706090900011">[연합뉴스 이 시각 헤드라인] - 14:30</a> — Yonhap News Agency, 2026-07-06</li>
+<li><a href="https://www.hankyung.com/article/2026070679337">靑 "호남 반도체 클러스터 광주 군공항 부지에 조성키로 결정"</a> — The Korea Economic Daily, 2026-07-06</li>
+<li><a href="https://biz.chosun.com/policy/politics/president_office/2026/07/06/DECWI55ASNFTTET2SHN2MPTARY/">‘800兆 반도체 클러스터’ 광주 군공항 부지에 짓는다</a> — ChosunBiz, 2026-07-06</li>
+</ul>
+</details>

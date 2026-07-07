@@ -31,9 +31,13 @@ The breaking bulletins documented the scale of the fall and the trading halt but
 
 A first-level circuit breaker is a rare event, reserved for the most severe sessions, and its activation signals acute stress across Korean equities rather than a move confined to a single sector or stock. Because the halt sweeps in derivatives alongside cash equities, its effects ripple through hedging and margin positions market-wide. The immediate questions now are whether the index stabilizes when trading resumes after the mandated pause, and whether losses deepen toward the higher circuit-breaker thresholds. Confirmation of the closing level and the drivers behind the drop will require official Korea Exchange data and subsequent market disclosures.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260707038800008)
-- rss_hankyung (https://www.hankyung.com/article/2026070701286)
-- rss_hankyung (https://www.hankyung.com/article/2026070702496)
-- rss_chosunbiz (https://biz.chosun.com/stock/stock_general/2026/07/07/KXLTGELHCFHPDCMGPOVPPP5ZD4/)
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260707105400008)
+<details class="sources">
+<summary>Sources (5) — Yonhap News Agency · The Korea Economic Daily · ChosunBiz</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260707038800008">[속보] 코스피, 하락 출발…다시 8,000선 아래로</a> — Yonhap News Agency, 2026-07-07</li>
+<li><a href="https://www.hankyung.com/article/2026070701286">[속보] 코스피, 장중 7%대 급락…7500선 아래로</a> — The Korea Economic Daily, 2026-07-07</li>
+<li><a href="https://www.hankyung.com/article/2026070702496">[속보] 코스피 8%대 급락에 서킷브레이커 발동</a> — The Korea Economic Daily, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/stock/stock_general/2026/07/07/KXLTGELHCFHPDCMGPOVPPP5ZD4/">[속보] 코스피 8%대 하락세에…서킷브레이커 발동</a> — ChosunBiz, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707105400008">[속보] 코스피, 8%대 급락에 서킷브레이커 발동</a> — Yonhap News Agency, 2026-07-07</li>
+</ul>
+</details>

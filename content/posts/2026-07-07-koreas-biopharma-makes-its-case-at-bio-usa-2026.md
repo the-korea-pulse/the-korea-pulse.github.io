@@ -29,9 +29,13 @@ The push comes as Korea's macroeconomic standing draws fresh external scrutiny, 
 
 The near-term signal from BIO USA 2026 is that Korean biopharma is no longer sending a uniform message. CDMOs sell reliability, analytics firms sell regional reach, discovery-stage companies sell differentiated assets, and established players sell stability. Whether that diversified pitch converts into announced partnerships will become clearer in the deal flow that typically follows the convention by several months.
 
-Sources:
-- "바이넥스, 고객·환자 모두 안심할 수 있는 의약품 CDMO 발돋움" (https://www.hitnews.co.kr/news/articleView.html?idxno=77402)
-- "루다큐어, 안구건조증·통증 파이프라인 경쟁력 제대로 알렸다" (https://www.hitnews.co.kr/news/articleView.html?idxno=77383)
-- "지씨씨엘, APAC 기반 임상 지원 분석 글로벌 파트너로 입지 확대" (https://www.hitnews.co.kr/news/articleView.html?idxno=77427)
-- gov_press_mofe: [보도참고] 경제협력개발기구(OECD) 2026 한국경제보고서 발표 (http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451)
-출처: 재정경제부 보도자료, 공공누리 제1유형
+<details class="sources">
+<summary>Sources (4) — HitNews · Ministry of Economy and Finance</summary>
+<ul>
+<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77402">"바이넥스, 고객·환자 모두 안심할 수 있는 의약품 CDMO 발돋움"</a> — HitNews, 2026-07-06</li>
+<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77383">"루다큐어, 안구건조증·통증 파이프라인 경쟁력 제대로 알렸다"</a> — HitNews, 2026-07-04</li>
+<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77427">"지씨씨엘, APAC 기반 임상 지원 분석 글로벌 파트너로 입지 확대"</a> — HitNews, 2026-07-07</li>
+<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451">[보도참고] 경제협력개발기구(OECD) 2026 한국경제보고서 발표</a> — Ministry of Economy and Finance, 2026-07-02</li>
+</ul>
+<p>출처: 재정경제부 보도자료, 공공누리 제1유형</p>
+</details>

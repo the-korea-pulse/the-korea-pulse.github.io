@@ -29,12 +29,16 @@ For Sejong Telecom, the largest of the five, the capital-increase decision is do
 
 Taken together, the July 6 cluster reads less as a coordinated event than as a snapshot of how mid-cap KOSDAQ names are funding themselves right now: quickly, privately, and through designated investors rather than the open market. The aggregate figure of about 74 billion won across five firms in one session is modest in absolute terms, but the uniformity of the instrument points to a persistent preference for private placement financing among Korea's smaller listed companies.
 
-Sources:
-- 케이바이오랩스, 20억원 유상증자…미래아이앤지에 제3자배정 (https://www.yna.co.kr/view/AKR20260706133100008)
-- 푸드나무, 200억원 제3자배정 유상증자 (https://www.yna.co.kr/view/AKR20260706143600008)
-- 뉴온, 190억원 유상증자…케이피엠테크에 제3자배정 (https://www.yna.co.kr/view/AKR20260706122100008)
-- 세종텔레콤, 280억원 유상증자…세종에 제3자배정 (https://www.yna.co.kr/view/AKR20260706132500008)
-- 텔콘RF제약, 50억원 유상증자…에버코어인베스트먼트홀딩스에 제3자배정 (https://www.yna.co.kr/view/AKR20260706123700008)
-- dart_disclosure: [케이피엠테크] 타법인주식및출자증권취득결정 (https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706900791)
-- dart_disclosure: [세종텔레콤] 주요사항보고서(유상증자결정) (https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706000425)
-출처: 금융감독원 전자공시시스템(DART)
+<details class="sources">
+<summary>Sources (7) — Yonhap News Agency · DART (Financial Supervisory Service)</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260706133100008">케이바이오랩스, 20억원 유상증자…미래아이앤지에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706143600008">푸드나무, 200억원 제3자배정 유상증자</a> — Yonhap News Agency, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706122100008">뉴온, 190억원 유상증자…케이피엠테크에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706132500008">세종텔레콤, 280억원 유상증자…세종에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706123700008">텔콘RF제약, 50억원 유상증자…에버코어인베스트먼트홀딩스에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
+<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706900791">[케이피엠테크] 타법인주식및출자증권취득결정</a> — DART (Financial Supervisory Service), 2026-07-06</li>
+<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706000425">[세종텔레콤] 주요사항보고서(유상증자결정)</a> — DART (Financial Supervisory Service), 2026-07-06</li>
+</ul>
+<p>출처: 금융감독원 전자공시시스템(DART)</p>
+</details>

@@ -29,7 +29,11 @@ That one of Korea's largest employers has adjusted an internal benefit in respon
 
 The change does not eliminate the benefit. Employees who do not own homes remain eligible for the subsidized loans; the reform instead redirects the support toward smaller units in the most sensitive markets. For now, the practical effect is a tighter link between a marquee corporate perk and the same size-based logic that already shapes much of Korea's housing policy—an alignment that other large employers may face pressure to follow.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260705041400003)
-- rss_mk (https://www.mk.co.kr/news/business/12090822)
-- rss_mk (https://www.mk.co.kr/news/business/12090787)
+<details class="sources">
+<summary>Sources (3) — Yonhap News Agency · Maeil Business Newspaper</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260705041400003">삼성전자, 5억원 사내 주택자금 대출 대상 '국평' 이하로 제한</a> — Yonhap News Agency, 2026-07-05</li>
+<li><a href="https://www.mk.co.kr/news/business/12090822">“대출 규제에 삼성도 손봤다”…무주택 직원 사내대출 ‘국민평형’으로 제한</a> — Maeil Business Newspaper, 2026-07-05</li>
+<li><a href="https://www.mk.co.kr/news/business/12090787">“집값 상승 자극한다”…삼성전자, 5억원 사내 주택자금 대출 ‘국평 85㎡’ 이하로 제한</a> — Maeil Business Newspaper, 2026-07-05</li>
+</ul>
+</details>

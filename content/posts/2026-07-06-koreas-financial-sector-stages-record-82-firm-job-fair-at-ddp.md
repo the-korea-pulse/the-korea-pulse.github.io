@@ -23,9 +23,13 @@ Since its 2017 debut, the joint fair has served as a barometer of hiring appetit
 
 The choice of the DDP, a high-traffic landmark in central Seoul, also reflects the FSC's intent to position the event as an accessible, industry-wide showcase rather than a niche recruiting drive. For candidates, the two-day format concentrates access to dozens of employers into a narrow window; for institutions, it offers a shared platform to compete for talent at a moment when the field of participants has never been wider.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260704020400002)
-- rss_chosunbiz (https://biz.chosun.com/stock/stock_general/2026/07/06/GA3WGYJYGNRGKNBYGA3DIZTGMQ/)
-- gov_press_mofe (http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078439)
-- gov_press_mofe (http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078316)
-출처: 재정경제부 보도자료, 공공누리 제1유형
+<details class="sources">
+<summary>Sources (4) — Yonhap News Agency · ChosunBiz · Ministry of Economy and Finance</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260704020400002">다음달 금융권 공동채용 박람회…역대 최대 82개사 참가</a> — Yonhap News Agency, 2026-07-05</li>
+<li><a href="https://biz.chosun.com/stock/stock_general/2026/07/06/GA3WGYJYGNRGKNBYGA3DIZTGMQ/">금융권 공동채용 박람회 내달 19~20일 개최</a> — ChosunBiz, 2026-07-05</li>
+<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078439">물가관계차관회의 개최</a> — Ministry of Economy and Finance, 2026-07-02</li>
+<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078316">국가경쟁력 정책협의회 개최</a> — Ministry of Economy and Finance, 2026-06-24</li>
+</ul>
+<p>출처: 재정경제부 보도자료, 공공누리 제1유형</p>
+</details>

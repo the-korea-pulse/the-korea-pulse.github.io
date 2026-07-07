@@ -25,6 +25,10 @@ For Samsung Electronics, home appliances sit alongside its far larger semiconduc
 
 The publicly released details are limited to the topline: more than 20 million units as of the end of June 2026, measured across global markets since launch. Samsung did not disclose regional breakdowns, revenue contribution, or how the WindFree line performed against competing premium air conditioners. Those gaps mean the milestone is best read as a branding and volume marker rather than a full picture of the product's financial performance.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260705011100003)
-- rss_mk (https://www.mk.co.kr/news/business/12090645)
+<details class="sources">
+<summary>Sources (2) — Yonhap News Agency · Maeil Business Newspaper</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260705011100003">삼성전자 무풍 에어컨 출시 10년…글로벌 누적판매 2천만대 넘어</a> — Yonhap News Agency, 2026-07-05</li>
+<li><a href="https://www.mk.co.kr/news/business/12090645">삼성 무풍 에어컨 10년만에 글로벌 판매 2천만대 대기록</a> — Maeil Business Newspaper, 2026-07-05</li>
+</ul>
+</details>

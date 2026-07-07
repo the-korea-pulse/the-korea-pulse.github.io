@@ -29,9 +29,13 @@ Consistent with that mechanism, Booster's filing with the Financial Supervisory 
 
 Same-day disclosures of this kind are routine on the KOSDAQ, where small and mid-cap firms frequently turn to equity actions for financing or shareholder returns. Read together, the three filings mark the two ends of the equity-action spectrum on a single trading day: Winhitech and JS Link tapping outside investors for cash — about 2 billion won and 53 billion won respectively — while Booster redistributed value internally through a 1-to-1 bonus issue.
 
-Sources:
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260707089500008)
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260707019800008)
-- rss_yna_econ (https://www.yna.co.kr/view/AKR20260707080900008)
-- dart_disclosure (https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707900209)
-출처: 금융감독원 전자공시시스템(DART)
+<details class="sources">
+<summary>Sources (4) — Yonhap News Agency · DART (Financial Supervisory Service)</summary>
+<ul>
+<li><a href="https://www.yna.co.kr/view/AKR20260707089500008">윈하이텍, 20억원 유상증자…에스앤글로벌에 제3자배정</a> — Yonhap News Agency, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707019800008">제이에스링크, 530억원 제3자배정 유상증자</a> — Yonhap News Agency, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707080900008">부스타, 주당 1.0주 무상증자 결정</a> — Yonhap News Agency, 2026-07-07</li>
+<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707900209">[부스타] 주주명부폐쇄기간또는기준일설정</a> — DART (Financial Supervisory Service), 2026-07-07</li>
+</ul>
+<p>출처: 금융감독원 전자공시시스템(DART)</p>
+</details>
