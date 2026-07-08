@@ -29,7 +29,7 @@ For consumers, the practical promise is faster resolution. Bundling high-volume,
 <details class="sources">
 <summary>Sources (2) — Yonhap News Agency · ChosunBiz</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260704037200002">보험협회, 車사고 과실비율 민원 맡는다…9월부턴 불친절 민원도</a> — Yonhap News Agency, 2026-07-05</li>
-<li><a href="https://biz.chosun.com/stock/finance/2026/07/05/UFKXBAPGKNB4NLDZNCYKHMXMOE/">보험협회, 車사고 과실비율 민원 담당…9월부턴 불친절 민원도 처리</a> — ChosunBiz, 2026-07-05</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260704037200002">Yonhap News Agency</a>, 2026-07-05</li>
+<li><a href="https://biz.chosun.com/stock/finance/2026/07/05/UFKXBAPGKNB4NLDZNCYKHMXMOE/">ChosunBiz</a>, 2026-07-05</li>
 </ul>
 </details>

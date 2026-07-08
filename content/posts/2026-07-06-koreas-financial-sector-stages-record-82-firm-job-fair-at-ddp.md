@@ -27,10 +27,10 @@ The choice of the DDP, a high-traffic landmark in central Seoul, also reflects t
 <details class="sources">
 <summary>Sources (4) — Yonhap News Agency · ChosunBiz · Ministry of Economy and Finance</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260704020400002">다음달 금융권 공동채용 박람회…역대 최대 82개사 참가</a> — Yonhap News Agency, 2026-07-05</li>
-<li><a href="https://biz.chosun.com/stock/stock_general/2026/07/06/GA3WGYJYGNRGKNBYGA3DIZTGMQ/">금융권 공동채용 박람회 내달 19~20일 개최</a> — ChosunBiz, 2026-07-05</li>
-<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078439">물가관계차관회의 개최</a> — Ministry of Economy and Finance, 2026-07-02</li>
-<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078316">국가경쟁력 정책협의회 개최</a> — Ministry of Economy and Finance, 2026-06-24</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260704020400002">Yonhap News Agency</a>, 2026-07-05</li>
+<li><a href="https://biz.chosun.com/stock/stock_general/2026/07/06/GA3WGYJYGNRGKNBYGA3DIZTGMQ/">ChosunBiz</a>, 2026-07-05</li>
+<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078439">Ministry of Economy and Finance</a>, 2026-07-02</li>
+<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078316">Ministry of Economy and Finance</a>, 2026-06-24</li>
 </ul>
 <p>출처: 재정경제부 보도자료, 공공누리 제1유형</p>
 </details>

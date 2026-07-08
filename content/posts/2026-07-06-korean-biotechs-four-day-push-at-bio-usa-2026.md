@@ -37,10 +37,10 @@ The broader takeaway is strategic. Korean biotech is presenting itself on two fr
 <details class="sources">
 <summary>Sources (4) — HitNews · Ministry of Economy and Finance</summary>
 <ul>
-<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77402">"바이넥스, 고객·환자 모두 안심할 수 있는 의약품 CDMO 발돋움"</a> — HitNews, 2026-07-06</li>
-<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77383">"루다큐어, 안구건조증·통증 파이프라인 경쟁력 제대로 알렸다"</a> — HitNews, 2026-07-04</li>
-<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77339">"DXVX, 비만·항암·안구건조증 신약물질 사업 개발에 주력"</a> — HitNews, 2026-07-03</li>
-<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451">[보도참고] 경제협력개발기구(OECD) 2026 한국경제보고서 발표</a> — Ministry of Economy and Finance, 2026-07-02</li>
+<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77402">HitNews</a>, 2026-07-06</li>
+<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77383">HitNews</a>, 2026-07-04</li>
+<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77339">HitNews</a>, 2026-07-03</li>
+<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451">Ministry of Economy and Finance</a>, 2026-07-02</li>
 </ul>
 <p>출처: 재정경제부 보도자료, 공공누리 제1유형</p>
 </details>

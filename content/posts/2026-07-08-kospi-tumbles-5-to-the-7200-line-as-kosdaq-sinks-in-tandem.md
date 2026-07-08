@@ -32,11 +32,11 @@ Several questions will determine whether this proves a one-session shock or the 
 <details class="sources">
 <summary>Sources (6) — Maeil Business Newspaper · Yonhap News Agency</summary>
 <ul>
-<li><a href="https://www.mk.co.kr/news/stock/12093452">코스피, 5% 급락해 7,200선…코스닥도 5%대↓</a> — Maeil Business Newspaper, 2026-07-08</li>
-<li><a href="https://www.mk.co.kr/news/stock/12093454">코스피, 5% 급락해 7,200선…코스닥도 5%대↓</a> — Maeil Business Newspaper, 2026-07-08</li>
-<li><a href="https://www.mk.co.kr/news/stock/12093451">코스피, 5% 급락해 7,200선…코스닥도 5%대↓</a> — Maeil Business Newspaper, 2026-07-08</li>
-<li><a href="https://www.mk.co.kr/news/stock/12093450">코스피, 5% 급락해 7,200선…코스닥도 5%대↓</a> — Maeil Business Newspaper, 2026-07-08</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260708135700008">코스피, 5% 급락해 7,200선…코스닥도 5%대↓</a> — Yonhap News Agency, 2026-07-08</li>
-<li><a href="https://www.mk.co.kr/news/stock/12093453">코스피, 5% 급락해 7,200선…코스닥도 5%대↓</a> — Maeil Business Newspaper, 2026-07-08</li>
+<li><a href="https://www.mk.co.kr/news/stock/12093452">Maeil Business Newspaper</a>, 2026-07-08</li>
+<li><a href="https://www.mk.co.kr/news/stock/12093454">Maeil Business Newspaper</a>, 2026-07-08</li>
+<li><a href="https://www.mk.co.kr/news/stock/12093451">Maeil Business Newspaper</a>, 2026-07-08</li>
+<li><a href="https://www.mk.co.kr/news/stock/12093450">Maeil Business Newspaper</a>, 2026-07-08</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260708135700008">Yonhap News Agency</a>, 2026-07-08</li>
+<li><a href="https://www.mk.co.kr/news/stock/12093453">Maeil Business Newspaper</a>, 2026-07-08</li>
 </ul>
 </details>

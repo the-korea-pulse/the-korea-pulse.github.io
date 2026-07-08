@@ -37,25 +37,25 @@ Read together, these transactions describe a metropolitan market sorted less by 
 <details class="sources">
 <summary>Sources (20) — ChosunBiz</summary>
 <ul>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MY2DAYJQGM3DGNDDGUYGMYRRME/">인천 송도동 더샵센트럴시티아파트 59㎡ 6억9900만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQZTSOJVGE3TINZWMMYWGNBTGE/">용인 마북동 블루밍 구성 더센트럴 84㎡ 9억2000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GFTGCMJZGMZWCNLFMYYTSNBVGI/">용인 신갈동 신흥덕 롯데캐슬레이시티 59㎡ 6억500만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GNRDAY3DGFSGEOBXGRRGKNRQMY/">용인 동백동 용인동백두산위브더제니스 69㎡ 6억3000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G43WIMBUMZQTCYZSGBSTSY3GGQ/">인천 송도동 e편한세상송도아파트 70㎡ 5억6000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/HE3TENJQGZTGKZRSGY4TKN3EMU/">인천 송도동 더샵송도마리나베이 84㎡ 6억5000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GIYWIYJQHFSGGMRQGIYDQZDFHE/">용인 중동 신동백롯데캐슬에코1단지 84㎡ 6억4500만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MNTDGZBZGFRTKMBUGIZTENTEMI/">서울 신정동 신정이펜하우스3단지 84㎡ 8억6000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G5TDMOJSMI3WCOLFHBTDOZJRMQ/">수원 화서동 화서주공4단지 59㎡ 8억1000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GI3TEMJZGM4DAZDFHA3DCYTCMQ/">서울 신길동 신길삼성래미안 114㎡ 14억800만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GE2DIYZSGI2TEMRWG5RWCNBVGA/">인천 송도동 송도 SK VIEW 아파트 84㎡ 6억9800만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MIYWCZLEMFRDAZLBGQYDIMTCMU/">서울 대림동 대림현대3차 84㎡ 13억3500만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GBRGMYJQMNRTKMRQGQ3WCZBXMU/">서울 신정동 신정이펜하우스4단지 84㎡ 8억3700만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MEZTKOJSGY2GKNTFG5QTEYJWMY/">용인 구갈동 기흥역센트럴푸르지오 84㎡ 9억8500만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GU2TEMZTME4TMYTFMUZGMYZWME/">하남 망월동 미사강변푸르지오 84㎡ 14억3800만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G4ZGKNRYMZTDKMBSHAYWGMJZGU/">수원 영통동 영통벽적골주공9 59㎡ 6억3200만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GFTDCMRSMI2GMMDBMVRDQZJZME/">용인 중동 신동백롯데캐슬에코1단지 84㎡ 6억5000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQZWENLGGRRTQYJXGNSTQZJWGI/">하남 풍산동 미사강변센트럴자이 96㎡ 16억3500만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GZSTAMDBGFRWMZBVG44WCMZXGQ/">서울 신정동 신트리1단지 49㎡ 8억9000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQZTIYLBMRSWGZDCGU3WMYZYGY/">서울 신정동 신트리3단지 84㎡ 13억8500만원에 거래</a> — ChosunBiz, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MY2DAYJQGM3DGNDDGUYGMYRRME/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQZTSOJVGE3TINZWMMYWGNBTGE/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GFTGCMJZGMZWCNLFMYYTSNBVGI/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GNRDAY3DGFSGEOBXGRRGKNRQMY/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G43WIMBUMZQTCYZSGBSTSY3GGQ/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/HE3TENJQGZTGKZRSGY4TKN3EMU/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GIYWIYJQHFSGGMRQGIYDQZDFHE/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MNTDGZBZGFRTKMBUGIZTENTEMI/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G5TDMOJSMI3WCOLFHBTDOZJRMQ/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GI3TEMJZGM4DAZDFHA3DCYTCMQ/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GE2DIYZSGI2TEMRWG5RWCNBVGA/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MIYWCZLEMFRDAZLBGQYDIMTCMU/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GBRGMYJQMNRTKMRQGQ3WCZBXMU/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MEZTKOJSGY2GKNTFG5QTEYJWMY/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GU2TEMZTME4TMYTFMUZGMYZWME/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G4ZGKNRYMZTDKMBSHAYWGMJZGU/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GFTDCMRSMI2GMMDBMVRDQZJZME/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQZWENLGGRRTQYJXGNSTQZJWGI/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GZSTAMDBGFRWMZBVG44WCMZXGQ/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQZTIYLBMRSWGZDCGU3WMYZYGY/">ChosunBiz</a>, 2026-07-07</li>
 </ul>
 </details>

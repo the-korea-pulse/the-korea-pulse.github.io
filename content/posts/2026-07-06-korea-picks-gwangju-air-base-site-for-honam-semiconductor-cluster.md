@@ -35,8 +35,8 @@ The available signals establish the site and the reported headline scale but lea
 <details class="sources">
 <summary>Sources (3) — Yonhap News Agency · The Korea Economic Daily · ChosunBiz</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260706090900011">[연합뉴스 이 시각 헤드라인] - 14:30</a> — Yonhap News Agency, 2026-07-06</li>
-<li><a href="https://www.hankyung.com/article/2026070679337">靑 "호남 반도체 클러스터 광주 군공항 부지에 조성키로 결정"</a> — The Korea Economic Daily, 2026-07-06</li>
-<li><a href="https://biz.chosun.com/policy/politics/president_office/2026/07/06/DECWI55ASNFTTET2SHN2MPTARY/">‘800兆 반도체 클러스터’ 광주 군공항 부지에 짓는다</a> — ChosunBiz, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706090900011">Yonhap News Agency</a>, 2026-07-06</li>
+<li><a href="https://www.hankyung.com/article/2026070679337">The Korea Economic Daily</a>, 2026-07-06</li>
+<li><a href="https://biz.chosun.com/policy/politics/president_office/2026/07/06/DECWI55ASNFTTET2SHN2MPTARY/">ChosunBiz</a>, 2026-07-06</li>
 </ul>
 </details>

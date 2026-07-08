@@ -30,12 +30,12 @@ Samsung Group traces to a trading firm founded by Lee Byung-chul in 1938 before 
 <details class="sources">
 <summary>Sources (6) — Yonhap News Agency · DART (Financial Supervisory Service)</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260707100951008">2분기 전망치 웃돈 실적에도 삼전 폭락…증권가 평가는(종합)</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260707100900008">2분기 전망치 웃돈 실적에도 삼전 폭락…증권가 평가는</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260707081700008">시장기대 못미쳤나…'역대급 실적' 삼전 급락에 코스피도 출렁</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260707042251008">[특징주] 삼전, 예상 웃돈 실적에도 6.9% 급락…장중 10% 폭락(종합)</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260707081751008">기대 미달? 피크아웃?…'역대급 실적' 삼전 급락에 코스피 출렁(종합)</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000403">[삼성전자] 주요사항보고서(자기주식처분결정)</a> — DART (Financial Supervisory Service), 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707100951008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707100900008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707081700008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707042251008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707081751008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000403">DART (Financial Supervisory Service)</a>, 2026-07-07</li>
 </ul>
 <p>출처: 금융감독원 전자공시시스템(DART)</p>
 </details>

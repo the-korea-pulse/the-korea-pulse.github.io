@@ -30,9 +30,9 @@ The practical test will be whether the declaration's principles translate into c
 <details class="sources">
 <summary>Sources (3) — Yonhap News Agency · HitNews · Ministry of Culture, Sports and Tourism</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260708024000017">[바이오스냅] 동화약품, 노사 화합 선언문 발표</a> — Yonhap News Agency, 2026-07-08</li>
-<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77485">동화약품, 노동조합과 노사화합 선언문 발표</a> — HitNews, 2026-07-08</li>
-<li><a href="http://www.mcst.go.kr/web/s_notice/press/pressView.jsp?pMenuCD=0302000000&pSeq=22570">한국 대중음악의 지속 가능한 성장 위해 정부와 업계 머리 맞대다</a> — Ministry of Culture, Sports and Tourism, 2026-07-08</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260708024000017">Yonhap News Agency</a>, 2026-07-08</li>
+<li><a href="https://www.hitnews.co.kr/news/articleView.html?idxno=77485">HitNews</a>, 2026-07-08</li>
+<li><a href="http://www.mcst.go.kr/web/s_notice/press/pressView.jsp?pMenuCD=0302000000&pSeq=22570">Ministry of Culture, Sports and Tourism</a>, 2026-07-08</li>
 </ul>
 <p>출처: 문화체육관광부 보도자료, 공공누리 제1유형</p>
 </details>

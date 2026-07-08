@@ -28,7 +28,7 @@ Until that final tranche is paid, the arrears remain technically open. The compa
 <details class="sources">
 <summary>Sources (2) — Maeil Business Newspaper · ChosunBiz</summary>
 <ul>
-<li><a href="https://www.mk.co.kr/news/economy/12093411">홈플러스 “5월까지 체불임금 모두 지급 완료…6월분만 남아”</a> — Maeil Business Newspaper, 2026-07-08</li>
-<li><a href="https://biz.chosun.com/distribution/channel/2026/07/08/KGB6QGKGAFCZPCFZH7ECMFTOPU/">홈플러스 “5월 급여까지 지급…6월분 332억원만 남아"</a> — ChosunBiz, 2026-07-08</li>
+<li><a href="https://www.mk.co.kr/news/economy/12093411">Maeil Business Newspaper</a>, 2026-07-08</li>
+<li><a href="https://biz.chosun.com/distribution/channel/2026/07/08/KGB6QGKGAFCZPCFZH7ECMFTOPU/">ChosunBiz</a>, 2026-07-08</li>
 </ul>
 </details>

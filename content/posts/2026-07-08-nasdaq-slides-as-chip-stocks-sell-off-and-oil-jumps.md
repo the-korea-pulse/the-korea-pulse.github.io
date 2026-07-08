@@ -30,7 +30,7 @@ The near-term question is whether the semiconductor pullback reflects a one-day 
 <details class="sources">
 <summary>Sources (2) — ChosunBiz · The Korea Economic Daily</summary>
 <ul>
-<li><a href="https://biz.chosun.com/international/international_general/2026/07/08/P5WO3OAWFZEVZIFMMY66JJ6J7M/">반도체주 급락·유가 급등에 뉴욕증시 하락 마감… 나스닥 1.2%↓</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://www.hankyung.com/article/202607071365i">태평양 건너 삼전 급락에 美 반도체주 매도…나스닥 1.3%↓</a> — The Korea Economic Daily, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/international/international_general/2026/07/08/P5WO3OAWFZEVZIFMMY66JJ6J7M/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://www.hankyung.com/article/202607071365i">The Korea Economic Daily</a>, 2026-07-07</li>
 </ul>
 </details>

@@ -31,10 +31,10 @@ The near-term question is whether the 8,000 line holds as support or proves to b
 <details class="sources">
 <summary>Sources (5) — Yonhap News Agency</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260703118500008">코스피, 5.76% 급반등 8,000선 회복…장중 변동폭 역대 2위(종합)</a> — Yonhap News Agency, 2026-07-03</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260703112100008">코스피, 급락 하루만에 급반등…5.76% 상승 8,000선 회복</a> — Yonhap News Agency, 2026-07-03</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260703084851008">코스피, 5%대↑ 8,000선 회복…삼전·닉스, 8%이상 급반등(종합)</a> — Yonhap News Agency, 2026-07-03</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260703084800008">코스피, 장중 8,000선 회복…4%대 급등</a> — Yonhap News Agency, 2026-07-03</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260703082800008">[속보] 코스피, 장중 8,000선 회복…4%대 급등</a> — Yonhap News Agency, 2026-07-03</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260703118500008">Yonhap News Agency</a>, 2026-07-03</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260703112100008">Yonhap News Agency</a>, 2026-07-03</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260703084851008">Yonhap News Agency</a>, 2026-07-03</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260703084800008">Yonhap News Agency</a>, 2026-07-03</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260703082800008">Yonhap News Agency</a>, 2026-07-03</li>
 </ul>
 </details>

@@ -27,7 +27,7 @@ For fiscal watchers, a high application rate paired with a fully deployed budget
 <details class="sources">
 <summary>Sources (2) — Yonhap News Agency · The Korea Economic Daily</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260704019300530">고유가 지원금 최종 신청률 98%…6조1천123억원 지급</a> — Yonhap News Agency, 2026-07-04</li>
-<li><a href="https://www.hankyung.com/article/2026070454967">고유가 지원금 최종 신청률 98%…총 6조1123억원 지급</a> — The Korea Economic Daily, 2026-07-04</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260704019300530">Yonhap News Agency</a>, 2026-07-04</li>
+<li><a href="https://www.hankyung.com/article/2026070454967">The Korea Economic Daily</a>, 2026-07-04</li>
 </ul>
 </details>

@@ -36,11 +36,11 @@ For investors, the key variables not resolved by the initial disclosures are the
 <details class="sources">
 <summary>Sources (5) — Yonhap News Agency · DART (Financial Supervisory Service)</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260706133100008">케이바이오랩스, 20억원 유상증자…미래아이앤지에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260706122100008">뉴온, 190억원 유상증자…케이피엠테크에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260706132500008">세종텔레콤, 280억원 유상증자…세종에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260706123700008">텔콘RF제약, 50억원 유상증자…에버코어인베스트먼트홀딩스에 제3자배정</a> — Yonhap News Agency, 2026-07-06</li>
-<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706900791">[케이피엠테크] 타법인주식및출자증권취득결정</a> — DART (Financial Supervisory Service), 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706133100008">Yonhap News Agency</a>, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706122100008">Yonhap News Agency</a>, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706132500008">Yonhap News Agency</a>, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706123700008">Yonhap News Agency</a>, 2026-07-06</li>
+<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706900791">DART (Financial Supervisory Service)</a>, 2026-07-06</li>
 </ul>
 <p>출처: 금융감독원 전자공시시스템(DART)</p>
 </details>

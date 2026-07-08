@@ -37,21 +37,21 @@ The June 2026 records reinforce a market where location, not floor area, dictate
 <details class="sources">
 <summary>Sources (16) — ChosunBiz</summary>
 <ul>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GI2GGYRSGFSTCOJQMNQTQNZXGE/">서울 신정동 목동힐스테이트 84㎡ 20억7500만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MRRDGNRTGJRGGZDFGRTDKZTEGI/">서울 당산동5가 당산삼성래미안 115㎡ 24억8000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/G44DSYRUG5QWGMBQHBTDQODDME/">서울 개포동 개포주공6단지 60㎡ 32억원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MU2TCMBXGQ2GINJSGI4GKMRXHA/">서울 영등포동 영등포푸르지오 73㎡ 15억9000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GZRWMOJUGA3TMZTGMNSDQYZWMQ/">서울 우면동 서초힐스 84㎡ 20억2000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MEZGMOBXGUYDSZTFHA4DSYJVGI/">서울 마장동 마장현대 84㎡ 14억원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MM4DMYLCG43GIZTBGU2GMZRQHE/">서울 암사동 암사선사현대 59㎡ 15억2000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/HA4DOMBYGM4DEZRWMQ4TOMZQHE/">서울 삼성동 삼성힐스테이트1단지 31㎡ 17억3000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MMYTOYZRMM3DINZZGMZDQOJUME/">부산 화명동 화명롯데캐슬카이저 171㎡ 10억8000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GY4TQY3DGEYDMNLGGU4TQYTCHE/">서울 잠실동 잠실리센츠 27㎡ 17억3000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GZRWMNLGMZQWKYRUGA2DIMBRGI/">대구 황금동 캐슬골드파크 84㎡ 5억6000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MY4TQZDEGY4GEOBUHE3DAODCGE/">서울 도곡동 도곡렉슬 59㎡ 26억9000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GUZTENBYGVSTKMLEGE2DMNLBGQ/">대구 황금동 캐슬골드파크 116㎡ 5억8000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GFSDMYJWHA2DGNTGGE2TMNTFGA/">서울 잠실동 잠실레이크팰리스 59㎡ 27억원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GI4TAMJZMMYTGM3DG5TGKOBRGI/">서울 잠실동 잠실5단지아파트 82㎡ 42억6500만원에 거래</a> — ChosunBiz, 2026-07-04</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/HFRTMYZRMM3TAOLFG5TDCMBUMY/">서울 신천동 잠실파크리오 59㎡ 26억7000만원에 거래</a> — ChosunBiz, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GI2GGYRSGFSTCOJQMNQTQNZXGE/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MRRDGNRTGJRGGZDFGRTDKZTEGI/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/G44DSYRUG5QWGMBQHBTDQODDME/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MU2TCMBXGQ2GINJSGI4GKMRXHA/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GZRWMOJUGA3TMZTGMNSDQYZWMQ/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MEZGMOBXGUYDSZTFHA4DSYJVGI/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MM4DMYLCG43GIZTBGU2GMZRQHE/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/HA4DOMBYGM4DEZRWMQ4TOMZQHE/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MMYTOYZRMM3DINZZGMZDQOJUME/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GY4TQY3DGEYDMNLGGU4TQYTCHE/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GZRWMNLGMZQWKYRUGA2DIMBRGI/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/MY4TQZDEGY4GEOBUHE3DAODCGE/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GUZTENBYGVSTKMLEGE2DMNLBGQ/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GFSDMYJWHA2DGNTGGE2TMNTFGA/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/GI4TAMJZMMYTGM3DG5TGKOBRGI/">ChosunBiz</a>, 2026-07-04</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/04/HFRTMYZRMM3TAOLFG5TDCMBUMY/">ChosunBiz</a>, 2026-07-04</li>
 </ul>
 </details>

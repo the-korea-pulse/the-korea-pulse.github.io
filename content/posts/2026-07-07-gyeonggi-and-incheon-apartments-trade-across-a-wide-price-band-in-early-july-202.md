@@ -39,17 +39,17 @@ No single trend line runs through the first-week data, and these are individual 
 <details class="sources">
 <summary>Sources (12) — ChosunBiz</summary>
 <ul>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GJRDCZBQGE4DCZLBGA3TGYJXGI/">성남 정자동 정자한솔마을주공5차 42㎡ 11억원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GA4DOOJSGE4DQOJYMY2GGZRTGQ/">수원 영통동 영통황골주공1차 49㎡ 4억8000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GJSDQZLDGEZTMNZRMI3DSYZRHA/">인천 송도동 e편한세상송도아파트 70㎡ 5억9950만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GE2TCMBYMMZTGMLFHEYTGYZQGA/">용인 보정동 죽현마을아이파크1차 84㎡ 12억원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MFQTMODGMQ3WEZJUMU2WKYJWGY/">수원 망포동 영통아이파크캐슬1단지 84㎡ 12억5000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MNTGCZLGGI3DEYLCME2DENJWG4/">수원 율전동 율전밤꽃마을뜨란채 84㎡ 4억2500만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G5RTCN3DMQ2GMYRYMRSDSNRRGA/">인천 동춘동 연수2차 한양 아파트 68㎡ 3억9900만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GY2WGYZRHFRDKZBWGI3GINBRMM/">인천 옥련동 옥련현대2차 59㎡ 2억7000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MU3DQMTDMJSGINBVMZRDOZTFHE/">인천 송도동 송도글로벌캠퍼스푸르지오 115㎡ 9억원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MFQTOYLCGJQTSMRUMRSTGM3FG4/">수원 망포동 힐스테이트 영통아파트 84㎡ 13억8000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQ2DEMTCHEYDEMRYMFRGGZJTGA/">용인 동백동 용인동백두산위브더제니스 78㎡ 6억9000만원에 거래</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/HE2TGZBYMMYGKOBZHBSTOZTDGU/">용인 신봉동 엘지신봉자이2차 122㎡ 8억원에 거래</a> — ChosunBiz, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GJRDCZBQGE4DCZLBGA3TGYJXGI/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GA4DOOJSGE4DQOJYMY2GGZRTGQ/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GJSDQZLDGEZTMNZRMI3DSYZRHA/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GE2TCMBYMMZTGMLFHEYTGYZQGA/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MFQTMODGMQ3WEZJUMU2WKYJWGY/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MNTGCZLGGI3DEYLCME2DENJWG4/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/G5RTCN3DMQ2GMYRYMRSDSNRRGA/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GY2WGYZRHFRDKZBWGI3GINBRMM/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MU3DQMTDMJSGINBVMZRDOZTFHE/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/MFQTOYLCGJQTSMRUMRSTGM3FG4/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/GQ2DEMTCHEYDEMRYMFRGGZJTGA/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/real_estate/aptbot/2026/07/07/HE2TGZBYMMYGKOBZHBSTOZTDGU/">ChosunBiz</a>, 2026-07-07</li>
 </ul>
 </details>

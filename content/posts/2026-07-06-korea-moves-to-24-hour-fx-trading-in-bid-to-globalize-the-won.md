@@ -37,10 +37,10 @@ For now, the message from the finance ministry is one of ambition: that opening 
 <details class="sources">
 <summary>Sources (4) — Yonhap News Agency · Ministry of Economy and Finance</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260706049100011">[연합뉴스 이 시각 헤드라인] - 10:30</a> — Yonhap News Agency, 2026-07-06</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260706014051002">구윤철 "외환시장 24시 개장, 韓자본시장·원화 매력 높일 것"(종합)</a> — Yonhap News Agency, 2026-07-06</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260706014000002">구윤철 "외환시장 24시 개장, 韓자본시장·원화 매력 높일 것"</a> — Yonhap News Agency, 2026-07-05</li>
-<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078479">외환시장 24시간 개장, 원화의 글로벌 도약의 시작</a> — Ministry of Economy and Finance, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706049100011">Yonhap News Agency</a>, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706014051002">Yonhap News Agency</a>, 2026-07-06</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260706014000002">Yonhap News Agency</a>, 2026-07-05</li>
+<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078479">Ministry of Economy and Finance</a>, 2026-07-06</li>
 </ul>
 <p>출처: 재정경제부 보도자료, 공공누리 제1유형</p>
 </details>

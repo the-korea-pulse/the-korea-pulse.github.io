@@ -32,10 +32,10 @@ Taken together, the three disclosures show the range of tools Korean listed comp
 <details class="sources">
 <summary>Sources (4) — Yonhap News Agency · DART (Financial Supervisory Service)</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260707139100008">아센디오, 131억원 유상증자…경남제약에 제3자배정</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260707089500008">윈하이텍, 20억원 유상증자…에스앤글로벌에 제3자배정</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260707080900008">부스타, 주당 1.0주 무상증자 결정</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707900725">[경남제약] 타법인주식및출자증권취득결정</a> — DART (Financial Supervisory Service), 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707139100008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707089500008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707080900008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707900725">DART (Financial Supervisory Service)</a>, 2026-07-07</li>
 </ul>
 <p>출처: 금융감독원 전자공시시스템(DART)</p>
 </details>

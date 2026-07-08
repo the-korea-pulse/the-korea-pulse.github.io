@@ -35,10 +35,10 @@ A first-level circuit breaker is a rare event, reserved for the most severe sess
 <details class="sources">
 <summary>Sources (5) — Yonhap News Agency · The Korea Economic Daily · ChosunBiz</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260707038800008">[속보] 코스피, 하락 출발…다시 8,000선 아래로</a> — Yonhap News Agency, 2026-07-07</li>
-<li><a href="https://www.hankyung.com/article/2026070701286">[속보] 코스피, 장중 7%대 급락…7500선 아래로</a> — The Korea Economic Daily, 2026-07-07</li>
-<li><a href="https://www.hankyung.com/article/2026070702496">[속보] 코스피 8%대 급락에 서킷브레이커 발동</a> — The Korea Economic Daily, 2026-07-07</li>
-<li><a href="https://biz.chosun.com/stock/stock_general/2026/07/07/KXLTGELHCFHPDCMGPOVPPP5ZD4/">[속보] 코스피 8%대 하락세에…서킷브레이커 발동</a> — ChosunBiz, 2026-07-07</li>
-<li><a href="https://www.yna.co.kr/view/AKR20260707105400008">[속보] 코스피, 8%대 급락에 서킷브레이커 발동</a> — Yonhap News Agency, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707038800008">Yonhap News Agency</a>, 2026-07-07</li>
+<li><a href="https://www.hankyung.com/article/2026070701286">The Korea Economic Daily</a>, 2026-07-07</li>
+<li><a href="https://www.hankyung.com/article/2026070702496">The Korea Economic Daily</a>, 2026-07-07</li>
+<li><a href="https://biz.chosun.com/stock/stock_general/2026/07/07/KXLTGELHCFHPDCMGPOVPPP5ZD4/">ChosunBiz</a>, 2026-07-07</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260707105400008">Yonhap News Agency</a>, 2026-07-07</li>
 </ul>
 </details>

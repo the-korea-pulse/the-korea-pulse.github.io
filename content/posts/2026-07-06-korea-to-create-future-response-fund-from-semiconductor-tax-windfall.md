@@ -37,9 +37,9 @@ The immediate questions are procedural and quantitative. Markets and analysts wi
 <details class="sources">
 <summary>Sources (4) — Yonhap News Agency · The Korea Economic Daily · Maeil Business Newspaper · ChosunBiz</summary>
 <ul>
-<li><a href="https://www.yna.co.kr/view/AKR20260705033200001">[속보] 강훈식 "반도체 추가세수로 미래대응기금 신설…미래위해 투자"</a> — Yonhap News Agency, 2026-07-05</li>
-<li><a href="https://www.hankyung.com/article/2026070561487">[속보] 강훈식 "반도체 추가세수로 미래대응기금 신설…미래위해 투자"</a> — The Korea Economic Daily, 2026-07-05</li>
-<li><a href="https://www.mk.co.kr/news/politics/12090577">[속보] 강훈식 “반도체 추가세수로 미래대응기금 신설…미래위해 투자”</a> — Maeil Business Newspaper, 2026-07-05</li>
-<li><a href="https://biz.chosun.com/policy/policy_sub/2026/07/05/IB32VUDDGNB5TBSXE7EBT5KOYU/">강훈식 “반도체 추가 세수로 미래대응기금 신설”</a> — ChosunBiz, 2026-07-05</li>
+<li><a href="https://www.yna.co.kr/view/AKR20260705033200001">Yonhap News Agency</a>, 2026-07-05</li>
+<li><a href="https://www.hankyung.com/article/2026070561487">The Korea Economic Daily</a>, 2026-07-05</li>
+<li><a href="https://www.mk.co.kr/news/politics/12090577">Maeil Business Newspaper</a>, 2026-07-05</li>
+<li><a href="https://biz.chosun.com/policy/policy_sub/2026/07/05/IB32VUDDGNB5TBSXE7EBT5KOYU/">ChosunBiz</a>, 2026-07-05</li>
 </ul>
 </details>

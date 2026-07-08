@@ -33,12 +33,12 @@ For Korean industry, the immediate task is diagnostic: understanding why a compe
 <details class="sources">
 <summary>Sources (7) — The Korea Economic Daily · ChosunBiz · Maeil Business Newspaper</summary>
 <ul>
-<li><a href="https://www.hankyung.com/article/2026070688921">팀코리아, 60조 캐나다 잠수함 수주 불발</a> — The Korea Economic Daily, 2026-07-06</li>
-<li><a href="https://www.hankyung.com/article/2026070688847">캐나다의 선택은 독일…"60조 잠수함 수주전 獨 TKMS 선정" [종합]</a> — The Korea Economic Daily, 2026-07-06</li>
-<li><a href="https://www.hankyung.com/article/2026070688627">[속보] 외신 "캐나다, 잠수함 건조업체로 독일 TKMS 선정"</a> — The Korea Economic Daily, 2026-07-06</li>
-<li><a href="https://biz.chosun.com/industry/company/2026/07/07/VQZQ5XWVINGYZKIZRVNV7YQZFQ/">한화오션, ‘60兆’ 캐나다 잠수함 수주 불발… 우선협상자에 독일</a> — ChosunBiz, 2026-07-06</li>
-<li><a href="https://biz.chosun.com/international/international_general/2026/07/07/NLDB3W5PMBHZ7EP2RKKMTBO7YE/">60조원 캐나다 잠수함 사업, 독일 TKMS 품으로</a> — ChosunBiz, 2026-07-06</li>
-<li><a href="https://www.hankyung.com/article/202607068865i">캐나다 매체 "차세대 잠수함 사업자로 독일 TKMS 낙점"</a> — The Korea Economic Daily, 2026-07-06</li>
-<li><a href="https://www.mk.co.kr/news/world/12091786">캐나다, 차세대 잠수함 사업 … 韓 제치고 독일 TKMS 선정</a> — Maeil Business Newspaper, 2026-07-06</li>
+<li><a href="https://www.hankyung.com/article/2026070688921">The Korea Economic Daily</a>, 2026-07-06</li>
+<li><a href="https://www.hankyung.com/article/2026070688847">The Korea Economic Daily</a>, 2026-07-06</li>
+<li><a href="https://www.hankyung.com/article/2026070688627">The Korea Economic Daily</a>, 2026-07-06</li>
+<li><a href="https://biz.chosun.com/industry/company/2026/07/07/VQZQ5XWVINGYZKIZRVNV7YQZFQ/">ChosunBiz</a>, 2026-07-06</li>
+<li><a href="https://biz.chosun.com/international/international_general/2026/07/07/NLDB3W5PMBHZ7EP2RKKMTBO7YE/">ChosunBiz</a>, 2026-07-06</li>
+<li><a href="https://www.hankyung.com/article/202607068865i">The Korea Economic Daily</a>, 2026-07-06</li>
+<li><a href="https://www.mk.co.kr/news/world/12091786">Maeil Business Newspaper</a>, 2026-07-06</li>
 </ul>
 </details>
