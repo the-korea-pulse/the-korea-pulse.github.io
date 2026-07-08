@@ -5,6 +5,7 @@ draft: false
 description: "Presidential chief of staff Kang Hoon-sik says Korea will channel surplus semiconductor tax revenue into a new fund for future generations."
 slug: "korea-to-create-future-response-fund-from-semiconductor-tax-windfall"
 keywords: ["Future Response Fund", "semiconductor tax revenue", "Kang Hoon-sik", "Lee Jae-myung government", "Korea fiscal policy"]
+categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_mk", "rss_chosunbiz"], "source_urls": ["https://www.yna.co.kr/view/AKR20260705033200001", "https://www.hankyung.com/article/2026070561487", "https://www.mk.co.kr/news/politics/12090577", "https://biz.chosun.com/policy/policy_sub/2026/07/05/IB32VUDDGNB5TBSXE7EBT5KOYU/"], "issue_cluster_id": "c-d1654cf99152"}
 ---

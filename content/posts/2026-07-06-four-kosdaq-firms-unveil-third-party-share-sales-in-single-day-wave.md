@@ -5,6 +5,7 @@ draft: false
 description: "On July 6, four KOSDAQ-listed companies disclosed third-party allotment share issues raising a combined 54 billion won, with KPM Tech's stake purchase confirmed"
 slug: "four-kosdaq-firms-unveil-third-party-share-sales-in-single-day-wave"
 keywords: ["KOSDAQ", "third-party allotment", "paid-in capital increase", "KPM Tech", "Newon", "Sejong Telecom"]
+categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260706133100008", "https://www.yna.co.kr/view/AKR20260706122100008", "https://www.yna.co.kr/view/AKR20260706132500008", "https://www.yna.co.kr/view/AKR20260706123700008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706900791"], "issue_cluster_id": "c-1a59579dfc96"}
 ---

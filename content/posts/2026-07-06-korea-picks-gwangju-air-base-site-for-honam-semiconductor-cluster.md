@@ -5,6 +5,7 @@ draft: false
 description: "South Korea will build its Honam semiconductor cluster on the Gwangju military airport site, a project press reports peg at 800 trillion won."
 slug: "korea-picks-gwangju-air-base-site-for-honam-semiconductor-cluster"
 keywords: ["Honam semiconductor cluster", "Gwangju military airport", "Korea chip investment", "semiconductor site", "regional development"]
+categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_chosunbiz"], "source_urls": ["https://www.yna.co.kr/view/AKR20260706090900011", "https://www.hankyung.com/article/2026070679337", "https://biz.chosun.com/policy/politics/president_office/2026/07/06/DECWI55ASNFTTET2SHN2MPTARY/"], "issue_cluster_id": "c-9c5998234c87"}
 ---

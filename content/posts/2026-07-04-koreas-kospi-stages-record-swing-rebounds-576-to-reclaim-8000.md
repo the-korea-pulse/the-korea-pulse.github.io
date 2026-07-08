@@ -5,6 +5,7 @@ draft: false
 description: "KOSPI fell to the 7,400 range on an 11th day of foreign selling before chipmaker gains flipped the index to a 5.76% close above 8,000."
 slug: "koreas-kospi-stages-record-swing-rebounds-576-to-reclaim-8000"
 keywords: ["KOSPI", "Samsung Electronics", "SK Hynix", "Korean stock market", "foreign investors", "semiconductor rally"]
+categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260703118500008", "https://www.yna.co.kr/view/AKR20260703112100008", "https://www.yna.co.kr/view/AKR20260703084851008", "https://www.yna.co.kr/view/AKR20260703084800008", "https://www.yna.co.kr/view/AKR20260703082800008", "https://www.yna.co.kr/view/AKR20260703064500008", "https://www.yna.co.kr/view/AKR20260703041900008"], "issue_cluster_id": "c-9274f5707f60"}
 ---

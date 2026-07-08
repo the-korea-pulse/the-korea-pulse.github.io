@@ -5,6 +5,7 @@ draft: false
 description: "Samsung Electronics limits its 500-million-won staff housing loans to homes of 85㎡ or less, easing pressure on capital-area prices."
 slug: "samsung-caps-staff-housing-loans-at-85-amid-home-price-concerns"
 keywords: ["Samsung Electronics", "staff housing loan", "national standard size", "Korea housing prices", "employee benefits", "lending regulation"]
+categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_mk", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260705041400003", "https://www.mk.co.kr/news/business/12090822", "https://www.mk.co.kr/news/business/12090787"], "issue_cluster_id": "c-ad3465822233"}
 ---

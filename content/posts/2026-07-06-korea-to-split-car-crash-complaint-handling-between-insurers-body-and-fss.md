@@ -5,6 +5,7 @@ draft: false
 description: "From September, Korea's insurance association will handle car-accident fault-ratio and poor-service complaints, while the FSS keeps formal disputes."
 slug: "korea-to-split-car-crash-complaint-handling-between-insurers-body-and-fss"
 keywords: ["Korea car insurance", "fault ratio complaints", "insurance association", "Financial Supervisory Service", "complaint handling"]
+categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz"], "source_urls": ["https://www.yna.co.kr/view/AKR20260704037200002", "https://biz.chosun.com/stock/finance/2026/07/05/UFKXBAPGKNB4NLDZNCYKHMXMOE/"], "issue_cluster_id": "c-1dad5c972b40"}
 ---

@@ -5,6 +5,7 @@ draft: false
 description: "Korea's high fuel-price relief program closed with a 98% final application rate and 6.11 trillion won disbursed, signaling near-universal reach among eligible r"
 slug: "koreas-fuel-subsidy-hits-98-uptake-611-trillion-won-paid"
 keywords: ["Korea fuel subsidy", "high oil price relief", "98% application rate", "government disbursement", "energy cost support"]
+categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung"], "source_urls": ["https://www.yna.co.kr/view/AKR20260704019300530", "https://www.hankyung.com/article/2026070454967"], "issue_cluster_id": "c-a16f312929f0"}
 ---

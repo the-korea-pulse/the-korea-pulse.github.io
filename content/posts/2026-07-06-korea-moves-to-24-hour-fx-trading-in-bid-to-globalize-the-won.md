@@ -5,6 +5,7 @@ draft: false
 description: "Finance Minister Koo Yun-cheol calls round-the-clock won trading a \"starting point\" for the currency's global rise and a more attractive Korean capital market."
 slug: "korea-moves-to-24-hour-fx-trading-in-bid-to-globalize-the-won"
 keywords: ["Korean won", "24-hour FX market", "Koo Yun-cheol", "capital market reform", "currency internationalization"]
+categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260706049100011", "https://www.yna.co.kr/view/AKR20260706014051002", "https://www.yna.co.kr/view/AKR20260706014000002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078479"], "issue_cluster_id": "c-7773b03de671"}
 ---

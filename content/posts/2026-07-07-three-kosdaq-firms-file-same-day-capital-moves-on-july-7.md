@@ -5,6 +5,7 @@ draft: false
 description: "Winhitech, JS Link and Booster each disclosed capital-structure actions on July 7 — two third-party share sales and one bonus issue on the KOSDAQ market."
 slug: "three-kosdaq-firms-file-same-day-capital-moves-on-july-7"
 keywords: ["KOSDAQ", "third-party allotment", "capital increase", "bonus issue", "Korea equities"]
+categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260707089500008", "https://www.yna.co.kr/view/AKR20260707019800008", "https://www.yna.co.kr/view/AKR20260707080900008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707900209"], "issue_cluster_id": "c-427738edfb5a"}
 ---

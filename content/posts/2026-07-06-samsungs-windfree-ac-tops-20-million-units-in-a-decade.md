@@ -5,6 +5,7 @@ draft: false
 description: "Samsung Electronics says its WindFree air conditioner has passed 20 million cumulative global units, ten years after launch, as of end-June 2026."
 slug: "samsungs-windfree-ac-tops-20-million-units-in-a-decade"
 keywords: ["Samsung Electronics", "WindFree air conditioner", "home appliances", "Korea economy", "global sales"]
+categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260705011100003", "https://www.mk.co.kr/news/business/12090645"], "issue_cluster_id": "c-7627639ee940"}
 ---

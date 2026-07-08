@@ -5,6 +5,7 @@ draft: false
 description: "On July 6, five KOSDAQ-listed companies disclosed third-party allocation rights offerings totaling about 74 billion won, signaling a burst of private placement "
 slug: "five-kosdaq-firms-approve-third-party-share-sales-in-a-single-day"
 keywords: ["KOSDAQ", "third-party allocation", "rights offering", "private placement", "DART disclosure"]
+categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260706133100008", "https://www.yna.co.kr/view/AKR20260706143600008", "https://www.yna.co.kr/view/AKR20260706122100008", "https://www.yna.co.kr/view/AKR20260706132500008", "https://www.yna.co.kr/view/AKR20260706123700008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706900791", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706000425"], "issue_cluster_id": "c-6de9efa8753f"}
 ---

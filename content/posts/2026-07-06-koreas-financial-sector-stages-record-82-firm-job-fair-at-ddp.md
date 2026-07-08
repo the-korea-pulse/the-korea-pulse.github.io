@@ -5,6 +5,7 @@ draft: false
 description: "Korea's FSC will host its largest-ever financial recruitment fair on Aug. 19–20 at Seoul's DDP, drawing 82 banks, insurers and other institutions."
 slug: "koreas-financial-sector-stages-record-82-firm-job-fair-at-ddp"
 keywords: ["Korea financial jobs", "FSC recruitment fair", "DDP", "banking careers", "2026 hiring"]
+categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260704020400002", "https://biz.chosun.com/stock/stock_general/2026/07/06/GA3WGYJYGNRGKNBYGA3DIZTGMQ/", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078439", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078316"], "issue_cluster_id": "c-de7ebeeacf37"}
 ---

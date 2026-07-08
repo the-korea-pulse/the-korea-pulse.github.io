@@ -5,6 +5,7 @@ draft: false
 description: "Korean pharma and biotech firms used a packed four-day BIO USA 2026 schedule to court partners, from Kanaph Therapeutics to SK Biopharm and DXVX."
 slug: "korean-biotechs-four-day-push-at-bio-usa-2026"
 keywords: ["BIO USA 2026", "Korean biotech", "Kanaph Therapeutics", "pharma partnering", "CDMO", "drug development"]
+categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hitnews", "rss_hitnews", "rss_hitnews", "gov_press_mofe"], "source_urls": ["https://www.hitnews.co.kr/news/articleView.html?idxno=77402", "https://www.hitnews.co.kr/news/articleView.html?idxno=77383", "https://www.hitnews.co.kr/news/articleView.html?idxno=77339", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451"], "issue_cluster_id": "c-e64c10ad6199"}
 ---

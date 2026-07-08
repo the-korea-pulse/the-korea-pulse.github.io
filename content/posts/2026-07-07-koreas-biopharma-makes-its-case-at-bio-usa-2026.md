@@ -5,6 +5,7 @@ draft: false
 description: "Korean drugmakers from SK Biopharm to DXVX used BIO USA 2026 to court partners across CDMO, clinical analytics and licensing pipelines."
 slug: "koreas-biopharma-makes-its-case-at-bio-usa-2026"
 keywords: ["BIO USA 2026", "Korean biopharma", "SK Biopharm", "DXVX", "CDMO", "partnering"]
+categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hitnews", "rss_hitnews", "rss_hitnews", "gov_press_mofe"], "source_urls": ["https://www.hitnews.co.kr/news/articleView.html?idxno=77402", "https://www.hitnews.co.kr/news/articleView.html?idxno=77383", "https://www.hitnews.co.kr/news/articleView.html?idxno=77427", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451"], "issue_cluster_id": "c-28f6ad9ffd73"}
 ---

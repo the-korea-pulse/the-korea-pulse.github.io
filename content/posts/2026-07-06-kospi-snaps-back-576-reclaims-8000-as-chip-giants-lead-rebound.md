@@ -5,6 +5,7 @@ draft: false
 description: "KOSPI rebounded 5.76% to reclaim the 8,000 mark one day after a steep sell-off, driven by 8%-plus gains in Samsung Electronics and SK Hynix."
 slug: "kospi-snaps-back-576-reclaims-8000-as-chip-giants-lead-rebound"
 keywords: ["KOSPI", "Korean stocks", "semiconductor rally", "market rebound", "Samsung Electronics", "SK Hynix"]
+categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260703118500008", "https://www.yna.co.kr/view/AKR20260703112100008", "https://www.yna.co.kr/view/AKR20260703084851008", "https://www.yna.co.kr/view/AKR20260703084800008", "https://www.yna.co.kr/view/AKR20260703082800008"], "issue_cluster_id": "c-baaf1dc23eb2"}
 ---

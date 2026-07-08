@@ -5,6 +5,7 @@ draft: false
 description: "Canada has chosen Germany's TKMS over Korea's Hanwha Ocean as preferred builder for its next-generation submarine fleet, a deal worth up to 60 trillion won."
 slug: "canada-picks-germanys-tkms-over-korea-in-43-billion-submarine-race"
 keywords: ["Canada submarine program", "TKMS", "Hanwha Ocean", "Team Korea", "defense export"]
+categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_hankyung", "rss_hankyung", "rss_chosunbiz", "rss_chosunbiz", "rss_hankyung", "rss_mk"], "source_urls": ["https://www.hankyung.com/article/2026070688921", "https://www.hankyung.com/article/2026070688847", "https://www.hankyung.com/article/2026070688627", "https://biz.chosun.com/industry/company/2026/07/07/VQZQ5XWVINGYZKIZRVNV7YQZFQ/", "https://biz.chosun.com/international/international_general/2026/07/07/NLDB3W5PMBHZ7EP2RKKMTBO7YE/", "https://www.hankyung.com/article/202607068865i", "https://www.mk.co.kr/news/world/12091786"], "issue_cluster_id": "c-5a8f1c2af65b"}
 ---
