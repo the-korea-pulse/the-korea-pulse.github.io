@@ -606,6 +606,23 @@
       "slug_hint": "kospi-rebounds-past-7400-as-chip-sentiment-turns",
       "title": "KOSPI Rebounds Past 7,400 as Chip Sentiment Turns",
       "url": "https://the-korea-pulse.github.io/posts/kospi-rebounds-past-7400-as-chip-sentiment-turns/"
+    },
+    {
+      "content_id": "synd:c-9fc2c9d20241",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "Korean won",
+        "USD/KRW exchange rate",
+        "won-dollar",
+        "15:30 reference rate",
+        "currency market"
+      ],
+      "language": "en",
+      "platform": "github_site",
+      "published_at": "2026-07-11T07:05:53.751981Z",
+      "slug_hint": "korean-won-hovers-just-above-1500-to-the-dollar-at-daily-fix",
+      "title": "Korean Won Hovers Just Above 1,500 to the Dollar at Daily Fix",
+      "url": "https://the-korea-pulse.github.io/posts/korean-won-hovers-just-above-1500-to-the-dollar-at-daily-fix/"
     }
   ],
   "version": 1
