@@ -815,6 +815,23 @@
       "slug_hint": "koreas-chip-selloff-sk-hynix-sinks-8-samsung-sheds-4",
       "title": "Korea's Chip Selloff: SK Hynix Sinks 8%, Samsung Sheds 4%",
       "url": "https://the-korea-pulse.github.io/posts/koreas-chip-selloff-sk-hynix-sinks-8-samsung-sheds-4/"
+    },
+    {
+      "content_id": "synd:c-aaf4663694fc",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "Korea Post",
+        "rural banking",
+        "bank branch closures",
+        "financial access",
+        "KFTC"
+      ],
+      "language": "en",
+      "platform": "github_site",
+      "published_at": "2026-07-13T22:06:00.751819Z",
+      "slug_hint": "post-offices-to-fill-the-loan-gap-in-bankless-korean-towns",
+      "title": "Post Offices to Fill the Loan Gap in Bankless Korean Towns",
+      "url": "https://the-korea-pulse.github.io/posts/post-offices-to-fill-the-loan-gap-in-bankless-korean-towns/"
     }
   ],
   "version": 1
