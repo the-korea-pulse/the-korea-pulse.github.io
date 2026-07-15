@@ -956,6 +956,23 @@
       "slug_hint": "samsung-and-sk-hynix-whipsaw-before-closing-higher",
       "title": "Samsung and SK Hynix Whipsaw Before Closing Higher",
       "url": "https://pulse.koreasignals.com/posts/samsung-and-sk-hynix-whipsaw-before-closing-higher/"
+    },
+    {
+      "content_id": "synd:c-ef6b8b04124d",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "KOSPI",
+        "Korean stock market",
+        "semiconductor selloff",
+        "Samsung Electronics",
+        "SK Hynix"
+      ],
+      "language": "en",
+      "platform": "github_site",
+      "published_at": "2026-07-15T22:06:30.206727Z",
+      "slug_hint": "kospi-crashes-895-below-7000-in-chip-led-selloff",
+      "title": "KOSPI Crashes 8.95% Below 7,000 in Chip-Led Selloff",
+      "url": "https://pulse.koreasignals.com/posts/kospi-crashes-895-below-7000-in-chip-led-selloff/"
     }
   ],
   "version": 1
