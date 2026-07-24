@@ -8,6 +8,7 @@ keywords: ["Brent crude", "oil prices", "US-Iran tensions", "Red Sea", "Houthi",
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260722007500072", "https://www.yna.co.kr/view/AKR20260723007100072", "https://www.yna.co.kr/view/AKR20260721006200072", "https://www.mk.co.kr/news/business/12105033"], "issue_cluster_id": "c-f5801bd40ac9"}
+og_image: "images/posts/brent-crude-climbs-past-94-as-us-iran-clash-stokes-supply-fears.jpg"
 ---
 
 Crude oil prices pushed higher for a third straight session and settled near $94 a barrel as a deepening military confrontation between the United States and Iran raised fears of disrupted Middle East supply. On the ICE Futures exchange, the front-month September Brent contract closed at $94.07 a barrel, a gain of 3.36% on the day.

@@ -8,6 +8,7 @@ keywords: ["Korea US investment", "energy sector", "Kim Jung-kwan", "Korea-US tr
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_chosunbiz", "rss_hankyung"], "source_urls": ["https://biz.chosun.com/policy/policy_sub/2026/07/23/EU5SQJY7QRD5NBXKBY3HRMV5GE/", "https://www.hankyung.com/article/2026072305137"], "issue_cluster_id": "c-1a7c4106b844"}
+og_image: "images/posts/koreas-first-major-us-investment-to-center-on-energy-due-by-fall.jpg"
 ---
 
 Korea's first flagship investment project in the United States will be concentrated in the energy sector, and an announcement is expected between August and September, Trade, Industry and Energy Minister Kim Jung-kwan said, indicating that terms are in their closing stages.

@@ -8,6 +8,7 @@ keywords: ["Korean won", "won-dollar exchange rate", "USD/KRW", "Seoul FX market
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_chosunbiz"], "source_urls": ["https://www.yna.co.kr/view/AKR20260720120000002", "https://www.yna.co.kr/view/AKR20260721137700002", "https://www.yna.co.kr/view/AKR20260721139000002", "https://www.yna.co.kr/view/AKR20260722130100002", "https://www.yna.co.kr/view/AKR20260720117400002", "https://www.yna.co.kr/view/AKR20260722128200002", "https://biz.chosun.com/policy/policy_sub/2026/07/22/T2KGSUH7W5GU3NP24TE4IEIY2M/"], "issue_cluster_id": "c-b3aca4606a55"}
+og_image: "images/posts/korean-won-slips-to-1480-per-dollar-at-latest-seoul-fixing.jpg"
 ---
 
 The Korean won weakened to 1,480.1 per U.S. dollar at the 15:30 Seoul benchmark fixing in its most recent session, a rise of 6.7 won in the pair that leaves the currency parked near the weakest levels of the current stretch. The move extends a run in which the won has repeatedly failed to pull back below the 1,470s, underscoring persistent downward pressure on the currency.

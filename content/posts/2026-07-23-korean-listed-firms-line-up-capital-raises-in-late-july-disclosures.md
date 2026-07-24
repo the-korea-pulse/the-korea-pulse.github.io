@@ -8,6 +8,7 @@ keywords: ["Korea capital raise", "third-party allotment", "KOSDAQ", "bonus issu
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260723070100008", "https://www.yna.co.kr/view/AKR20260723122400008", "https://www.yna.co.kr/view/AKR20260721163400008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260723900525"], "issue_cluster_id": "c-05f5f3a75498"}
+og_image: "images/posts/korean-listed-firms-line-up-capital-raises-in-late-july-disclosures.jpg"
 ---
 
 A cluster of Korean listed companies moved to reshape their share structures in the final full week of July, filing three separate capital-raising decisions with the exchange. The plans split into two very different mechanisms: a bonus share issue that hands existing holders more stock without bringing in new money, and two cash-raising placements aimed at named outside investors. Together the two cash deals total 12 billion won.

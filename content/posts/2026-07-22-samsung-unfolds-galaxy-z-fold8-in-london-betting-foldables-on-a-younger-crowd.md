@@ -8,6 +8,7 @@ keywords: ["Samsung", "Galaxy Z Fold8", "Galaxy Unpacked 2026", "foldable phones
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_mk", "rss_yna_econ"], "source_urls": ["https://www.mk.co.kr/news/it/12104832", "https://www.mk.co.kr/news/it/12104512", "https://www.yna.co.kr/view/AKR20260722159700017"], "issue_cluster_id": "c-1b3a0a435cbc"}
+og_image: "images/posts/samsung-unfolds-galaxy-z-fold8-in-london-betting-foldables-on-a-younger-crowd.jpg"
 ---
 
 Samsung took the wraps off its next generation of foldable phones on the 22nd, local time, at Old Billingsgate in London, using the Galaxy Unpacked 2026 stage to launch the Galaxy Z Fold8 and a broadened Galaxy Z lineup pitched squarely at younger users. The headline change is a physical one: when the new Fold is opened, the crease that has defined foldable screens for years has all but disappeared, leaving a display surface that reads as flat to the eye and smooth to the touch.

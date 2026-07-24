@@ -8,6 +8,7 @@ keywords: ["Samsung", "Mistral AI", "France", "AI investment", "strategic stake"
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_chosunbiz"], "source_urls": ["https://www.hankyung.com/article/2026072294967", "https://biz.chosun.com/international/international_economy/2026/07/22/GKYWOVT57VGSNCNV2K5EAYGVLY/"], "issue_cluster_id": "c-921be7c60a1b"}
+og_image: "images/posts/samsung-weighs-hundreds-of-millions-in-mistral-ai-stake.jpg"
 ---
 
 Samsung is in discussions to invest several hundred million euros in Mistral, the French artificial intelligence developer, according to a Financial Times report picked up by Korean business press. Neither company has confirmed the terms, and the talks are described as ongoing rather than settled — but the reported scale, in the hundreds of millions of euros, would rank among the largest external commitments a Korean technology group has made to a European AI firm.

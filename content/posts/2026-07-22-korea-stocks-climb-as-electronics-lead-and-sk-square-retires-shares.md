@@ -8,6 +8,7 @@ keywords: ["KOSPI", "SK Square", "Samsung Electronics", "Hyundai Motor", "share 
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_mk", "dart_disclosure"], "source_urls": ["https://www.mk.co.kr/news/stock/12104443", "https://www.mk.co.kr/news/stock/12103399", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260722800540"], "issue_cluster_id": "c-889e646f8e9e"}
+og_image: "images/posts/korea-stocks-climb-as-electronics-lead-and-sk-square-retires-shares.jpg"
 ---
 
 Korean equities closed firmly higher, with the benchmark KOSPI rising 3.56% in its latest session as electronics and distribution shares set the pace and SK Square advanced alongside a board decision to retire a portion of its own stock. The gains extended a broadly positive tone across the market, with strength rotating through technology, consumer, heavy-industry and financial groups over consecutive sessions.

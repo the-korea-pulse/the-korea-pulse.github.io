@@ -8,6 +8,7 @@ keywords: ["KOSPI", "KOSDAQ", "buy sidecar", "Korean stock market", "market rebo
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_hankyung", "rss_chosunbiz", "rss_hankyung", "rss_hankyung", "rss_yna_econ", "rss_hankyung"], "source_urls": ["https://www.hankyung.com/article/2026072322466", "https://www.hankyung.com/article/2026072322176", "https://biz.chosun.com/stock/stock_general/2026/07/23/5ATR6D5KTRHTNOWEAWSLI4MLRQ/", "https://www.hankyung.com/article/202607216873i", "https://www.hankyung.com/article/2026072166987", "https://www.yna.co.kr/view/AKR20260723141000008", "https://www.hankyung.com/article/2026072319866"], "issue_cluster_id": "c-59058fdf0f0d"}
+og_image: "images/posts/kospi-reclaims-7000-as-buy-sidecars-fire-on-both-korean-boards.jpg"
 ---
 
 Korea's two main equity markets rebounded sharply, with the KOSPI climbing 4.4% to reclaim the 7,000 level and the KOSDAQ jumping more than 5% to recover the 780 mark. The moves were steep enough to trip buy-side sidecars on both boards — an automatic brake that kicks in only when index futures spike hard and fast.

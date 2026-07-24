@@ -8,6 +8,7 @@ keywords: ["Osteotech", "succession", "largest shareholder", "Kim Sung-yeon", "K
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_mk", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260723183500017", "https://www.mk.co.kr/news/it/12105951", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260723901021"], "issue_cluster_id": "c-dab79f316642"}
+og_image: "images/posts/osteotech-founders-stake-passes-to-son-as-succession-closes.jpg"
 ---
 
 Osteotech (KOSDAQ: 039200) has finished transferring the shares of its late founder to his heirs, installing his son Kim Sung-yeon as the company's largest shareholder. Together with related parties, Kim now controls 12.45% of the drug developer, and the family has signaled that the R&D-driven strategy built under the founder will continue unchanged.
