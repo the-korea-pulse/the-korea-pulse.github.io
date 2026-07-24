@@ -8,6 +8,7 @@ keywords: ["Korea GDP", "Q2 growth", "Bank of Korea", "interest rate", "per-capi
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260723120500002", "https://www.yna.co.kr/view/AKR20260723073400002", "https://www.yna.co.kr/view/AKR20260724051500002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078583"], "issue_cluster_id": "c-2ebe2aa8a542"}
+og_image: "images/posts/koreas-q2-growth-surprise-revives-talk-of-a-3-year-and-an-august-rate-move.jpg"
 ---
 
 South Korea's economy expanded faster than forecasters expected in the second quarter, with preliminary data showing real GDP rising 0.6% from the previous quarter and gross domestic income tracking higher alongside it. The upside surprise has done two things at once: it has strengthened the government's case that the economy can reach 3% growth for the full year, and it has pushed some analysts to price in an interest-rate increase from the Bank of Korea as soon as August.
