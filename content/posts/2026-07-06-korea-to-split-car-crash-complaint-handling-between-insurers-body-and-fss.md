@@ -8,6 +8,7 @@ keywords: ["Korea car insurance", "fault ratio complaints", "insurance associati
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz"], "source_urls": ["https://www.yna.co.kr/view/AKR20260704037200002", "https://biz.chosun.com/stock/finance/2026/07/05/UFKXBAPGKNB4NLDZNCYKHMXMOE/"], "issue_cluster_id": "c-1dad5c972b40"}
+og_image: "images/posts/korea-to-split-car-crash-complaint-handling-between-insurers-body-and-fss.jpg"
 ---
 
 Starting in September, South Korea plans to reorganize how consumer complaints about car-accident claims are routed, splitting the workload so that the insurance industry association takes on non-dispute grievances — including questions over fault ratios and, newly, complaints about poor or unhelpful service — while the Financial Supervisory Service (FSS) retains formal, contested disputes. The change is aimed at speeding up the handling of the everyday friction that drivers face after a collision, without pushing every grumble through the regulator.

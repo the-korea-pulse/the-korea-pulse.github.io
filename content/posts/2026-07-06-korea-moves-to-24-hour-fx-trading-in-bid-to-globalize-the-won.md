@@ -8,6 +8,7 @@ keywords: ["Korean won", "24-hour FX market", "Koo Yun-cheol", "capital market r
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260706049100011", "https://www.yna.co.kr/view/AKR20260706014051002", "https://www.yna.co.kr/view/AKR20260706014000002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078479"], "issue_cluster_id": "c-7773b03de671"}
+og_image: "images/posts/korea-moves-to-24-hour-fx-trading-in-bid-to-globalize-the-won.jpg"
 ---
 
 South Korea is preparing to keep its foreign exchange market open around the clock, a structural change that Deputy Prime Minister and Finance Minister Koo Yun-cheol framed on July 6 as the "starting point for the won's global leap." Speaking as the ministry released details of the plan, Koo argued that continuous trading would deepen the appeal of both the won and the wider Korean capital market to overseas investors.

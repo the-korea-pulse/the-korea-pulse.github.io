@@ -8,6 +8,7 @@ keywords: ["Honam semiconductor cluster", "Gwangju military airport", "Korea chi
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_chosunbiz"], "source_urls": ["https://www.yna.co.kr/view/AKR20260706090900011", "https://www.hankyung.com/article/2026070679337", "https://biz.chosun.com/policy/politics/president_office/2026/07/06/DECWI55ASNFTTET2SHN2MPTARY/"], "issue_cluster_id": "c-9c5998234c87"}
+og_image: "images/posts/korea-picks-gwangju-air-base-site-for-honam-semiconductor-cluster.jpg"
 ---
 
 South Korea has settled on the site for its planned Honam semiconductor cluster, choosing the grounds of the Gwangju military airport to anchor what could become one of the country's largest regional industrial projects. Multiple Korean press signals reported the site decision on the same afternoon, with the presidential office cited as the source of the determination.

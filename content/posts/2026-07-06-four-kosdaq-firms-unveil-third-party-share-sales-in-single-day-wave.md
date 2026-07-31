@@ -8,6 +8,7 @@ keywords: ["KOSDAQ", "third-party allotment", "paid-in capital increase", "KPM T
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260706133100008", "https://www.yna.co.kr/view/AKR20260706122100008", "https://www.yna.co.kr/view/AKR20260706132500008", "https://www.yna.co.kr/view/AKR20260706123700008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260706900791"], "issue_cluster_id": "c-1a59579dfc96"}
+og_image: "images/posts/four-kosdaq-firms-unveil-third-party-share-sales-in-single-day-wave.jpg"
 ---
 
 On July 6, four companies listed on South Korea's tech-heavy KOSDAQ market simultaneously disclosed plans to raise capital through third-party allotment share issues, a clustered burst of financing activity that together points to roughly 54 billion won ($40 million range) in new equity commitments. The deals span biotech, telecommunications and pharmaceuticals, and in at least one case the fundraising is tied directly to a strategic investor's own acquisition filing.

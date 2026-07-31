@@ -8,6 +8,7 @@ keywords: ["Samsung Electronics", "WindFree air conditioner", "home appliances",
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260705011100003", "https://www.mk.co.kr/news/business/12090645"], "issue_cluster_id": "c-7627639ee940"}
+og_image: "images/posts/samsungs-windfree-ac-tops-20-million-units-in-a-decade.jpg"
 ---
 
 Samsung Electronics said on July 5 that its "WindFree" air conditioner has surpassed 20 million units in cumulative global sales, a milestone reached roughly a decade after the product line first went on sale. According to the company's disclosure, the figure was tallied as of the end of June 2026, underscoring how a comfort-focused design pitch has scaled into one of the manufacturer's signature appliance franchises.

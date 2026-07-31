@@ -8,6 +8,7 @@ keywords: ["Korea fuel subsidy", "high oil price relief", "98% application rate"
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung"], "source_urls": ["https://www.yna.co.kr/view/AKR20260704019300530", "https://www.hankyung.com/article/2026070454967"], "issue_cluster_id": "c-a16f312929f0"}
+og_image: "images/posts/koreas-fuel-subsidy-hits-98-uptake-611-trillion-won-paid.jpg"
 ---
 
 South Korea's emergency relief program for households and businesses hit by high fuel prices closed with a final application rate of 98% and total disbursements of 6.1123 trillion won, according to figures reported across major Korean financial outlets. The near-total uptake indicates that the payout reached almost every eligible recipient before the application window shut.

@@ -8,6 +8,7 @@ keywords: ["KOSPI", "Korean stocks", "semiconductor rally", "market rebound", "S
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260703118500008", "https://www.yna.co.kr/view/AKR20260703112100008", "https://www.yna.co.kr/view/AKR20260703084851008", "https://www.yna.co.kr/view/AKR20260703084800008", "https://www.yna.co.kr/view/AKR20260703082800008"], "issue_cluster_id": "c-baaf1dc23eb2"}
+og_image: "images/posts/kospi-snaps-back-576-reclaims-8000-as-chip-giants-lead-rebound.jpg"
 ---
 
 South Korea's benchmark KOSPI reclaimed the 8,000 level on the 3rd, surging 5.76 percent in a single session and reversing the previous day's sharp decline. The rebound was powered by a violent swing higher in large-cap semiconductor shares, with intraday price movement ranking as the second-widest on record.

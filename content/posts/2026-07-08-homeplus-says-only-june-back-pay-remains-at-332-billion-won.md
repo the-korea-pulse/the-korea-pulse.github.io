@@ -7,6 +7,7 @@ slug: "homeplus-says-only-june-back-pay-remains-at-332-billion-won"
 keywords: ["Homeplus", "back pay", "wage arrears", "June payroll", "South Korea retail"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_chosunbiz"], "source_urls": ["https://www.mk.co.kr/news/economy/12093411", "https://biz.chosun.com/distribution/channel/2026/07/08/KGB6QGKGAFCZPCFZH7ECMFTOPU/"], "issue_cluster_id": "c-0a3d911bc1dd"}
+og_image: "images/posts/homeplus-says-only-june-back-pay-remains-at-332-billion-won.jpg"
 ---
 
 Homeplus says it has now cleared all overdue wages owed to its workforce through the end of May, leaving only the June payroll outstanding — a remaining balance the company puts at 33.2 billion won.

@@ -7,6 +7,7 @@ slug: "three-seoul-listed-firms-unveil-july-7-share-sales-and-bonus-issue"
 keywords: ["Korean equities", "third-party allotment", "capital raise", "Kyung Nam Pharm", "bonus issue"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260707139100008", "https://www.yna.co.kr/view/AKR20260707089500008", "https://www.yna.co.kr/view/AKR20260707080900008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707900725"], "issue_cluster_id": "c-c4e153f3fe2c"}
+og_image: "images/posts/three-seoul-listed-firms-unveil-july-7-share-sales-and-bonus-issue.jpg"
 ---
 
 Three companies traded on South Korea's two main boards disclosed capital actions in Seoul on July 7, with two turning to third-party share placements to bring in fresh cash and a third rewarding existing holders with additional stock. The most closely watched of the trio has a pharmaceutical maker stepping in as the named investor.

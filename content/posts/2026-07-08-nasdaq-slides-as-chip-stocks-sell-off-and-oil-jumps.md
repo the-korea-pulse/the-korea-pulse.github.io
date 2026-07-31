@@ -7,6 +7,7 @@ slug: "nasdaq-slides-as-chip-stocks-sell-off-and-oil-jumps"
 keywords: ["Nasdaq", "semiconductor stocks", "Samsung Electronics", "oil prices", "U.S. markets"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_chosunbiz", "rss_hankyung"], "source_urls": ["https://biz.chosun.com/international/international_general/2026/07/08/P5WO3OAWFZEVZIFMMY66JJ6J7M/", "https://www.hankyung.com/article/202607071365i"], "issue_cluster_id": "c-bafef1095ef5"}
+og_image: "images/posts/nasdaq-slides-as-chip-stocks-sell-off-and-oil-jumps.jpg"
 ---
 
 U.S. equities finished lower on the session, with the tech-heavy Nasdaq composite dropping roughly 1.2 to 1.3 percent as a broad sell-off in semiconductor shares combined with a sharp rise in oil prices to pull the market down. The decline extended weakness that began earlier in Seoul, where Samsung Electronics fell steeply before U.S. chipmakers opened.

@@ -8,6 +8,7 @@ keywords: ["Korea financial jobs", "FSC recruitment fair", "DDP", "banking caree
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260704020400002", "https://biz.chosun.com/stock/stock_general/2026/07/06/GA3WGYJYGNRGKNBYGA3DIZTGMQ/", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078439", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078316"], "issue_cluster_id": "c-de7ebeeacf37"}
+og_image: "images/posts/koreas-financial-sector-stages-record-82-firm-job-fair-at-ddp.jpg"
 ---
 
 South Korea's financial industry will mount its largest coordinated hiring event to date on August 19 and 20, when 82 institutions gather at the Dongdaemun Design Plaza (DDP) in Seoul for the 2026 Financial Sector Joint Recruitment Fair. The Financial Services Commission (FSC), which announced the plan on July 5, said the turnout is the biggest since the fair was first held in 2017.

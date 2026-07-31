@@ -7,6 +7,7 @@ slug: "why-samsung-shares-slid-despite-an-above-forecast-second-quarter"
 keywords: ["Samsung Electronics", "Kospi", "second-quarter earnings", "semiconductor cycle", "Korea stock market"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260707100951008", "https://www.yna.co.kr/view/AKR20260707100900008", "https://www.yna.co.kr/view/AKR20260707081700008", "https://www.yna.co.kr/view/AKR20260707042251008", "https://www.yna.co.kr/view/AKR20260707081751008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000403"], "issue_cluster_id": "c-ff590de3caf2"}
+og_image: "images/posts/why-samsung-shares-slid-despite-an-above-forecast-second-quarter.jpg"
 ---
 
 Samsung Electronics (Kospi: 005930) sank on July 7 even though its second-quarter results came in ahead of market forecasts, because investors fixed on whether the memory-chip upswing has already peaked rather than on the headline beat. The Kospi's most heavily weighted stock closed down almost 7% after falling as much as roughly 10% intraday, and its slide pulled the wider index lower through the session.

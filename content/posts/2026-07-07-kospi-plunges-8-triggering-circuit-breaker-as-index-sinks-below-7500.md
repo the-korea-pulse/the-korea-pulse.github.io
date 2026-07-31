@@ -8,6 +8,7 @@ keywords: ["KOSPI", "circuit breaker", "Korea stock market", "KRX", "market cras
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_hankyung", "rss_chosunbiz", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260707038800008", "https://www.hankyung.com/article/2026070701286", "https://www.hankyung.com/article/2026070702496", "https://biz.chosun.com/stock/stock_general/2026/07/07/KXLTGELHCFHPDCMGPOVPPP5ZD4/", "https://www.yna.co.kr/view/AKR20260707105400008"], "issue_cluster_id": "c-480c4ef1758f"}
+og_image: "images/posts/kospi-plunges-8-triggering-circuit-breaker-as-index-sinks-below-7500.jpg"
 ---
 
 South Korea's benchmark KOSPI index plunged about 8% in intraday trading, triggering a market-wide circuit breaker that halted trading, according to multiple concurrent breaking reports from Korean financial press. The index opened lower and slid through the 8,000 threshold before extending losses toward the 7,500 level, marking one of the sharpest single-session moves the market has registered.

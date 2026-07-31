@@ -8,6 +8,7 @@ keywords: ["Samsung Electronics", "staff housing loan", "national standard size"
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_mk", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260705041400003", "https://www.mk.co.kr/news/business/12090822", "https://www.mk.co.kr/news/business/12090787"], "issue_cluster_id": "c-ad3465822233"}
+og_image: "images/posts/samsung-caps-staff-housing-loans-at-85-amid-home-price-concerns.jpg"
 ---
 
 Samsung Electronics is narrowing the scope of its subsidized in-house housing loans, restricting the benefit to homes no larger than the so-called "national standard size" of 85 square meters of exclusive floor area in the capital region and major metropolitan cities. The move, reported on July 5, responds to mounting criticism that low-interest corporate loans—unbound by the financial sector's tightening rules—risk adding fuel to already elevated housing prices around Seoul.

@@ -7,6 +7,7 @@ slug: "kospi-tumbles-5-to-the-7200-line-as-kosdaq-sinks-in-tandem"
 keywords: ["KOSPI", "KOSDAQ", "Korean stocks", "market selloff", "Korea equities"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_yna_econ", "rss_mk"], "source_urls": ["https://www.mk.co.kr/news/stock/12093452", "https://www.mk.co.kr/news/stock/12093454", "https://www.mk.co.kr/news/stock/12093451", "https://www.mk.co.kr/news/stock/12093450", "https://www.yna.co.kr/view/AKR20260708135700008", "https://www.mk.co.kr/news/stock/12093453"], "issue_cluster_id": "c-63d4e29a6965"}
+og_image: "images/posts/kospi-tumbles-5-to-the-7200-line-as-kosdaq-sinks-in-tandem.jpg"
 ---
 
 South Korea's two main equity boards fell in unison, with the benchmark KOSPI dropping roughly 5% to the 7,200 line and the tech-heavy KOSDAQ losing more than 5% in the same session. The scale and the synchronized nature of the move — both indices shedding a comparable share of their value on the same day — mark one of the sharper single-day declines for Korean stocks, hitting large caps and smaller growth names alike rather than sparing one segment.

@@ -7,6 +7,7 @@ slug: "dong-wha-pharm-and-its-union-sign-a-labor-management-harmony-pact"
 keywords: ["Dong Wha Pharm", "labor-management harmony", "Korean pharmaceutical industry", "corporate governance", "fourth-generation management"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hitnews", "gov_press_mcst"], "source_urls": ["https://www.yna.co.kr/view/AKR20260708024000017", "https://www.hitnews.co.kr/news/articleView.html?idxno=77485", "http://www.mcst.go.kr/web/s_notice/press/pressView.jsp?pMenuCD=0302000000&pSeq=22570"], "issue_cluster_id": "c-c0fa9c5cef7d"}
+og_image: "images/posts/dong-wha-pharm-and-its-union-sign-a-labor-management-harmony-pact.jpg"
 ---
 
 Dong Wha Pharm and its labor union issued a joint labor-management harmony declaration on July 8, committing to deeper mutual trust, closer cooperation, and a shared push for sustainable growth. The pharmaceutical company (KRX: 000020) framed the pact as a foundation for its next phase rather than a response to any dispute.

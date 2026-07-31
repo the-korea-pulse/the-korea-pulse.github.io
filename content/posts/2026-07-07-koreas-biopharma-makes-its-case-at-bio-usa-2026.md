@@ -8,6 +8,7 @@ keywords: ["BIO USA 2026", "Korean biopharma", "SK Biopharm", "DXVX", "CDMO", "p
 categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hitnews", "rss_hitnews", "rss_hitnews", "gov_press_mofe"], "source_urls": ["https://www.hitnews.co.kr/news/articleView.html?idxno=77402", "https://www.hitnews.co.kr/news/articleView.html?idxno=77383", "https://www.hitnews.co.kr/news/articleView.html?idxno=77427", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451"], "issue_cluster_id": "c-28f6ad9ffd73"}
+og_image: "images/posts/koreas-biopharma-makes-its-case-at-bio-usa-2026.jpg"
 ---
 
 Korea's biopharmaceutical sector arrived at BIO USA 2026 with a clear objective: turn four days of partnering meetings, results presentations and networking into concrete cross-border deals. Across the companies that Korean trade press tracked on the ground, the common thread was positioning — each firm working to convert a differentiated capability into a licensing conversation or a manufacturing mandate rather than simply attending the world's largest biotech gathering.

@@ -8,6 +8,7 @@ keywords: ["KOSDAQ", "third-party allotment", "capital increase", "bonus issue",
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260707089500008", "https://www.yna.co.kr/view/AKR20260707019800008", "https://www.yna.co.kr/view/AKR20260707080900008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707900209"], "issue_cluster_id": "c-427738edfb5a"}
+og_image: "images/posts/three-kosdaq-firms-file-same-day-capital-moves-on-july-7.jpg"
 ---
 
 Three companies listed on South Korea's KOSDAQ market — Winhitech, JS Link and Booster — separately disclosed capital-structure decisions on July 7, a cluster of filings that spanned two paid-in share sales to designated investors and one bonus share distribution to existing holders. The moves reflect two distinct financing motives visible across small-cap Korean issuers: raising fresh cash from outside parties versus rewarding the current shareholder base without new inflows.

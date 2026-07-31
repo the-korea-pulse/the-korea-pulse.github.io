@@ -8,6 +8,7 @@ keywords: ["KOSPI", "Samsung Electronics", "SK Hynix", "Korean stock market", "f
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260703118500008", "https://www.yna.co.kr/view/AKR20260703112100008", "https://www.yna.co.kr/view/AKR20260703084851008", "https://www.yna.co.kr/view/AKR20260703084800008", "https://www.yna.co.kr/view/AKR20260703082800008", "https://www.yna.co.kr/view/AKR20260703064500008", "https://www.yna.co.kr/view/AKR20260703041900008"], "issue_cluster_id": "c-9274f5707f60"}
+og_image: "images/posts/koreas-kospi-stages-record-swing-rebounds-576-to-reclaim-8000.jpg"
 ---
 
 The KOSPI closed up 5.76% on Friday, reclaiming the 8,000 level a single trading day after a sharp sell-off, in a session that produced one of the widest intraday trading ranges in the index's history.
