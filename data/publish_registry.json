@@ -2471,6 +2471,24 @@
       "slug_hint": "sk-hynix-touches-koreas-daily-limit-at-1718000-won-and-analysts-still-see-room",
       "title": "SK Hynix Touches Korea's Daily Limit at 1,718,000 Won — and Analysts Still See Room",
       "url": "https://pulse.koreasignals.com/posts/sk-hynix-touches-koreas-daily-limit-at-1718000-won-and-analysts-still-see-room/"
+    },
+    {
+      "content_id": "synd:c-5618bc97683c",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "Lotte Card",
+        "Financial Services Commission",
+        "data breach",
+        "business suspension",
+        "Korea financial regulation"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-07-31-koreas-fsc-cuts-lotte-card-suspension-to-15-months-over-massive-data-breach.md",
+      "platform": "github_site",
+      "published_at": "2026-08-03T07:02:35.007311Z",
+      "slug_hint": "koreas-fsc-cuts-lotte-card-suspension-to-15-months-over-massive-data-breach",
+      "title": "Korea's FSC Cuts Lotte Card Suspension to 1.5 Months Over Massive Data Breach",
+      "url": "https://pulse.koreasignals.com/posts/koreas-fsc-cuts-lotte-card-suspension-to-15-months-over-massive-data-breach/"
     }
   ],
   "version": 1
