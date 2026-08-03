@@ -8,6 +8,7 @@ keywords: ["SK Hynix", "ADR", "Nasdaq", "memory chips", "Korean stocks", "semico
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260713059551008", "https://www.yna.co.kr/view/AKR20260713059500008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800456"], "issue_cluster_id": "c-20abf007226a"}
+og_image: "images/posts/sk-hynix-shares-pull-back-after-nasdaq-adr-debut.jpg"
 ---
 
 SK Hynix (000660), South Korea's second-largest chipmaker, saw its Seoul-listed shares drop by a double-digit percentage on the first trading day tied to its arrival on the Nasdaq through American depositary receipts (ADRs), a pullback that followed a warm reception for the new U.S. listing. The move illustrates a familiar tension: an enthusiastically received overseas debut can pull capital and attention toward the ADR while pressuring the home-market stock in the near term.

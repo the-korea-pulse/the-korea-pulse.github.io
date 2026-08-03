@@ -8,6 +8,7 @@ keywords: ["KOSPI crash", "circuit breaker", "Korean stocks", "semiconductor sel
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz", "rss_yna_econ", "rss_yna_econ", "rss_mk", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260713117400008", "https://biz.chosun.com/stock/stock_general/2026/07/13/TCCSPM7GQNHHVN2DXILH7PHQ3A/", "https://www.yna.co.kr/view/AKR20260713086100008", "https://www.yna.co.kr/view/AKR20260713120400008", "https://www.mk.co.kr/news/stock/12097158", "https://www.yna.co.kr/view/AKR20260713074400008", "https://www.yna.co.kr/view/AKR20260713091800008", "https://www.yna.co.kr/view/AKR20260713079800008"], "issue_cluster_id": "c-f02f50e25ecd"}
+og_image: "images/posts/kospi-plunges-895-to-6806-as-chip-selloff-shatters-7000-line.jpg"
 ---
 
 South Korea's benchmark KOSPI index collapsed 8.95% on July 13 to close at 6,806, surrendering the psychologically important 7,000 level in one of the sharpest single-day declines the market has recorded. The rout was severe enough to trip the exchange's automatic safeguards, forcing a temporary halt in trading before the index resumed its slide into the close.

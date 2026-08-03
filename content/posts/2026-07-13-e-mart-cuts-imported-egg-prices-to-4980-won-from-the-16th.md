@@ -8,6 +8,7 @@ keywords: ["E-Mart", "imported eggs", "egg prices", "Korea grocery prices", "foo
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260713146500030", "https://www.yna.co.kr/view/AKR20260713146551030", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713800795"], "issue_cluster_id": "c-bf798b06e9f6"}
+og_image: "images/posts/e-mart-cuts-imported-egg-prices-to-4980-won-from-the-16th.jpg"
 ---
 
 Starting the 16th, E-Mart will lower the shelf price of a 30-count carton of imported fresh eggs to 4,980 won, down from 5,890 won, at its stores across South Korea. The roughly 900-won reduction — about a 15 percent cut — applies to the retailer's imported fresh egg line and takes effect chain-wide on the same day.

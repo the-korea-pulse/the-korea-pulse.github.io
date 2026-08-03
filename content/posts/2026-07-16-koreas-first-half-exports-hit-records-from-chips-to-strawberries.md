@@ -8,6 +8,7 @@ keywords: ["Korea exports", "ICT exports", "biopharmaceuticals", "K-fruit", "fir
 categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mfds"], "source_urls": ["https://www.yna.co.kr/view/AKR20260716105800002", "https://www.yna.co.kr/view/AKR20260713148300017", "https://www.yna.co.kr/view/AKR20260715146000057", "https://www.mfds.go.kr/brd/m_99/view.do?seq=50179"], "issue_cluster_id": "c-aa6594dd99af"}
+og_image: "images/posts/koreas-first-half-exports-hit-records-from-chips-to-strawberries.jpg"
 ---
 
 South Korea closed the first half of 2026 with record export tallies spread across an unusually wide range of goods — from advanced semiconductors and biologic medicines to fresh strawberries and refined silver — pointing to a trade base that is broadening beyond its traditional heavy-industry core.

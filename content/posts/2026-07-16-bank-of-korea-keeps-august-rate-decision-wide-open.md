@@ -8,6 +8,7 @@ keywords: ["Bank of Korea", "August rate decision", "monetary policy", "semicond
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260716124400011", "https://www.yna.co.kr/view/AKR20260716096800002", "https://www.yna.co.kr/view/AKR20260715111000011", "https://www.yna.co.kr/view/AKR20260716100951002", "https://www.yna.co.kr/view/AKR20260715096900002", "https://www.yna.co.kr/view/AKR20260716100900002", "https://www.yna.co.kr/view/AKR20260714110900011", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260716000582"], "issue_cluster_id": "c-956a6929fbf9"}
+og_image: "images/posts/bank-of-korea-keeps-august-rate-decision-wide-open.jpg"
 ---
 
 The Bank of Korea has not decided whether to raise its benchmark interest rate in August. Speaking on July 16, Governor Shin Hyun-song said the central bank is keeping every option open and will set policy accordingly, declining to pre-commit to either a hold or an increase ahead of the next rate meeting.

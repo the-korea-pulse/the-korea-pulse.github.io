@@ -8,6 +8,7 @@ keywords: ["Korean biotech", "BIO USA 2026", "Kangstem Biotech", "tech licensing
 categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hitnews", "rss_hitnews", "gov_press_mofe"], "source_urls": ["https://www.hitnews.co.kr/news/articleView.html?idxno=77562", "https://www.hitnews.co.kr/news/articleView.html?idxno=77671", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451"], "issue_cluster_id": "c-0724ec24749e"}
+og_image: "images/posts/korean-biotech-at-bio-2026-kangstem-courts-a-partner-as-data-nears.jpg"
 ---
 
 At BIO USA 2026, South Korea's drug developers arrived to sell, not just to network. Over four days of back-to-back partnering meetings, results briefings and hallway introductions, a cluster of mid-sized Korean biotechs used the industry's largest gathering to move licensing conversations forward — with Kangstem Biotech among the most active, positioning an asset ahead of a Phase 2 readout it expects at the end of July.

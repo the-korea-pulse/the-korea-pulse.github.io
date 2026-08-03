@@ -8,6 +8,7 @@ keywords: ["BIO USA 2026", "Korean biotech", "MediSapiens", "Lotte Biologics", "
 categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hitnews", "rss_hitnews", "gov_press_mofe"], "source_urls": ["https://www.hitnews.co.kr/news/articleView.html?idxno=77579", "https://www.hitnews.co.kr/news/articleView.html?idxno=77570", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451"], "issue_cluster_id": "c-1701900cbe13"}
+og_image: "images/posts/korean-biotech-takes-home-built-strengths-to-bio-usa-2026.jpg"
 ---
 
 When Korean pharmaceutical and biotech executives worked the four days of BIO USA 2026 — moving between partnering meetings, results presentations and networking floors — the common thread was not a new overseas bet but a pitch rooted in capabilities each company had already built inside Korea. From AI-driven genome interpretation to commercial manufacturing know-how, the executives sold the domestic base as the differentiator.

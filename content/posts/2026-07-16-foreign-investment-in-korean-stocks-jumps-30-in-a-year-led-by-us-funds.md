@@ -8,6 +8,7 @@ keywords: ["foreign investment", "Korean equities", "US investors", "semiconduct
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_yna_econ"], "source_urls": ["https://www.mk.co.kr/news/world/12100603", "https://www.yna.co.kr/view/AKR20260714154800003"], "issue_cluster_id": "c-7fada3b02aa5"}
+og_image: "images/posts/foreign-investment-in-korean-stocks-jumps-30-in-a-year-led-by-us-funds.jpg"
 ---
 
 Foreign investment houses stepped up their exposure to major Korean listed companies over the past year, with the number of investment cases climbing roughly 30 percent and US-based firms accounting for more than half of the total. The buying was concentrated in semiconductors and cosmetics, two sectors that anchor Korea's export economy and its consumer brand power.

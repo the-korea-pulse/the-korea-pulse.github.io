@@ -8,6 +8,7 @@ keywords: ["Korea minimum wage 2026", "minimum wage commission", "10700 won", "w
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_hankyung", "rss_hankyung", "rss_yna_econ", "rss_chosunbiz", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.hankyung.com/article/2026071554291", "https://www.yna.co.kr/view/AKR20260714185200530", "https://www.yna.co.kr/view/AKR20260714185500530", "https://www.yna.co.kr/view/AKR20260714185551530", "https://www.yna.co.kr/view/AKR20260714127700530", "https://www.hankyung.com/article/2026071453917", "https://www.hankyung.com/article/2026071454217", "https://www.yna.co.kr/view/AKR20260714186900003", "https://biz.chosun.com/policy/policy_sub/2026/07/14/JFWIXOVJX5HSHMUKRH6WQRBN5Y/", "https://www.yna.co.kr/view/AKR20260714167500530", "https://www.yna.co.kr/view/AKR20260714185552530", "https://www.yna.co.kr/view/AKR20260715000400530"], "issue_cluster_id": "c-e6c59bfe3cf1"}
+og_image: "images/posts/korea-sets-2026-minimum-wage-at-10700-won-an-hour.jpg"
 ---
 
 South Korea's hourly minimum wage will climb to 10,700 won in 2026, up 380 won — or 3.7 percent — from the current 10,320 won, after the country's wage-setting body reached a final figure. For a worker on the standard 209-hour month used to calculate full-time pay, the new floor translates to 2,236,300 won in monthly earnings.

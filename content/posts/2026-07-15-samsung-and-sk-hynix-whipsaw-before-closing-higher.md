@@ -8,6 +8,7 @@ keywords: ["Samsung Electronics", "SK Hynix", "KOSPI", "memory chips", "stock vo
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260714045951008", "https://www.yna.co.kr/view/AKR20260714045900008", "https://www.yna.co.kr/view/AKR20260714137500008", "https://www.yna.co.kr/view/AKR20260714045952008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715000380"], "issue_cluster_id": "c-3774550b88b9"}
+og_image: "images/posts/samsung-and-sk-hynix-whipsaw-before-closing-higher.jpg"
 ---
 
 South Korea's two largest chipmakers, Samsung Electronics and SK Hynix, closed higher on July 14 after a session defined by violent price swings, with both stocks reversing an early sell-off to finish up roughly 3% and dragging the benchmark KOSPI index into positive territory with a gain of more than 1%.

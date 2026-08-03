@@ -8,6 +8,7 @@ keywords: ["US inflation", "June CPI", "producer prices", "PPI", "Federal Reserv
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_hankyung", "gov_press_mofe"], "source_urls": ["https://www.hankyung.com/article/202607145345i", "https://www.hankyung.com/article/202607157906i", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078441"], "issue_cluster_id": "c-fabb94985026"}
+og_image: "images/posts/us-inflation-cools-more-than-expected-in-june-as-prices-broadly-retreat.jpg"
 ---
 
 US inflation slowed more sharply than economists had anticipated in June, as consumer prices cooled to a 3.5% annual pace and wholesale prices fell outright — a two-sided decline that strengthens the case for the Federal Reserve to begin easing interest rates later this year.

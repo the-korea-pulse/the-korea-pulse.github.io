@@ -8,6 +8,7 @@ keywords: ["SK Hynix", "Samsung Electronics", "Korean stock market", "memory chi
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure", "dart_disclosure", "dart_disclosure", "dart_disclosure", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260713035051008", "https://www.yna.co.kr/view/AKR20260713065500008", "https://www.yna.co.kr/view/AKR20260710171900008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000279", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000273", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000269", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000264", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000259", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260713000254"], "issue_cluster_id": "c-924baadb30f9"}
+og_image: "images/posts/koreas-chip-selloff-sk-hynix-sinks-8-samsung-sheds-4.jpg"
 ---
 
 South Korea's two largest chipmakers led a sharp drop on the Seoul exchange on July 13, with SK Hynix falling roughly 8 percent and Samsung Electronics about 4 percent during the session as investors dumped the large-cap names that anchor the country's benchmark index. The slide dragged down semiconductor peers and left the broader market searching for a floor, even as at least one brokerage moved to package the same two stocks into a new retail product.

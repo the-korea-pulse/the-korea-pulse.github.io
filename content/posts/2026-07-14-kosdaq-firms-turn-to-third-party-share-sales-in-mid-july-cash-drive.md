@@ -8,6 +8,7 @@ keywords: ["KOSDAQ", "third-party allotment", "paid-in capital increase", "Graph
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260713145500008", "https://www.yna.co.kr/view/AKR20260714128900008", "https://www.yna.co.kr/view/AKR20260714166200008", "https://www.yna.co.kr/view/AKR20260713078700008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260714000515"], "issue_cluster_id": "c-f4c9f56e3927"}
+og_image: "images/posts/kosdaq-firms-turn-to-third-party-share-sales-in-mid-july-cash-drive.jpg"
 ---
 
 A cluster of KOSDAQ-listed companies moved to raise fresh equity on July 13 and 14, using third-party allotment share sales to bring in cash from designated investors — with Graphy's 12.1 billion won ($8–9 million) placement, partly subscribed by state-linked Korea Securities Finance Corp., the largest of the group.

@@ -8,6 +8,7 @@ keywords: ["Bank of Korea", "interest rate hike", "monetary tightening", "South 
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260716090100003", "https://www.yna.co.kr/view/AKR20260716094000008", "https://www.yna.co.kr/view/AKR20260715168000002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078508"], "issue_cluster_id": "c-799ddd591732"}
+og_image: "images/posts/bank-of-korea-raises-rates-ending-a-35-year-easing-cycle.jpg"
 ---
 
 The Bank of Korea raised its benchmark interest rate on July 16, its first increase in three and a half years and a decisive turn away from the low-rate stance that had underpinned the pandemic-era recovery. The decision opens a tightening cycle whose eventual length — not merely its starting point — has become the central question for borrowers, homeowners and investors across South Korea.

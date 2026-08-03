@@ -8,6 +8,7 @@ keywords: ["KOSPI", "Korean stock market", "semiconductor selloff", "Samsung Ele
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_yna_econ", "rss_hankyung", "rss_mk", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260713117400008", "https://www.hankyung.com/article/2026071571777", "https://www.yna.co.kr/view/AKR20260713120400008", "https://www.hankyung.com/article/2026071571796", "https://www.mk.co.kr/news/stock/12099288", "https://www.yna.co.kr/view/AKR20260713131200008", "https://www.yna.co.kr/view/AKR20260713074400008", "https://www.yna.co.kr/view/AKR20260713079800008"], "issue_cluster_id": "c-ef6b8b04124d"}
+og_image: "images/posts/kospi-crashes-895-below-7000-in-chip-led-selloff.jpg"
 ---
 
 South Korea's benchmark KOSPI index collapsed 8.95% on July 13 to finish at 6,806, surrendering the 7,000 threshold it had only recently claimed, as a steep decline in the country's dominant chipmakers dragged the entire market lower. The single-session drop of nearly nine percent ranks among the most severe the index has posted in a single day.

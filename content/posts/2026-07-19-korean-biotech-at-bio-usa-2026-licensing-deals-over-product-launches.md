@@ -8,6 +8,7 @@ keywords: ["BIO USA 2026", "Korean biotech", "out-licensing", "Curacle", "Daewoo
 categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hitnews", "rss_hitnews", "gov_press_mofe"], "source_urls": ["https://www.hitnews.co.kr/news/articleView.html?idxno=77671", "https://www.hitnews.co.kr/news/articleView.html?idxno=77726", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451"], "issue_cluster_id": "c-5fd3b683db9b"}
+og_image: "images/posts/korean-biotech-at-bio-usa-2026-licensing-deals-over-product-launches.jpg"
 ---
 
 Korean drugmakers went to BIO USA 2026 to sell rights, not products. Across four days of partnering meetings, the delegation from Seoul was dominated by mid-cap developers and contract manufacturers whose business model rests on handing an asset to a larger partner before it ever reaches a patient — and the benchmark they were all measured against was Curacle's 1.6 trillion won out-licensing of MT-103, the single largest deal any of them can point to.

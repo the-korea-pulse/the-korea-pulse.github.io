@@ -8,6 +8,7 @@ keywords: ["SK Hynix", "Chey Tae-won", "SK Group", "AI memory demand", "Korean s
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_yna_econ"], "source_urls": ["https://www.hankyung.com/article/2026071708397", "https://www.yna.co.kr/view/AKR20260717026000003"], "issue_cluster_id": "c-920dffa09179"}
+og_image: "images/posts/chey-tae-won-to-sk-hynix-investors-stop-trading-just-hold.jpg"
 ---
 
 SK Group chairman Chey Tae-won has a blunt message for investors who keep churning SK Hynix shares: hold them. Rather than buying on strength and selling on the first wobble, he argued, shareholders would do better simply staying put — advice he framed around his own read of where artificial intelligence demand is heading.

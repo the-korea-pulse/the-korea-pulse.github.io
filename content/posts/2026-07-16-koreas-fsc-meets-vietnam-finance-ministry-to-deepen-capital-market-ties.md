@@ -8,6 +8,7 @@ keywords: ["Korea Vietnam cooperation", "Financial Services Commission", "capita
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["gov_press_fsc", "rss_yna_econ"], "source_urls": ["https://www.fsc.go.kr/no010101/87346", "https://www.yna.co.kr/view/AKR20260716100500002"], "issue_cluster_id": "c-94f1337e73a3"}
+og_image: "images/posts/koreas-fsc-meets-vietnam-finance-ministry-to-deepen-capital-market-ties.jpg"
 ---
 
 South Korea and Vietnam moved to translate a top-level political commitment into concrete financial policy on July 16, when Financial Services Commission (FSC) Vice Chairman Kwon Dae-young met Nguyen Duc Chi, a deputy minister at Vietnam's Ministry of Finance, at the Government Complex in Seoul. The two officials discussed ways to strengthen cooperation in capital markets, positioning the exchange as a working-level follow-up to the Korea–Vietnam summit held in April 2026.

@@ -8,6 +8,7 @@ keywords: ["US inflation", "June CPI", "consumer prices", "disinflation", "Feder
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_hankyung", "gov_press_mofe"], "source_urls": ["https://www.mk.co.kr/news/world/12098685", "https://www.hankyung.com/article/2026071453517", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078441"], "issue_cluster_id": "c-5aa0babd791d"}
+og_image: "images/posts/us-june-inflation-eases-to-35-below-market-forecasts.jpg"
 ---
 
 US consumer prices rose 3.5% in June from a year earlier, a milder increase than economists had penciled in, according to the monthly reading published by the US Bureau of Labor Statistics. The result marks a step down in the annual pace of inflation and lands below the consensus forecast, easing some of the price pressure that has shaped central bank policy debates.

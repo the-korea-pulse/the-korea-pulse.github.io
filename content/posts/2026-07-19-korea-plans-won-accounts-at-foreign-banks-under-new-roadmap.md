@@ -8,6 +8,7 @@ keywords: ["won internationalization", "Korean won", "foreign exchange reform", 
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_mk", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260718030900002", "https://www.mk.co.kr/news/economy/12101665", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078617", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078508"], "issue_cluster_id": "c-6c7d3171d82e"}
+og_image: "images/posts/korea-plans-won-accounts-at-foreign-banks-under-new-roadmap.jpg"
 ---
 
 An American walking into a bank in New York would, under a plan announced by Korea's Ministry of Economy and Finance, be able to open an account denominated in Korean won and then settle transactions in that currency with another non-resident — without either party touching Korea's onshore banking system. That single scenario is the clearest expression of what the ministry's newly released won internationalization roadmap is trying to achieve: turning a currency that has spent decades ring-fenced by capital controls into one that circulates and clears abroad on its own.

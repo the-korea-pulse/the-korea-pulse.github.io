@@ -8,6 +8,7 @@ keywords: ["Korea Post", "rural banking", "bank branch closures", "financial acc
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260713035800017", "https://www.yna.co.kr/view/AKR20260713035851017", "https://www.mk.co.kr/news/it/12097094"], "issue_cluster_id": "c-aaf4663694fc"}
+og_image: "images/posts/post-offices-to-fill-the-loan-gap-in-bankless-korean-towns.jpg"
 ---
 
 Residents of rural Korean counties that no longer have a commercial bank branch will soon be able to walk into a local post office and apply for a loan from one of the country's four largest banks. Under an agreement between Korea Post, the four major commercial lenders, and the Korea Financial Telecommunications & Clearings Institute (KFTC), the service begins as a pilot on the 20th across 20 farming and fishing communities where bank offices have disappeared.

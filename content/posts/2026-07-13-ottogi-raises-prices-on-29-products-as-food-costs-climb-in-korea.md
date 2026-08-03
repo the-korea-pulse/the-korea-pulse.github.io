@@ -8,6 +8,7 @@ keywords: ["Ottogi", "Korea food prices", "grocery inflation", "price increase",
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_yna_econ"], "source_urls": ["https://www.mk.co.kr/news/business/12097555", "https://www.yna.co.kr/view/AKR20260713153200030"], "issue_cluster_id": "c-2770266f6d58"}
+og_image: "images/posts/ottogi-raises-prices-on-29-products-as-food-costs-climb-in-korea.jpg"
 ---
 
 Ottogi, one of South Korea's largest packaged-food makers, will raise prices on 29 products starting July 16, adding fresh pressure to household grocery bills already strained by rising food costs. The increases span staple pantry goods including curry, glass noodles, ketchup and pepper, with the steepest rise reaching 17 percent.
