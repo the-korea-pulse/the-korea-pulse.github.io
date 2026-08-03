@@ -8,6 +8,7 @@ keywords: ["Shinhan Investment", "cybersecurity", "information protection", "AI 
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.mk.co.kr/news/stock/12094392", "https://www.yna.co.kr/view/AKR20260709063100008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000422"], "issue_cluster_id": "c-01c71f5bc97f"}
+og_image: "images/posts/shinhan-investment-boosts-security-budget-for-the-ai-threat-era.jpg"
 ---
 
 Shinhan Investment & Securities said on July 9 that it is expanding its information-protection budget and hardening its security operations to keep pace with cyber threats that are growing more sophisticated as artificial intelligence spreads. The brokerage put the scale of that commitment at 17.1 billion won, framing the spending as a continuous build-out rather than a one-off upgrade.

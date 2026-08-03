@@ -8,6 +8,7 @@ keywords: ["LS Electric", "collective bargaining", "labor relations", "Koo Ja-ky
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260712023200003", "https://www.mk.co.kr/news/business/12096612"], "issue_cluster_id": "c-20a742c1baae"}
+og_image: "images/posts/ls-electric-settles-labor-pact-without-bargaining-for-second-year.jpg"
 ---
 
 LS Electric has concluded its annual wage and collective bargaining agreement without a single round of negotiation for the second consecutive year, with labor and management sealing the deal on July 10 at LS Yongsan Tower in Seoul's Yongsan district. The outcome, endorsed alongside Chairman Koo Ja-kyun, hands the union its terms while sparing the company the drawn-out standoffs that typically define collective bargaining season at large Korean manufacturers.

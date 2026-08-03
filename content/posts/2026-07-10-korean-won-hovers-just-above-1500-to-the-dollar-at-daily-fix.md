@@ -8,6 +8,7 @@ keywords: ["Korean won", "USD/KRW exchange rate", "won-dollar", "15:30 reference
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_chosunbiz", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260710116000002", "https://www.yna.co.kr/view/AKR20260709149600002", "https://biz.chosun.com/policy/policy_sub/2026/07/10/EASHAUSHRJDHXOYPLTYGADYM7E/", "https://www.yna.co.kr/view/AKR20260709151700002"], "issue_cluster_id": "c-9fc2c9d20241"}
+og_image: "images/posts/korean-won-hovers-just-above-1500-to-the-dollar-at-daily-fix.jpg"
 ---
 
 The Korean won has settled into a narrow band just above 1,500 per U.S. dollar, with the closely watched 15:30 reference rate printing at 1,506.1 on July 9 before retreating to 1,501.4 in the next session — leaving the currency pinned to a level that has become a focal point for local markets.

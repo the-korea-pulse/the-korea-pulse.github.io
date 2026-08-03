@@ -8,6 +8,7 @@ keywords: ["KOTRA", "Korea exports", "Hyundai", "Kia", "auto parts", "CIS trade"
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260708107400003", "https://www.yna.co.kr/view/AKR20260709080900003", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709800425", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000467"], "issue_cluster_id": "c-9f0915199e45"}
+og_image: "images/posts/kotra-widens-export-push-from-mongolia-to-hyundai-kia-supply-chains.jpg"
 ---
 
 South Korea's state trade promoter is pursuing export growth on two fronts at once: opening new ground in the Commonwealth of Independent States (CIS) and shoring up the overseas prospects of the domestic auto-parts industry. The Korea Trade-Investment Promotion Agency (KOTRA) held a CIS trade and investment expansion strategy meeting in Ulaanbaatar, Mongolia, on July 8, and separately joined with Hyundai Motor and Kia to help parts makers step into foreign markets.

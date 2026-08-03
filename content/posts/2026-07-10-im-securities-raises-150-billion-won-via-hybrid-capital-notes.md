@@ -8,6 +8,7 @@ keywords: ["iM Securities", "hybrid capital securities", "perpetual bonds", "Kor
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung"], "source_urls": ["https://www.yna.co.kr/view/AKR20260709097500008", "https://www.hankyung.com/article/2026070953486"], "issue_cluster_id": "c-41544a335ed4"}
+og_image: "images/posts/im-securities-raises-150-billion-won-via-hybrid-capital-notes.jpg"
 ---
 
 iM Securities has raised 150 billion won through an issue of hybrid capital securities, with the proceeds set aside to broaden its asset-management and investment-brokerage operations. The move gives the brokerage a fresh block of long-dated funding to deploy into higher-growth business lines without leaning on conventional debt or a share sale.

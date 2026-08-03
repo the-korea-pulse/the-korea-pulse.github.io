@@ -8,6 +8,7 @@ keywords: ["KOSPI", "SK Hynix", "Samsung Electronics", "memory chips", "market c
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260708086551008", "https://www.yna.co.kr/view/AKR20260708086500008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000691", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000662"], "issue_cluster_id": "c-6cd42de148d9"}
+og_image: "images/posts/samsung-and-sk-hynix-sell-off-reopens-the-kospi-peak-debate.jpg"
 ---
 
 Has the KOSPI reached the ceiling of its memory-driven rally? A stretch of steep daily declines in Samsung Electronics and SK Hynix — the two large-cap chipmakers that carried the index higher through last year's surge — has revived that question, and the answer among market watchers is genuinely split. Some read the pullback as a healthy pause after an overextended run; others see the first crack in the cycle that lifted Korean equities to records.

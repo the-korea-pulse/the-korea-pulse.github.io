@@ -8,6 +8,7 @@ keywords: ["Hong Kong", "offshore wealth management", "Switzerland", "mainland C
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_yna_econ", "rss_mk"], "source_urls": ["https://www.hankyung.com/article/2026071203767", "https://www.yna.co.kr/view/AKR20260712041500073", "https://www.mk.co.kr/news/world/12096383"], "issue_cluster_id": "c-d7ff32eadb60"}
+og_image: "images/posts/hong-kong-overtakes-switzerland-as-top-offshore-wealth-hub.jpg"
 ---
 
 Hong Kong has displaced Switzerland as the world's largest center for offshore wealth management, ending the decades-long reign of the Alpine banking hub that had long defined cross-border private finance. The shift is being driven above all by money flowing out of mainland China and into the territory, where global and regional asset managers are steadily deepening their footprint.

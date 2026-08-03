@@ -8,6 +8,7 @@ keywords: ["SK Hynix", "memory chips", "DRAM", "US debut", "Nasdaq", "Big Three"
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_chosunbiz"], "source_urls": ["https://www.hankyung.com/article/2026071190037", "https://biz.chosun.com/international/international_economy/2026/07/11/ZEL6RJLIKBA2PM3OCUUZU23VNQ/"], "issue_cluster_id": "c-2cbfeb9cc6df"}
+og_image: "images/posts/sk-hynixs-splashy-us-debut-draws-global-attention.jpg"
 ---
 
 SK Hynix stepped onto the American stage this week with a debut striking enough to draw foreign press coverage and praise from senior figures at the Nasdaq exchange. For a company that has spent four decades building one of the world's largest memory-chip operations, the moment served less as an introduction than as a formal arrival before a global audience that increasingly depends on its silicon.

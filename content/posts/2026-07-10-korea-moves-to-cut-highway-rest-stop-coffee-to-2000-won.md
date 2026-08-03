@@ -8,6 +8,7 @@ keywords: ["highway rest stops", "coffee prices", "Korea consumer costs", "rest 
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_hankyung", "rss_hankyung"], "source_urls": ["https://www.mk.co.kr/news/economy/12094816", "https://www.hankyung.com/article/2026070965977", "https://www.hankyung.com/article/2026070963151"], "issue_cluster_id": "c-14c27ea6fd6d"}
+og_image: "images/posts/korea-moves-to-cut-highway-rest-stop-coffee-to-2000-won.jpg"
 ---
 
 A cup of coffee at a Korean highway rest stop that recently cost 4,800 won is being brought down to about 2,000 won, as the government moves to restructure how these roadside service areas are run. The change targets one of the most visible complaints of long-distance drivers: paying premium prices for basic refreshments at captive-audience locations along the expressway.

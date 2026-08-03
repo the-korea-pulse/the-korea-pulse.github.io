@@ -8,6 +8,7 @@ keywords: ["Korea real estate policy", "Lee Jae-myung", "Oh Se-hoon", "housing s
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_mk", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260712017200004", "https://www.hankyung.com/article/2026071299227", "https://www.mk.co.kr/news/realestate/12096349", "https://www.yna.co.kr/view/AKR20260710055251001", "https://www.yna.co.kr/view/AKR20260710055200001"], "issue_cluster_id": "c-eb84e315a982"}
+og_image: "images/posts/lee-to-chair-public-debate-as-seoul-pushes-supply-over-taxes.jpg"
 ---
 
 President Lee Jae-myung will chair an open public debate on housing policy on July 23, opening the administration's approach to supply, financing, and taxation to direct scrutiny rather than settling it behind closed doors. The framing of that agenda has already exposed the central tension of Korea's housing debate: whether the government should lean on tax measures to cool prices or on expanding the housing stock to fix the underlying shortage.

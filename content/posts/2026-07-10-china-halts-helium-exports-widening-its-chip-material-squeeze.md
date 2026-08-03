@@ -8,6 +8,7 @@ keywords: ["China helium export ban", "semiconductor materials", "export control
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_hankyung", "rss_hankyung", "rss_hankyung", "rss_hankyung", "rss_mk"], "source_urls": ["https://www.mk.co.kr/news/world/12095747", "https://www.hankyung.com/article/2026071087527", "https://www.hankyung.com/article/2026071088597", "https://www.hankyung.com/article/2026071088521", "https://www.hankyung.com/article/2026071087037", "https://www.mk.co.kr/news/world/12095748"], "issue_cluster_id": "c-b8137c03352a"}
+og_image: "images/posts/china-halts-helium-exports-widening-its-chip-material-squeeze.jpg"
 ---
 
 China has ordered an immediate halt to helium exports, adding one of the semiconductor industry's hardest-to-substitute gases to a growing list of critical materials it now controls at the border. The measure, announced on July 10 by the Ministry of Commerce together with the General Administration of Customs, takes effect at once and is framed as a temporary suspension rather than a permanent prohibition.

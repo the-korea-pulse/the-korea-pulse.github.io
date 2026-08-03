@@ -8,6 +8,7 @@ keywords: ["Samsung Electronics", "SK Hynix", "leveraged ETF", "KOSPI", "semicon
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_mk", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.mk.co.kr/news/stock/12094853", "https://www.mk.co.kr/news/stock/12093322", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000691", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000662"], "issue_cluster_id": "c-914df03509ca"}
+og_image: "images/posts/koreas-chip-frenzy-and-the-2x-samsungsk-hynix-etf-bet.jpg"
 ---
 
 When investors ask how far Korea's semiconductor rally can run, the clearest answer sits in a single product: the 2x leveraged exchange-traded fund on Samsung Electronics and SK Hynix that began trading on May 27. It packages the country's two largest chipmakers into one instrument that doubles their daily moves, and its arrival marked the point where enthusiasm for memory chips tipped into something closer to a mania. The fund does not tell you when the cycle peaks, but it does show how much risk is now concentrated in a bet that has effectively taken hold of the broader market.

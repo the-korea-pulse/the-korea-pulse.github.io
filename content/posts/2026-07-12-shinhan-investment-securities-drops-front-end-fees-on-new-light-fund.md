@@ -8,6 +8,7 @@ keywords: ["Shinhan Investment Securities", "Light Fund", "front-end sales fee",
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung"], "source_urls": ["https://www.yna.co.kr/view/AKR20260712046500008", "https://www.hankyung.com/article/202607120295i"], "issue_cluster_id": "c-7106148fed14"}
+og_image: "images/posts/shinhan-investment-securities-drops-front-end-fees-on-new-light-fund.jpg"
 ---
 
 Shinhan Investment Securities has launched a new online-only fund lineup branded "Light" that carries no front-end sales charge, part of a broader move to compete on cost in Korea's retail fund market.

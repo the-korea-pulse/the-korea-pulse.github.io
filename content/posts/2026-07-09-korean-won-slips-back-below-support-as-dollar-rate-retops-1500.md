@@ -8,6 +8,7 @@ keywords: ["won dollar exchange rate", "KRW USD", "1500 won", "Korean currency",
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_chosunbiz", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260708133500002", "https://www.yna.co.kr/view/AKR20260709149600002", "https://biz.chosun.com/policy/policy_sub/2026/07/09/5C4CNYLYS5GINPB55CKV3YXSIE/", "https://www.yna.co.kr/view/AKR20260709151700002", "https://www.yna.co.kr/view/AKR20260708135300002"], "issue_cluster_id": "c-bf3303478281"}
+og_image: "images/posts/korean-won-slips-back-below-support-as-dollar-rate-retops-1500.jpg"
 ---
 
 The Korean won weakened back through the psychologically important 1,500-per-dollar level on July 9, with the 15:30 reference rate set at 1,506.1 won, up 7.6 won from the previous session. The move erased a one-day reprieve: just a day earlier, on July 8, the rate had settled at 1,498.5 won, a sharp 29.7-won drop that briefly pulled the pair below the 1,500 threshold.

@@ -8,6 +8,7 @@ keywords: ["E-Mart Q2 earnings", "Hanwha Aerospace", "Korea Investment & Securit
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260710019900008", "https://www.yna.co.kr/view/AKR20260710023600008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000463", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000458"], "issue_cluster_id": "c-ac037ed19403"}
+og_image: "images/posts/korean-brokerages-cut-e-mart-and-hanwha-aerospace-targets-on-q2-doubts.jpg"
 ---
 
 Two of South Korea's brokerage houses opened the July 10 session with cautionary earnings previews, lowering their target prices on retailer E-Mart and defense manufacturer Hanwha Aerospace. In both cases the reasoning was the same: analysts now expect second-quarter operating profit to land below the market consensus, and they marked down their valuations to match.

@@ -8,6 +8,7 @@ keywords: ["Korea summer vacation", "Korea Enterprises Federation", "summer brea
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_yna_econ"], "source_urls": ["https://www.mk.co.kr/news/business/12096359", "https://www.yna.co.kr/view/AKR20260712020500003"], "issue_cluster_id": "c-55ff6f53e2cf"}
+og_image: "images/posts/korean-firms-set-summer-break-at-38-days-clustered-in-early-august.jpg"
 ---
 
 Companies in South Korea plan to give workers an average of 3.8 days off this summer, with the bulk of those breaks concentrated in the opening days of August, according to a survey released on July 12 by the Korea Enterprises Federation (KEF).

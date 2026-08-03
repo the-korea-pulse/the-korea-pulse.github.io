@@ -8,6 +8,7 @@ keywords: ["SK Hynix", "Nasdaq", "ADR listing", "memory chips", "IPO debut"]
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_chosunbiz", "rss_hankyung"], "source_urls": ["https://biz.chosun.com/international/international_economy/2026/07/11/EY4T7RMRIBAHHKI5IDFKCQVZAQ/", "https://www.hankyung.com/article/202607118915i"], "issue_cluster_id": "c-3a1dfa50163c"}
+og_image: "images/posts/sk-hynix-debuts-on-nasdaq-jumping-13-above-its-offer-price.jpg"
 ---
 
 SK Hynix made its Nasdaq debut through American Depositary Receipts and finished its first session well above the offering price, opening at $170 for a gain of roughly 14% and closing the day up about 13%. The strong reception hands one of the world's largest memory-chip makers a direct listing on the U.S. exchange most closely associated with semiconductor and AI investment.

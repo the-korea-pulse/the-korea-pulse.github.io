@@ -8,6 +8,7 @@ keywords: ["LS Electric", "labor relations", "wage agreement", "collective barga
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz"], "source_urls": ["https://www.yna.co.kr/view/AKR20260712023200003", "https://biz.chosun.com/industry/company/2026/07/12/XAQ27SSAHFF3BOGSNSP57DGYTA/"], "issue_cluster_id": "c-0135f174f749"}
+og_image: "images/posts/ls-electric-clinches-second-straight-no-bargaining-labor-deal.jpg"
 ---
 
 LS Electric concluded this year's wage and collective bargaining agreement without holding a formal negotiation round, the second consecutive year the company and its union have settled on that basis. In Korea's often adversarial industrial-relations landscape, a "no-bargaining" settlement means the union accepts the framework put forward by management outright, forgoing the multi-round talks, demand exchanges, and brinkmanship that typically define annual labor negotiations at large manufacturers.

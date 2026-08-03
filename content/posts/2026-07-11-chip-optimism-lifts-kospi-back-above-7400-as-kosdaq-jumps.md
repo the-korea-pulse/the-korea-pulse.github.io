@@ -8,6 +8,7 @@ keywords: ["KOSPI", "KOSDAQ", "semiconductor stocks", "Samsung Electronics", "Ko
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260710071300008", "https://www.yna.co.kr/view/AKR20260710031551008", "https://www.yna.co.kr/view/AKR20260710118651008", "https://www.yna.co.kr/view/AKR20260710118600008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000678"], "issue_cluster_id": "c-566f33e611b1"}
+og_image: "images/posts/chip-optimism-lifts-kospi-back-above-7400-as-kosdaq-jumps.jpg"
 ---
 
 South Korea's benchmark KOSPI index climbed roughly 2.5% on July 10 to reclaim the 7,400 level, with the move driven by a rebound in appetite for semiconductor shares. The smaller, tech-heavy KOSDAQ ran further ahead, jumping about 5.4%, while at the intraday peak the KOSPI's advance widened toward the 3-4% range and briefly approached 7,500.
