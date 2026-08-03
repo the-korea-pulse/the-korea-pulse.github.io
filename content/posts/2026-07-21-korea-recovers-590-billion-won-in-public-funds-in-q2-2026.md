@@ -8,6 +8,7 @@ keywords: ["public funds recovery", "Financial Services Commission", "Korea bail
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "gov_press_fsc"], "source_urls": ["https://www.yna.co.kr/view/AKR20260721045200002", "https://www.fsc.go.kr/no010101/87366"], "issue_cluster_id": "c-5af6d8252f3e"}
+og_image: "images/posts/korea-recovers-590-billion-won-in-public-funds-in-q2-2026.jpg"
 ---
 
 Korea's Financial Services Commission (FSC) recovered 590.1 billion won of previously disbursed public funds during the second quarter of 2026, pushing the cumulative amount recouped since the program began to 123.0 trillion won as of the end of June — a recovery rate of 72.9%. The FSC disclosed the figures on the 21st.

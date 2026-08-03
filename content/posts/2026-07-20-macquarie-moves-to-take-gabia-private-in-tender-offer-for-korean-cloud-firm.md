@@ -8,6 +8,7 @@ keywords: ["Gabia", "Macquarie Asset Management", "tender offer", "voluntary del
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260720095000008", "https://www.yna.co.kr/view/AKR20260720095051008", "https://www.yna.co.kr/view/AKR20260720051400008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260720900339"], "issue_cluster_id": "c-ca962bd72dd5"}
+og_image: "images/posts/macquarie-moves-to-take-gabia-private-in-tender-offer-for-korean-cloud-firm.jpg"
 ---
 
 Macquarie Asset Management is pursuing control of Gabia (KOSDAQ: 079940), the Korean cloud and internet infrastructure company, through a tender offer that the Australian firm intends to follow with a voluntary delisting. Gabia shares jumped to the daily upper limit on July 20 and traded near the offer price, an unusual show of strength on a day when the broader Korean market was weak.

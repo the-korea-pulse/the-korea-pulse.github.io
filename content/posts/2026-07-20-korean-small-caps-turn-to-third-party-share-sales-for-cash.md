@@ -8,6 +8,7 @@ keywords: ["third-party allocation", "rights issue", "KOSDAQ", "Axion Group", "c
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260720131600008", "https://www.yna.co.kr/view/AKR20260720137300008", "https://www.yna.co.kr/view/AKR20260720132300008", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260720900593"], "issue_cluster_id": "c-bced2203bd69"}
+og_image: "images/posts/korean-small-caps-turn-to-third-party-share-sales-for-cash.jpg"
 ---
 
 A cluster of Korean listed companies told regulators on July 20 that their boards had approved private-placement rights issues—new shares sold to a single designated investor rather than existing shareholders—to shore up operating cash and pay down debt. The disclosures span both the main KOSPI board and the smaller-cap KOSDAQ market, and the pattern is familiar: modestly sized raises, each routed to one strategic buyer.

@@ -8,6 +8,7 @@ keywords: ["Samsung", "Galaxy Z Fold8", "foldable phones", "Fold8 Ultra", "KT", 
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260723095700017", "https://www.yna.co.kr/view/AKR20260722133100017", "https://www.yna.co.kr/view/AKR20260724040000017", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724800564", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724000382"], "issue_cluster_id": "c-959c3b57bac2"}
+og_image: "images/posts/samsung-debuts-galaxy-z-fold8-fold8-ultra-and-flip8-in-ai-foldable-push.jpg"
 ---
 
 Samsung Electronics (005930) has introduced a refreshed generation of foldable phones — the Galaxy Z Fold8, a newly created top-tier Fold8 Ultra, and the Galaxy Z Flip8 — positioning the trio as the centerpiece of its push into AI-driven mobile hardware. The most immediately visible change is a reworked screen aspect ratio on the Fold8 that alters how the device feels in the hand from the first grip, while the debut of an "Ultra" foldable signals Samsung's intent to stretch the category upmarket.

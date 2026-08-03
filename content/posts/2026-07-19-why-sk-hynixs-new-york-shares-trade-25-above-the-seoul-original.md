@@ -8,6 +8,7 @@ keywords: ["SK Hynix", "ADR premium", "Korean stock market", "memory chips", "HB
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_yna_econ"], "source_urls": ["https://www.hankyung.com/article/2026071603056", "https://www.yna.co.kr/view/AKR20260717057600008"], "issue_cluster_id": "c-102a3b67240e"}
+og_image: "images/posts/why-sk-hynixs-new-york-shares-trade-25-above-the-seoul-original.jpg"
 ---
 
 SK Hynix's American depositary receipts are changing hands at roughly a 25% premium to the company's ordinary shares in Seoul — a gap that has persisted even through weakness in US semiconductor names. Since an ADR is a claim on the same underlying equity, a spread that wide is not a pricing quirk that arbitrage should erase overnight. It is a statement about who gets to buy the stock, and on what terms.

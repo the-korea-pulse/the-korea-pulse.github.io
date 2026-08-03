@@ -8,6 +8,7 @@ keywords: ["Korea economy", "Ministry of Finance", "monthly economic report", "K
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_chosunbiz", "rss_chosunbiz", "gov_press_mofe"], "source_urls": ["https://biz.chosun.com/stock/stock_general/2026/07/22/MU3WMY3DMNSTSYJVGBSTGMLDMU/", "https://biz.chosun.com/stock/stock_general/2026/07/22/GVSGINBZGU2WKZTDMQZDSNBVMQ/", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078588"], "issue_cluster_id": "c-1ac936d6013f"}
+og_image: "images/posts/koreas-finance-ministry-releases-its-july-2026-economic-assessment.jpg"
 ---
 
 On July 21, 2026, South Korea's Ministry of Finance published its regular monthly review of recent economic conditions, the government's standing reference document on where the domestic economy stands and how it is expected to move in the near term. The release landed on the same day that daily market summaries — covering the most actively traded equities and the won's exchange rate — and a broader set of economic indicators were reported.

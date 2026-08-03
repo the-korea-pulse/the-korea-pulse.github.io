@@ -8,6 +8,7 @@ keywords: ["Koo Yun-cheol", "South Korea economy", "Korea US trade", "Ministry o
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260720050800002", "https://www.yna.co.kr/view/AKR20260720041200002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078583", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078448"], "issue_cluster_id": "c-6bdd0532a980"}
+og_image: "images/posts/koo-yun-cheol-puts-trade-stability-and-felt-relief-at-center-of-seouls-second-ha.jpg"
 ---
 
 South Korea's deputy prime minister for economic affairs, Koo Yun-cheol, used a July 20 appearance to set two markers for the rest of 2026: managing relations with Washington on trade without disruption, and making economic policy visible in ordinary household budgets rather than in aggregate statistics. He described the second half as carrying a dense stack of unresolved economic issues and policy tasks, and framed the government's job as concentrating its capacity where the public can actually register a change.

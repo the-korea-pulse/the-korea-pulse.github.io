@@ -8,6 +8,7 @@ keywords: ["Woori Financial Group", "KB Financial", "Q2 net profit", "Korean ban
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "dart_disclosure", "dart_disclosure", "dart_disclosure", "dart_disclosure", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.yna.co.kr/view/AKR20260724125600002", "https://www.yna.co.kr/view/AKR20260723123100002", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724800552", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724800545", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724000359", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724800494", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724800491", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260724800486"], "issue_cluster_id": "c-cf6fc5cc008b"}
+og_image: "images/posts/woori-nears-record-q2-profit-as-kb-financial-sets-new-high.jpg"
 ---
 
 Woori Financial Group earned roughly 1 trillion won in net profit for the April–June quarter, a 7.4% increase from a year earlier and its second-highest quarterly result on record, according to results the holding company disclosed on July 24. The number lands in the same week that KB Financial Group posted a record 1.99 trillion won, up 14.6%, underscoring how far the sector's most diversified players have pulled ahead of bank-centered peers.

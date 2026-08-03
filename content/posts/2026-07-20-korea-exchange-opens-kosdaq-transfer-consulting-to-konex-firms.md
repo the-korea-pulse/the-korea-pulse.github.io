@@ -8,6 +8,7 @@ keywords: ["Korea Exchange", "KONEX", "KOSDAQ", "transfer listing", "Korean capi
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung"], "source_urls": ["https://www.yna.co.kr/view/AKR20260720101800008", "https://www.hankyung.com/article/2026072045206"], "issue_cluster_id": "c-0bdd4a1c267f"}
+og_image: "images/posts/korea-exchange-opens-kosdaq-transfer-consulting-to-konex-firms.jpg"
 ---
 
 Korea Exchange said on 20 July that it will provide consulting services to KONEX-listed companies preparing to move up to KOSDAQ, an effort to smooth the graduation path from Korea's smallest public market to its main growth board.

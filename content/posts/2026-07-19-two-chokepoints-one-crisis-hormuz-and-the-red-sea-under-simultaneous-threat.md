@@ -8,6 +8,7 @@ keywords: ["Strait of Hormuz", "Red Sea shipping", "oil prices", "Korea energy s
 categories: ["Trade & Industry"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hankyung", "rss_mk"], "source_urls": ["https://www.hankyung.com/article/2026071819577", "https://www.mk.co.kr/news/world/12101439"], "issue_cluster_id": "c-febb321b3d42"}
+og_image: "images/posts/two-chokepoints-one-crisis-hormuz-and-the-red-sea-under-simultaneous-threat.jpg"
 ---
 
 If both the Strait of Hormuz and the Red Sea were disrupted at the same time, the world would lose the two arteries that carry the bulk of seaborne crude eastward and the bulk of Asia-Europe container traffic westward — simultaneously. Korean press coverage this week framed that scenario in unusually blunt terms: not a shipping inconvenience, but a plausible trigger for global recession. The scenario is not yet reality. But the fact that it is now being priced as a joint risk rather than two separate ones is itself the news.

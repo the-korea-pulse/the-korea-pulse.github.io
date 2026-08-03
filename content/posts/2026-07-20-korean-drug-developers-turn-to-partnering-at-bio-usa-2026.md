@@ -8,6 +8,7 @@ keywords: ["Bio USA 2026", "Korean biotech", "pharmaceutical partnering", "CDMO"
 categories: ["Pharma & Bio"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_hitnews", "rss_hitnews", "rss_hitnews", "gov_press_mofe"], "source_urls": ["https://www.hitnews.co.kr/news/articleView.html?idxno=77751", "https://www.hitnews.co.kr/news/articleView.html?idxno=77736", "https://www.hitnews.co.kr/news/articleView.html?idxno=77656", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078451"], "issue_cluster_id": "c-c46df3317dcf"}
+og_image: "images/posts/korean-drug-developers-turn-to-partnering-at-bio-usa-2026.jpg"
 ---
 
 A wide slate of South Korean pharmaceutical and biotech companies spent four intensive days at Bio USA 2026 focused less on ceremony than on deal-making, packing the schedule with partnering meetings, results presentations, and networking. The delegation spanned early-stage platform developers, contract manufacturers, and established drugmakers, reflecting how central out-licensing and cross-border collaboration have become to Korea's drug industry.

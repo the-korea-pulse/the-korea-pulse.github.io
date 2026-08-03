@@ -8,6 +8,7 @@ keywords: ["Korea youth unemployment", "college graduate jobless", "Korean labor
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_yna_econ", "rss_hankyung"], "source_urls": ["https://www.mk.co.kr/news/society/12101613", "https://www.yna.co.kr/view/AKR20260718003600002", "https://www.hankyung.com/article/2026071923867"], "issue_cluster_id": "c-7a99a50c7ef2"}
+og_image: "images/posts/south-koreas-college-graduate-jobless-total-tops-480000-a-five-year-high.jpg"
 ---
 
 More than 480,000 South Koreans holding a two-year or four-year college degree were counted as unemployed in the second quarter of 2026 — the highest quarterly total in five years, and a figure that lands squarely on the youngest end of the workforce. People in their 20s and 30s account for 64 percent of that group, meaning roughly two out of every three jobless graduates are at the stage of life when a career is supposed to be starting rather than stalling.
