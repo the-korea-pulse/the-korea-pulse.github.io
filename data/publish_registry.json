@@ -3366,6 +3366,25 @@
       "slug_hint": "nh-investment-securities-hosts-nyse-chief-for-capital-market-talks-in-seoul",
       "title": "NH Investment & Securities Hosts NYSE Chief for Capital Market Talks in Seoul",
       "url": "https://pulse.koreasignals.com/posts/nh-investment-securities-hosts-nyse-chief-for-capital-market-talks-in-seoul/"
+    },
+    {
+      "content_id": "synd:c-ffd3dbf5fb07",
+      "gate_version": "1.2.0",
+      "keywords": [
+        "KOSPI",
+        "KOSDAQ",
+        "Korean stock market",
+        "semiconductor stocks",
+        "buy sidecar",
+        "Seoul shares"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-08-12-kospi-jumps-368-to-6579-as-chip-rally-ends-kosdaqs-turn-in-the-lead.md",
+      "platform": "github_site",
+      "published_at": "2026-08-13T07:01:13.576817Z",
+      "slug_hint": "kospi-jumps-368-to-6579-as-chip-rally-ends-kosdaqs-turn-in-the-lead",
+      "title": "KOSPI Jumps 3.68% to 6,579 as Chip Rally Ends KOSDAQ's Turn in the Lead",
+      "url": "https://pulse.koreasignals.com/posts/kospi-jumps-368-to-6579-as-chip-rally-ends-kosdaqs-turn-in-the-lead/"
     }
   ],
   "version": 1
