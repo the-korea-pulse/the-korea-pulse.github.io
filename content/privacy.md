@@ -11,7 +11,7 @@ This policy explains what data is collected on **The Korea Pulse** (this website
 
 ## Advertising cookies
 
-Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to users based on their visits to this site and/or other sites on the internet.
+This website uses **Google AdSense** to serve advertising. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to users based on their visits to this site and/or other sites on the internet. Details on how Google uses data from sites that use its services, including AdSense, are available at [Google's Ads Technology page](https://policies.google.com/technologies/ads).
 
 Users may opt out of personalized advertising by visiting [Google's Ads Settings](https://adssettings.google.com/). Alternatively, users can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](https://www.aboutads.info/choices/).
 

@@ -102,7 +102,7 @@ timeZone = "Asia/Seoul"
   # WP-55: 네이버 서치어드바이저 HTML 태그 인증 (프로퍼티별 토큰 — 사이트마다 다름)
   verify_naver   = "41b5be67253f6925ad5907b396e1913a39055eb4"
   verify_bing    = ""
-  adsense_pub_id = ""
+  adsense_pub_id = "ca-pub-7608448237186938"
   daum_verification = ""
   show_term_chips = true
   accent_color   = "#0057b8"
