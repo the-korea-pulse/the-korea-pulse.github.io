@@ -90,6 +90,7 @@ timeZone = "Asia/Seoul"
   tier           = "B"
   websubhub      = "https://pubsubhubbub.appspot.com/"
   googleprune    = true  # 축 A 없는 글은 구글에만 noindex·사이트맵 제외(테마 is-google-pruned.html). false로 되돌리면 원복
+  disclaimer     = true  # 금융(YMYL) — 기사 하단 투자 면책(테마 partials/disclaimer.html, §0-69)
   description    = "English-language analysis of Korea's economy, markets, and policy — synthesized from multiple Korean sources."
   og_site_name   = "The Korea Pulse"
   og_locale      = "en_US"
