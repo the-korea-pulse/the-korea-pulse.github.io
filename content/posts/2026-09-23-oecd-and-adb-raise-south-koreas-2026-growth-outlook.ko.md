@@ -24,9 +24,9 @@ ADB는 한국의 2027년 성장률을 **2.3%**, OECD는 **2.6%**로 전망했다
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 국제수지(상품수지, 한국은행) | -7461.6 백만달러 | 202606/202607 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 국제수지(상품수지, 한국은행) | 직전 기간 대비 증감 | −7,461.6 백만달러 | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (5) — Yonhap News Agency · Maeil Business Newspaper · Ministry of Economy and Finance</summary>

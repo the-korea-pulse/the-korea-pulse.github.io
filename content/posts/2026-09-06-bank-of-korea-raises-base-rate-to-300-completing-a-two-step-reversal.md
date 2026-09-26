@@ -39,10 +39,10 @@ At 3.00%, policy sits exactly where it did before the February 2025 cut, and 50 
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Base rate (Bank of Korea) | 25.0 bp | 2026-08-27 |
-| Base rate (Bank of Korea) | 6.0 count | 2026-08-27 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Base rate (Bank of Korea) | Change from the previous period | +25 bp | 2026-08-27 |
+| Base rate (Bank of Korea) | Rate changes within the review window | 6 | 2026-08-27 |
 
 <details class="sources">
 <summary>Sources (2) — Bank of Korea (ECOS) · DART (Financial Supervisory Service)</summary>

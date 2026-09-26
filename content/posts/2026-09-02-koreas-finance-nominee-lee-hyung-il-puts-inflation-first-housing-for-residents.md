@@ -37,9 +37,9 @@ Lee's agenda now moves to the confirmation process, where lawmakers will press h
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Consumer price index (national data agency) | -0.18 % | 202606/202607 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Consumer price index (national data agency) | Change from the previous period | −0.18% | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (9) — Yonhap News Agency · Ministry of Economy and Finance</summary>

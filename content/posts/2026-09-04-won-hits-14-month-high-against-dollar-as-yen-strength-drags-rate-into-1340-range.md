@@ -29,9 +29,9 @@ Whether the move holds is the open question. It rests partly on factors outside 
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Won–dollar exchange rate (Seoul Money Brokerage Services) | -0.72 % | 20260903/20260904 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Won–dollar exchange rate (Seoul Money Brokerage Services) | Change from the previous period | −0.72% | 2026-09-03 → 2026-09-04 |
 
 <details class="sources">
 <summary>Sources (6) — Yonhap News Agency · MyDaily (Music) · Ministry of Economy and Finance</summary>

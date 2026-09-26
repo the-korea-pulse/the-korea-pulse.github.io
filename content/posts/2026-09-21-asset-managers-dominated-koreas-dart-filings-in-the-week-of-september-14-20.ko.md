@@ -39,12 +39,12 @@ news: {"dateline": null, "source_names": ["dart_digest", "dart_disclosure"], "so
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 공시 유형(금융감독원 전자공시) | 11.0 % | 2026-W38 |
-| 공시 유형(금융감독원 전자공시) | 64.0 count | 2026-W38 |
-| 공시 제출 법인(금융감독원 전자공시) | 19.0 % | 2026-W38 |
-| 접수 공시 건수(금융감독원 전자공시) | 0.0 % | 2026-W38 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 공시 유형(금융감독원 전자공시) | 최다 공시 유형의 비중 | 11% | 2026-W38 |
+| 공시 유형(금융감독원 전자공시) | 고유 공시 유형 수 | 64 | 2026-W38 |
+| 공시 제출 법인(금융감독원 전자공시) | 최다 제출 법인 1곳의 비중 | 19% | 2026-W38 |
+| 접수 공시 건수(금융감독원 전자공시) | 직전 기간 대비 증감 | 0% | 2026-W38 |
 
 <details class="sources">
 <summary>Sources (2) — DART weekly filing digest (FSS) · DART (Financial Supervisory Service)</summary>

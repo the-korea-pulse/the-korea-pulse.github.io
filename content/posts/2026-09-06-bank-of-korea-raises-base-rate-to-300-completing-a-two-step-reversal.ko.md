@@ -39,10 +39,10 @@ news: {"dateline": null, "source_names": ["bok_rate_digest", "dart_disclosure"],
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 기준금리(한국은행) | 0.25 %p | 2026-08-27 |
-| 기준금리(한국은행) | 6.0 count | 2026-08-27 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 기준금리(한국은행) | 직전 기간 대비 증감 | +0.25 %p | 2026-08-27 |
+| 기준금리(한국은행) | 관측 기간 내 금리 변경 횟수 | 6 | 2026-08-27 |
 
 <details class="sources">
 <summary>Sources (2) — Bank of Korea (ECOS) · DART (Financial Supervisory Service)</summary>

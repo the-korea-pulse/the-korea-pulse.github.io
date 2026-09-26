@@ -29,9 +29,9 @@ Where the rate settles from here will determine whether the 1,330 range marks a 
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Won–dollar exchange rate (Seoul Money Brokerage Services) | -0.11 % | 20260908/20260909 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Won–dollar exchange rate (Seoul Money Brokerage Services) | Change from the previous period | −0.11% | 2026-09-08 → 2026-09-09 |
 
 <details class="sources">
 <summary>Sources (7) — Yonhap News Agency · ChosunBiz</summary>

@@ -37,9 +37,9 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_y
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 소비자물가지수(국가데이터처, ECOS 수록) | -0.18 % | 202606/202607 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 소비자물가지수(국가데이터처, ECOS 수록) | 직전 기간 대비 증감 | −0.18% | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (9) — Yonhap News Agency · Ministry of Economy and Finance</summary>

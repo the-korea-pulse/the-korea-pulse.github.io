@@ -33,9 +33,9 @@ That institutional math matters for markets. A close or split vote can move yiel
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Base rate (Bank of Korea) | 25.0 bp | 202606/202607 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Base rate (Bank of Korea) | Change from the previous period | +25 bp | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (10) — Yonhap News Agency · Ministry of Economy and Finance</summary>

@@ -41,9 +41,9 @@ news: {"dateline": null, "source_names": ["rss_mk", "rss_mk", "rss_mk", "rss_mk"
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 주택매매가격지수(KB국민은행, ECOS 수록) | 0.27 % | 202607/202608 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 주택매매가격지수(KB국민은행, ECOS 수록) | 직전 기간 대비 증감 | +0.27% | 2026-07 → 2026-08 |
 
 <details class="sources">
 <summary>Sources (13) — Maeil Business Newspaper · Ministry of Economy and Finance</summary>

@@ -39,12 +39,12 @@ The figures cover filings received during 2026-W38 as tallied from DART, the ele
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Filing type (DART, FSS) | 11.0 % | 2026-W38 |
-| Filing type (DART, FSS) | 64.0 count | 2026-W38 |
-| Filing entity (DART, FSS) | 19.0 % | 2026-W38 |
-| Filings received (DART, FSS) | 0.0 % | 2026-W38 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Filing type (DART, FSS) | Share of the most common filing type | 11% | 2026-W38 |
+| Filing type (DART, FSS) | Number of distinct filing types | 64 | 2026-W38 |
+| Filing entity (DART, FSS) | Share of filings from the single most active filer | 19% | 2026-W38 |
+| Filings received (DART, FSS) | Change from the previous period | 0% | 2026-W38 |
 
 <details class="sources">
 <summary>Sources (2) — DART weekly filing digest (FSS) · DART (Financial Supervisory Service)</summary>

@@ -37,9 +37,9 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz", "rss_
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 기준금리(한국은행) | 0.25 %p | 202606/202607 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 기준금리(한국은행) | 직전 기간 대비 증감 | +0.25 %p | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (11) — Yonhap News Agency · ChosunBiz</summary>

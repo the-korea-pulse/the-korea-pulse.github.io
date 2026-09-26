@@ -29,9 +29,9 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_c
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 원/달러 환율(서울외국환중개 고시, ECOS 수록) | -0.11 % | 20260908/20260909 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 원/달러 환율(서울외국환중개 고시, ECOS 수록) | 직전 기간 대비 증감 | −0.11% | 2026-09-08 → 2026-09-09 |
 
 <details class="sources">
 <summary>Sources (7) — Yonhap News Agency · ChosunBiz</summary>

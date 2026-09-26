@@ -37,9 +37,9 @@ The combination on display — a 6-1 vote, a dot plot topping out at 3.50%, and 
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Base rate (Bank of Korea) | 25.0 bp | 202606/202607 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Base rate (Bank of Korea) | Change from the previous period | +25 bp | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (11) — Yonhap News Agency · ChosunBiz</summary>

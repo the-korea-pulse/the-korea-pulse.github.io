@@ -24,9 +24,9 @@ The ADB forecasts **2.3%** growth in 2027, and the OECD projects **2.6%**. The O
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Trade balance (Bank of Korea) | -7461.6 백만달러 | 202606/202607 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Trade balance (Bank of Korea) | Change from the previous period | −7,461.6 백만달러 | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (5) — Yonhap News Agency · Maeil Business Newspaper · Ministry of Economy and Finance</summary>

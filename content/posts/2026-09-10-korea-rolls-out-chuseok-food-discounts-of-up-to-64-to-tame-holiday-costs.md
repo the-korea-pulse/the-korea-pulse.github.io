@@ -37,9 +37,9 @@ Chuseok grocery demand is concentrated and price-inelastic: families buy the sam
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Consumer price index (national data agency) | 0.23 % | 202607/202608 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Consumer price index (national data agency) | Change from the previous period | +0.23% | 2026-07 → 2026-08 |
 
 <details class="sources">
 <summary>Sources (6) — Yonhap News Agency · Ministry of Economy and Finance</summary>

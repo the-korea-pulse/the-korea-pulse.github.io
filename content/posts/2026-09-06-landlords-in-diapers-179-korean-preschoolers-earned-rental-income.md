@@ -33,9 +33,9 @@ What the number does measure is a starting-line gap. A five-year-old with rental
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Housing price index (KB Kookmin Bank, via ECOS) | 0.27 % | 202607/202608 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Housing price index (KB Kookmin Bank, via ECOS) | Change from the previous period | +0.27% | 2026-07 → 2026-08 |
 
 <details class="sources">
 <summary>Sources (3) — Yonhap News Agency · The Korea Economic Daily · Maeil Business Newspaper</summary>
