@@ -13,6 +13,8 @@ og_image: "images/posts/koreas-dart-logged-1808-filings-in-week-39.jpg"
 
 South Korea’s DART disclosure system received **1,808 filings across 276 filing types** in the 39th week of 2026. Reports on executives’ and major shareholders’ securities holdings were the most common type, with 151 filings.
 
+The weekly total was about 41% lower than the previous week. The week included the Chuseok holidays (September 24–26), so the drop mostly reflects fewer working days rather than a change in disclosure activity.
+
 ## Ownership and issuance documents led the count
 
 Securities issuance results reports followed with 144 filings, while large shareholding reports accounted for 134. Investment prospectuses numbered 113, and additional shelf registration documents numbered 105. Together, these five types made up 647 filings, about 36% of the weekly total.
