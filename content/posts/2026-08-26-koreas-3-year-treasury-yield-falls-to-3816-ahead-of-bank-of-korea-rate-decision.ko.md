@@ -8,6 +8,7 @@ keywords: ["국고채 3년물", "한국은행", "금융통화위원회", "기준
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260826151200008", "https://www.yna.co.kr/view/AKR20260825092400008", "https://www.yna.co.kr/view/AKR20260824079400008", "https://www.yna.co.kr/view/AKR20260826151251008", "https://www.yna.co.kr/view/AKR20260825148000008", "https://www.yna.co.kr/view/AKR20260824137200008", "https://www.yna.co.kr/view/AKR20260825148051008", "https://www.yna.co.kr/view/AKR20260826085800008", "https://www.yna.co.kr/view/AKR20260824137251008", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078809"], "issue_cluster_id": "c-ca74f457306f"}
+og_image: "images/posts/koreas-3-year-treasury-yield-falls-to-3816-ahead-of-bank-of-korea-rate-decision.jpg"
 ---
 
 국고채 3년물 금리가 8월 26일 수요일 3.816%에 마감하며 사흘 연속 하락했다. 채권시장이 사흘째 강세를 이어간 셈이지만, 다음 날로 예정된 한국은행 금융통화위원회를 앞두고 오후 들어 경계 매물이 나오면서 장중 낙폭의 상당 부분을 반납했다.

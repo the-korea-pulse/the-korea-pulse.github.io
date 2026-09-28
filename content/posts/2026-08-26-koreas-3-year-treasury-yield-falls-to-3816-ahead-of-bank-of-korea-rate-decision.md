@@ -8,6 +8,7 @@ keywords: ["Korean treasury bonds", "3-year KTB yield", "Bank of Korea", "Moneta
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260826151200008", "https://www.yna.co.kr/view/AKR20260825092400008", "https://www.yna.co.kr/view/AKR20260824079400008", "https://www.yna.co.kr/view/AKR20260826151251008", "https://www.yna.co.kr/view/AKR20260825148000008", "https://www.yna.co.kr/view/AKR20260824137200008", "https://www.yna.co.kr/view/AKR20260825148051008", "https://www.yna.co.kr/view/AKR20260826085800008", "https://www.yna.co.kr/view/AKR20260824137251008", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000078809"], "issue_cluster_id": "c-ca74f457306f"}
+og_image: "images/posts/koreas-3-year-treasury-yield-falls-to-3816-ahead-of-bank-of-korea-rate-decision.jpg"
 ---
 
 South Korea's government bond market rallied for a third consecutive session on Wednesday, August 26, pushing the benchmark 3-year Treasury yield down to 3.816% at the close — but the move lost momentum in the afternoon as investors grew cautious ahead of the Bank of Korea's monetary policy meeting scheduled for the following day.

@@ -8,6 +8,7 @@ keywords: ["한국은행", "기준금리", "신현송", "금융통화위원회",
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_chosunbiz", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260827091500002", "https://biz.chosun.com/policy/policy_sub/2026/08/27/GVYR4WR2M5CC7KB6AZ222ECXGE/", "https://www.yna.co.kr/view/AKR20260827084300002", "https://www.yna.co.kr/view/AKR20260827093200002", "https://www.yna.co.kr/view/AKR20260827087900002", "https://www.yna.co.kr/view/AKR20260827094500002", "https://www.yna.co.kr/view/AKR20260827069200002", "https://www.yna.co.kr/view/AKR20260827092500002", "https://www.yna.co.kr/view/AKR20260827091300002", "https://www.yna.co.kr/view/AKR20260827066400002", "https://www.yna.co.kr/view/AKR20260827092800002"], "issue_cluster_id": "c-d8e3d2ef6675"}
+og_image: "images/posts/bank-of-korea-chief-points-to-gradual-rate-hikes-over-the-next-six-months.jpg"
 ---
 
 한국은행 기준금리는 앞으로 6개월간 점진적으로 더 오를 가능성이 크다. 신현송 총재는 금융통화위원회가 두 회의 연속으로 기준금리 인상을 6대 1로 의결한 직후 이렇게 밝혔다. 8월 27일 점도표(dot plot) 형식으로 공개된 위원들의 금리 전망도 같은 방향을 가리켰다. 6개월 뒤 전망치의 상단은 연 3.50%로 3개월 전보다 높아졌고, 앞으로 한두 차례 추가 인상이 있을 것이라는 시각이 다수였다.

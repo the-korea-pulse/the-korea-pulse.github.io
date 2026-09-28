@@ -8,6 +8,7 @@ keywords: ["이형일", "재정경제부", "물가 안정", "추석 물가 대�
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe", "gov_press_mofe", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260902109600011", "https://www.yna.co.kr/view/AKR20260902088100002", "https://www.yna.co.kr/view/AKR20260902085000002", "https://www.yna.co.kr/view/AKR20260831112400011", "https://www.yna.co.kr/view/AKR20260902086200002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079187", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079191", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079168", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079164"], "issue_cluster_id": "c-d8dcf00472f5"}
+og_image: "images/posts/koreas-finance-nominee-lee-hyung-il-puts-inflation-first-housing-for-residents.jpg"
 ---
 
 이형일 부총리 겸 재정경제부 장관 후보자가 취임 후 가장 먼저 잡을 과제로 물가를 지목했다. 그는 9월 2일 세종에서 물가 안정을 재정경제부가 마주한 "가장 큰 임무"라고 밝히고, 추석을 앞두고 물가 대책을 한 차례 더 내놓는 방안을 추진하겠다고 했다. 주택 정책에서는 실수요자, 즉 실제 거주하는 사람 중심으로 시장을 재편한다는 정부 기조에 힘을 실었다. 이날 발언은 그가 국회 인준을 통과할 경우 한국의 경제 수장 부처를 어떻게 이끌지 보여주는 첫 구체적 밑그림이다.
