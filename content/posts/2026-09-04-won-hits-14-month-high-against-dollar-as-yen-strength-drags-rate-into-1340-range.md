@@ -8,6 +8,7 @@ keywords: ["Korean won", "won-dollar exchange rate", "yen strength", "foreign ex
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_mydaily_music", "rss_yna_econ", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260904117600002", "https://www.yna.co.kr/view/AKR20260904124900002", "https://www.mydaily.co.kr/page/view/2026082713260939835", "https://www.yna.co.kr/view/AKR20260903139100002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079187", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079164"], "issue_cluster_id": "c-554ffe7598a8"}
+og_image: "images/posts/won-hits-14-month-high-against-dollar-as-yen-strength-drags-rate-into-1340-range.jpg"
 ---
 
 The Korean won has climbed to its strongest level against the U.S. dollar in 14 months, with the won-dollar exchange rate dipping into the 1,340-won range during intraday trading for the first time since July of last year. Two forces are doing most of the work: a firming Japanese yen, buoyed by market wariness that Tokyo's currency authorities may step in to support it, and a wave of dollar selling by Korean exporters converting overseas earnings back into won. The move extends a slide that was already underway — on September 3 the rate traded in the 1,350-won range, itself a 14-month low at the time.

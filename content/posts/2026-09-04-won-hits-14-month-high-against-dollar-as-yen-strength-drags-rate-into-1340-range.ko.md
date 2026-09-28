@@ -8,6 +8,7 @@ keywords: ["원·달러 환율", "엔화 강세", "네고 물량", "외환시장
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_mydaily_music", "rss_yna_econ", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260904117600002", "https://www.yna.co.kr/view/AKR20260904124900002", "https://www.mydaily.co.kr/page/view/2026082713260939835", "https://www.yna.co.kr/view/AKR20260903139100002", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079187", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079164"], "issue_cluster_id": "c-554ffe7598a8"}
+og_image: "images/posts/won-hits-14-month-high-against-dollar-as-yen-strength-drags-rate-into-1340-range.jpg"
 ---
 
 원·달러 환율이 장중 1340원대까지 내려오면서 원화가 14개월 만에 달러 대비 가장 강한 수준에 올라섰다. 장중 1340원대 진입은 지난해 7월 이후 처음이다. 배경은 크게 두 가지다. 일본 외환당국이 엔화 방어에 나설 수 있다는 시장의 경계감에 엔화가 강세를 보이고 있고, 국내 수출업체들이 해외에서 벌어들인 달러를 원화로 바꾸는 매도 물량이 시장에 쏟아지고 있다. 하락 흐름은 이미 진행 중이었다 — 9월 3일에도 환율은 1350원대에서 거래되며 당시 기준으로 14개월 만의 최저치를 기록한 바 있다.
