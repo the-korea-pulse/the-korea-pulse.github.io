@@ -8,6 +8,7 @@ keywords: ["서울 아파트 실거래가", "국토교통부 실거래 신고", 
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "rss_mk", "gov_press_mofe"], "source_urls": ["https://www.mk.co.kr/news/realestate/12157073", "https://www.mk.co.kr/news/realestate/12157070", "https://www.mk.co.kr/news/realestate/12157068", "https://www.mk.co.kr/news/realestate/12157067", "https://www.mk.co.kr/news/realestate/12157064", "https://www.mk.co.kr/news/realestate/12157075", "https://www.mk.co.kr/news/realestate/12157065", "https://www.mk.co.kr/news/realestate/12157066", "https://www.mk.co.kr/news/realestate/12157071", "https://www.mk.co.kr/news/realestate/12157063", "https://www.mk.co.kr/news/realestate/12157069", "https://www.mk.co.kr/news/realestate/12157074", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079323"], "issue_cluster_id": "c-9c3f5ae9fcb0"}
+og_image: "images/posts/twelve-seoul-apartment-sales-hit-three-year-highs-in-a-single-day-of-filings.jpg"
 ---
 
 2026년 9월 18일 국토교통부에 새로 신고된 서울 아파트 거래 가운데 12건이 각각 해당 단지·면적에서 최근 3년 사이 가장 높은 가격을 기록했다. 거래는 9개 구에 걸쳐 있고, 가격은 강북구 5억 원에서 강남구 25억 5000만 원까지 약 다섯 배 차이가 난다. 이 12건만으로 서울 전체가 상승 국면에 들어섰다고 단정할 수는 없다. 다만 최고가 경신이 평소 시장을 이끄는 강남권 바깥에서도 폭넓게 나오고 있다는 점은 분명하다.

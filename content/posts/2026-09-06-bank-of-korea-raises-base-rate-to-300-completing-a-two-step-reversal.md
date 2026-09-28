@@ -8,6 +8,7 @@ keywords: ["Bank of Korea", "base rate", "interest rates", "monetary policy", "K
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["bok_rate_digest", "dart_disclosure"], "source_urls": ["https://ecos.bok.or.kr", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000507"], "issue_cluster_id": "c-73637c326a00"}
+og_image: "images/posts/bank-of-korea-raises-base-rate-to-300-completing-a-two-step-reversal.jpg"
 ---
 
 The Bank of Korea's Monetary Policy Committee raised the base rate by 25 basis points to an annual 3.00% at its August 27 meeting, its second consecutive quarter-point increase after an identical move in July. The decision unwinds the last of the easing delivered in 2024–2025 and puts the policy rate back where it stood in November 2024.

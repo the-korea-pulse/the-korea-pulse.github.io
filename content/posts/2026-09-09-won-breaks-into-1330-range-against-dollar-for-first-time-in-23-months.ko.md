@@ -8,6 +8,7 @@ keywords: ["원/달러 환율", "원화 강세", "환율 하락", "서울 외환
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_chosunbiz", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260908126300002", "https://www.yna.co.kr/view/AKR20260909135700002", "https://biz.chosun.com/policy/policy_sub/2026/09/09/QMBAMWBCIFE73JW34HUBV5EK3A/", "https://www.yna.co.kr/view/AKR20260907118200002", "https://www.yna.co.kr/view/AKR20260909137500002", "https://www.yna.co.kr/view/AKR20260908124200002", "https://www.yna.co.kr/view/AKR20260907119900002"], "issue_cluster_id": "c-b692d70d1cd2"}
+og_image: "images/posts/won-breaks-into-1330-range-against-dollar-for-first-time-in-23-months.jpg"
 ---
 
 원/달러 환율이 9월 9일 달러당 1,336.1원까지 내려오며 23개월 만에 1,330원대에 진입했다. 서울 외환시장의 오후 3시 30분 기준 환율이 전 거래일보다 9.5원 하락한 것으로, 1,330원대는 2024년 10월 무렵 이후 처음이다. 원화 가치로 보면 약 2년 만에 가장 강한 수준이다.

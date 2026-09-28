@@ -8,6 +8,7 @@ keywords: ["Korea rental income", "child landlords", "wealth transfer", "gift ta
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260904164400002", "https://www.hankyung.com/article/2026090772287", "https://www.mk.co.kr/news/economy/12145651"], "issue_cluster_id": "c-1dec4df52f74"}
+og_image: "images/posts/landlords-in-diapers-179-korean-preschoolers-earned-rental-income.jpg"
 ---
 
 Nearly 200 South Korean children of preschool age — 179 of them five years old or younger, including infants of one and two who have yet to leave diapers — earned rental income from real estate, according to newly reported figures. The properties behind that income were largely inherited from, or gifted by, parents and grandparents. The number is less a story about precocious toddlers than a window into how Korean wealth now moves between generations before its recipients can read a lease, let alone sign one.

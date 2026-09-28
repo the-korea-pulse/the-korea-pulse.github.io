@@ -8,6 +8,7 @@ keywords: ["미성년자 임대소득", "부의 대물림", "증여세", "부동
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_hankyung", "rss_mk"], "source_urls": ["https://www.yna.co.kr/view/AKR20260904164400002", "https://www.hankyung.com/article/2026090772287", "https://www.mk.co.kr/news/economy/12145651"], "issue_cluster_id": "c-1dec4df52f74"}
+og_image: "images/posts/landlords-in-diapers-179-korean-preschoolers-earned-rental-income.jpg"
 ---
 
 초등학교에 들어가기도 전인 한국 어린이 200명 가까이가 부동산 임대소득을 올린 것으로 나타났다. 이 가운데 179명은 만 5세 이하였고, 아직 기저귀를 떼지 못한 한두 살짜리 영아도 포함돼 있다. 이들이 소유한 부동산은 대부분 부모나 조부모에게 상속받거나 증여받은 것이다. 조숙한 아이들의 이야기가 아니다. 임대차 계약서를 읽기는커녕 서명도 못 하는 나이에 자산이 세대를 건너 이동하는, 한국식 부의 대물림이 어디까지 와 있는지를 보여주는 숫자다.

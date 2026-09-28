@@ -8,6 +8,7 @@ keywords: ["Chuseok", "Korea food prices", "Nonghyup", "hanwoo beef", "price sta
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260910031900030", "https://www.yna.co.kr/view/AKR20260909087200030", "https://www.yna.co.kr/view/AKR20260908063100030", "https://www.yna.co.kr/view/AKR20260910066500030", "https://www.yna.co.kr/view/AKR20260908101300030", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079187"], "issue_cluster_id": "c-642557e926f0"}
+og_image: "images/posts/korea-rolls-out-chuseok-food-discounts-of-up-to-64-to-tame-holiday-costs.jpg"
 ---
 
 South Korea's government and the Nonghyup agricultural cooperative network are mounting a coordinated discount campaign to hold down household food costs ahead of the Chuseok holiday, with markdowns reaching 52% on hanwoo beef, 50% on government-stockpiled seafood, and as much as 64% on thousands of processed food items. The measures, announced on September 10 as part of the government's Chuseok livelihood-stabilization package, target the categories that dominate holiday spending: fruit, meat, seafood, and pantry staples.

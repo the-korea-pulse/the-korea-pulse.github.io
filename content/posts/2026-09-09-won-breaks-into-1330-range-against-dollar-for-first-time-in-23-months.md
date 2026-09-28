@@ -8,6 +8,7 @@ keywords: ["Korean won", "won-dollar exchange rate", "USD/KRW", "currency market
 categories: ["Markets & Stocks"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_chosunbiz", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ"], "source_urls": ["https://www.yna.co.kr/view/AKR20260908126300002", "https://www.yna.co.kr/view/AKR20260909135700002", "https://biz.chosun.com/policy/policy_sub/2026/09/09/QMBAMWBCIFE73JW34HUBV5EK3A/", "https://www.yna.co.kr/view/AKR20260907118200002", "https://www.yna.co.kr/view/AKR20260909137500002", "https://www.yna.co.kr/view/AKR20260908124200002", "https://www.yna.co.kr/view/AKR20260907119900002"], "issue_cluster_id": "c-b692d70d1cd2"}
+og_image: "images/posts/won-breaks-into-1330-range-against-dollar-for-first-time-in-23-months.jpg"
 ---
 
 The Korean won pushed to its strongest level against the U.S. dollar in nearly two years on September 9, with the 3:30 p.m. benchmark rate in Seoul set at 1,336.1 won per dollar — down 9.5 won from the previous session and the first reading in the 1,330 range in 23 months, a threshold last seen around October 2024.

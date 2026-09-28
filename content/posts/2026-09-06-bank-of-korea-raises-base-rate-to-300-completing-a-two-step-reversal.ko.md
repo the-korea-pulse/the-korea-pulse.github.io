@@ -8,6 +8,7 @@ keywords: ["한국은행", "기준금리", "금리 인상", "통화정책", "주
 categories: ["Corporate & Governance"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["bok_rate_digest", "dart_disclosure"], "source_urls": ["https://ecos.bok.or.kr", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260904000507"], "issue_cluster_id": "c-73637c326a00"}
+og_image: "images/posts/bank-of-korea-raises-base-rate-to-300-completing-a-two-step-reversal.jpg"
 ---
 
 한국은행 금융통화위원회가 8월 27일 회의에서 기준금리를 0.25%p 올려 연 3.00%로 결정했다. 7월에 이어 두 번 연속 0.25%p 인상이다. 이로써 2024~2025년에 걸쳐 내렸던 금리를 모두 되돌렸고, 기준금리는 2024년 11월과 같은 수준으로 복귀했다.

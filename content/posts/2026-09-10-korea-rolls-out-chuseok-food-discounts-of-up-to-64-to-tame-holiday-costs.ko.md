@@ -8,6 +8,7 @@ keywords: ["추석 물가", "한우 할인", "농협", "수산물 방출", "가�
 categories: ["Policy & Regulation"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "rss_yna_econ", "gov_press_mofe"], "source_urls": ["https://www.yna.co.kr/view/AKR20260910031900030", "https://www.yna.co.kr/view/AKR20260909087200030", "https://www.yna.co.kr/view/AKR20260908063100030", "https://www.yna.co.kr/view/AKR20260910066500030", "https://www.yna.co.kr/view/AKR20260908101300030", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079187"], "issue_cluster_id": "c-642557e926f0"}
+og_image: "images/posts/korea-rolls-out-chuseok-food-discounts-of-up-to-64-to-tame-holiday-costs.jpg"
 ---
 
 추석을 앞두고 장바구니 부담이 얼마나 줄어들까. 정부와 농협이 9월 10일 발표한 추석 민생안정 대책에 따라 한우는 최대 52%, 정부 비축 수산물은 최대 50%, 가공식품은 4765개 품목이 최대 64%까지 싸진다. 과일·축산물·수산물·가공식품 등 명절 지출이 몰리는 품목을 정조준한 합동 할인전으로, 정부 부처와 농협 유통망이 함께 가격 인하에 나선다.
