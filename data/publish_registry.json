@@ -5271,6 +5271,24 @@
       "slug_hint": "meritz-securities-wins-short-term-financing-approval",
       "title": "Meritz Securities wins short-term financing approval",
       "url": "https://pulse.koreasignals.com/posts/meritz-securities-wins-short-term-financing-approval/"
+    },
+    {
+      "content_id": "synd:c-baaf6dd1a085",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "DART",
+        "Korea disclosures",
+        "ownership reports",
+        "securities filings",
+        "Kyobo Securities"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-09-28-koreas-dart-logged-1808-filings-in-week-39.md",
+      "platform": "github_site",
+      "published_at": "2026-09-28T11:23:51.114350Z",
+      "slug_hint": "koreas-dart-logged-1808-filings-in-week-39",
+      "title": "Korea’s DART Logged 1,808 Filings in Week 39",
+      "url": "https://pulse.koreasignals.com/posts/koreas-dart-logged-1808-filings-in-week-39/"
     }
   ],
   "version": 1
