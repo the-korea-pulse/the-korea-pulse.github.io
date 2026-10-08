@@ -11,13 +11,13 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_y
 og_image: "images/posts/samsung-slides-despite-surging-profit-as-korean-stocks-retreat.jpg"
 ---
 
-Samsung Electronics shares fell on the 8th despite a steep increase in quarterly earnings, as the broader Korean stock market declined. LG Energy Solution moved higher after reporting record quarterly revenue, showing that investors responded differently to the two results.
+Samsung Electronics shares fell on the 8th even as the company reported record earnings, and the broader Korean stock market declined. LG Energy Solution moved higher after reporting record quarterly revenue, showing that investors responded differently to the two results.
 
 ## Samsung’s earnings did not lift its shares
 
-Samsung Electronics’ regulatory filing puts revenue growth at +130% and operating profit growth at +1,813.84% from Q2 2025 to Q2 2026. Its operating margin was 52.18% in Q2 2026. Even so, Samsung shares weakened early in the session and later fell more sharply. SK Hynix, which rose early, also ended lower.
+The record results announced on the 8th are not yet in a regulatory filing. Samsung’s latest filed report, for the second quarter, already showed revenue up 130% and operating profit up 1,813.84% from Q2 2025 to Q2 2026, with an operating margin of 52.18% in Q2 2026; the operating-profit jump comes off a low base a year earlier. Even so, Samsung shares weakened early in the session and later fell more sharply. SK Hynix, which rose early, also ended lower.
 
-The figures establish the scale of Samsung’s earnings improvement, but they do not explain the share price decline. Profit-taking and portfolio rebalancing were raised as possible factors; neither has been established as the cause.
+Those filed figures show how far Samsung’s earnings had already improved, but neither they nor the new results explain the share price decline. Profit-taking and portfolio rebalancing were raised as possible factors; neither has been established as the cause.
 
 ## Battery shares took a different path
 
