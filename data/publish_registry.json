@@ -5484,6 +5484,24 @@
       "slug_hint": "koreas-dart-logged-2894-filings-in-week-42",
       "title": "Korea’s DART Logged 2,894 Filings in Week 42",
       "url": "https://pulse.koreasignals.com/posts/koreas-dart-logged-2894-filings-in-week-42/"
+    },
+    {
+      "content_id": "synd:c-2a0b3e552e8b",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Bank of Korea",
+        "interest rates",
+        "monetary policy",
+        "South Korea",
+        "mortgage rates"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-10-22-bank-of-korea-holds-policy-rate-at-300.md",
+      "platform": "github_site",
+      "published_at": "2026-10-22T07:10:30.418333Z",
+      "slug_hint": "bank-of-korea-holds-policy-rate-at-300",
+      "title": "Bank of Korea Holds Policy Rate at 3.00%",
+      "url": "https://pulse.koreasignals.com/posts/bank-of-korea-holds-policy-rate-at-300/"
     }
   ],
   "version": 1
