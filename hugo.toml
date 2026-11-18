@@ -48,9 +48,11 @@ timeZone = "Asia/Seoul"
       pageRef = "/categories/"
       weight = 2
     [languages.ko.params]
+      label_byline = "편집 책임"
+      author_url = "https://pulse.koreasignals.com/editorial-standards/#ko"
       # F4/B-5: ko 전용 소셜 메타 — 없으면 영문 description + og:locale=en_US가
       # ko 페이지에 그대로 노출된다(top-level [params]에서 상속).
-      description               = "한국의 경제·시장·정책을 다루는 The Korea Pulse의 한국어판 — 복수의 한국어 소스를 종합해 재구성한 기사를 제공합니다."
+      description               = "한국의 경제·시장·정책을 공시와 시장 자료로 분석합니다."
       og_locale                 = "ko_KR"
       # F16: top-level [params]의 label_llms_posts_heading("Articles")이 ko에
       # 정의되지 않으면 Hugo 언어별 params 상속 규칙상 ko도 영문값을 그대로
@@ -96,7 +98,7 @@ timeZone = "Asia/Seoul"
   websubhub      = "https://pubsubhubbub.appspot.com/"
   googleprune    = true  # 축 A 없는 글은 구글에만 noindex·사이트맵 제외(테마 is-google-pruned.html). false로 되돌리면 원복
   disclaimer     = true  # 금융(YMYL) — 기사 하단 투자 면책(테마 partials/disclaimer.html, §0-69)
-  description    = "English-language analysis of Korea's economy, markets, and policy — synthesized from multiple Korean sources."
+  description    = "Analysis of Korea’s economy, markets and public policy using Korean market and disclosure data, with links to the underlying sources."
   og_site_name   = "The Korea Pulse"
   og_locale      = "en_US"
   logo           = "/brand/wordmark.svg"
@@ -115,9 +117,9 @@ timeZone = "Asia/Seoul"
   # E-E-A-T (2026-08-26): AdSense "가치가 별로 없는 콘텐츠" 반려 대응. 편집 책임자를
   # 명시해 바이라인·JSON-LD Person을 활성화한다. 필명이며 실재하는 편집 책임자다.
   author      = "HW"
-  author_role = "Editor"
-  author_url  = "https://pulse.koreasignals.com/editorial-standards/"
-  label_byline = "Edited by"
+  byline_is_editor = true
+  author_url  = "https://pulse.koreasignals.com/editorial-standards/#who-is-responsible"
+  label_byline = "Responsible editor"
   daum_verification = ""
   show_term_chips = true
   accent_color   = "#0057b8"
