@@ -19,7 +19,7 @@ Samyang Holdings’ regulatory filing shows a year-on-year revenue change of +10
 
 ## Demand is one step before final terms
 
-Orders submitted during demand forecasting indicate investor interest; they are not the final amount issued. Samyang’s DART disclosures supplied here concern a subsidiary’s debt guarantee decision and its correction. They do not set out the final terms of either reported offering.
+Orders submitted during demand forecasting indicate investor interest; they are not the final amount issued. Samyang’s DART disclosures cited here concern a subsidiary’s debt guarantee decision and its correction. They do not set out the final terms of either reported offering.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers

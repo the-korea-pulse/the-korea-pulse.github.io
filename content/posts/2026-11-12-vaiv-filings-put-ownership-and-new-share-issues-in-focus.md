@@ -15,7 +15,7 @@ VAIV company has disclosed a contract concerning a change in management control 
 
 ## Funding plans and ownership
 
-The reports describe one proposed third-party allotment for purposes including operating funds and another for purposes including the purchase of securities in another company. VAIV’s filings with South Korea’s electronic disclosure system separately identify a management-control contract and a shareholder record date. The summaries provided here do not specify the investors, issue prices or terms of the control agreement, so the effect on existing shareholders cannot yet be determined.
+The reports describe one proposed third-party allotment for purposes including operating funds and another for purposes including the purchase of securities in another company. VAIV’s filings with South Korea’s electronic disclosure system separately identify a management-control contract and a shareholder record date. The investors, issue prices and terms of the control agreement were not available, so the effect on existing shareholders cannot yet be determined.
 
 ## The financial backdrop
 

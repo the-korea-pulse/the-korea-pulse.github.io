@@ -19,7 +19,7 @@ The weekly total was about 41% lower than the previous week. The week included t
 
 Securities issuance results reports followed with 144 filings, while large shareholding reports accounted for 134. Investment prospectuses numbered 113, and additional shelf registration documents numbered 105. Together, these five types made up 647 filings, about 36% of the weekly total.
 
-ToolGen submitted a securities issuance results report during the period. The filing information provided here identifies the document and its submitter but gives no issuance terms.
+ToolGen submitted a securities issuance results report during the period. The terms of the issuance were not available.
 
 ## Asset managers topped the submitter list
 

@@ -11,17 +11,17 @@ news: {"dateline": null, "source_names": ["rss_hankyung", "rss_chosunbiz", "dart
 og_image: "images/posts/hyundai-department-store-reports-third-quarter-profit-growth.jpg"
 ---
 
-Hyundai Department Store’s operating profit rose in the third quarter, with Korean press reports pointing to growth in both its department-store and duty-free businesses. The company has filed preliminary consolidated results with South Korea’s financial regulator, but the figures provided here do not establish the quarter’s profit amount or growth rate.
+Hyundai Department Store’s operating profit rose in the third quarter, with Korean press reports pointing to growth in both its department-store and duty-free businesses. The company has filed preliminary consolidated results with South Korea’s financial regulator, but the quarter’s profit amount and growth rate could not be confirmed for this article.
 
 ## Department stores and duty-free retail
 
-The reports link the improvement to foreign shoppers and luxury sales. Those explanations are consistent with stronger spending at the company’s retail businesses, though the information provided does not quantify either group’s contribution to profit.
+The reports link the improvement to foreign shoppers and luxury sales. Those explanations are consistent with stronger spending at the company’s retail businesses, though neither group’s contribution to profit was quantified.
 
 ## Earlier filed figures show the shift
 
 The company’s regulatory filing shows operating profit changed **−8.7% from Q2 2025 to Q2 2026**, while revenue changed **−1.13%** over the same period. Its operating margin was **7.43% in Q2 2026**. These figures cover the earlier filed period; they are not the newly reported third-quarter results.
 
-Hyundai Department Store has also filed an investor-relations meeting notice and a decision to cancel shares. The provided disclosures do not give the terms of the cancellation or connect it to the third-quarter earnings.
+Hyundai Department Store has also filed an investor-relations meeting notice and a decision to cancel shares. This article could not confirm the terms of the cancellation or any connection to the third-quarter earnings.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers

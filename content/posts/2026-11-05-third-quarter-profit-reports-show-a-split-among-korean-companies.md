@@ -21,7 +21,7 @@ KakaoPay reported the strongest year-on-year increase among the companies covere
 
 Netmarble’s regulatory filing shows revenue change of **+4.4% (Q2 2025 → Q2 2026)** and operating profit change of **−20.75% (Q2 2025 → Q2 2026)**. Its operating margin was **10.7% (Q2 2026)**. These figures cover the earlier filed period; they are not Netmarble’s newly reported third-quarter results.
 
-Netmarble also filed a share-cancellation decision with the Financial Supervisory Service. The disclosure identifies a separate corporate action, but the information provided here does not establish its size or effect on earnings.
+Netmarble also filed a share-cancellation decision with the Financial Supervisory Service. The disclosure identifies a separate corporate action; its size and any effect on earnings could not be confirmed for this article.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers
