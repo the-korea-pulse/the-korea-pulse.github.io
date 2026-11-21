@@ -2,7 +2,7 @@
 title: "HEM Pharma files share acquisition and facility investment decisions"
 date: "2026-11-20"
 draft: false
-description: "HEM Pharma has filed decisions on a share acquisition and facility investment, but the supplied disclosures do not establish their financial scale."
+description: "HEM Pharma has filed decisions on a share acquisition and facility investment, but their financial scale has not been confirmed."
 slug: "hem-pharma-files-share-acquisition-and-facility-investment-decisions"
 keywords: ["HEM Pharma", "share acquisition", "facility investment", "DART"]
 categories: ["Corporate & Governance"]
@@ -11,15 +11,15 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_y
 og_image: "images/posts/hem-pharma-files-share-acquisition-and-facility-investment-decisions.jpg"
 ---
 
-HEM Pharma has filed a decision to acquire shares in another company and a separate disclosure concerning new facility investment. The supplied DART filing extracts establish those two actions but do not provide the transaction terms or investment amount needed to assess their scale.
+HEM Pharma has filed a decision to acquire shares in another company and a separate disclosure concerning new facility investment. The filings establish those two actions, but the transaction terms and investment amount needed to assess their scale were not available.
 
 ## What the filings establish
 
-The share acquisition filing records a corporate decision; it does not, in the material supplied, establish that the purchase has been completed. The facility investment filing is a separate disclosure. Without its budget and timetable, its effect on future spending cannot be quantified.
+The share acquisition filing records a corporate decision; it does not establish that the purchase has been completed. The facility investment filing is a separate disclosure. Without its budget and timetable, its effect on future spending cannot be quantified.
 
 ## Financial context
 
-Figures derived from HEM Pharma’s regulatory filing show revenue growth of +269.06% from Q3 2025 to Q3 2026 and an operating margin of −9.64% in Q3 2026. Those figures describe the company’s reported operating performance. The supplied acquisition and investment extracts do not show how either decision will be funded or affect that performance.
+Figures derived from HEM Pharma’s regulatory filing show revenue growth of +269.06% from Q3 2025 to Q3 2026 and an operating margin of −9.64% in Q3 2026. Those figures describe the company’s reported operating performance. How either decision will be funded, or how it will affect that performance, could not be confirmed.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers

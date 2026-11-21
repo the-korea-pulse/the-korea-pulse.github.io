@@ -11,7 +11,7 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_y
 og_image: "images/posts/ngenebio-discloses-share-issuance-and-planned-equity-acquisition.jpg"
 ---
 
-NGeneBio has disclosed a decision to issue new shares and a separate decision to acquire shares or equity securities in another company. The filings put both its financing and investment plans in focus, though the filing details provided here do not establish the transaction amounts or terms.
+NGeneBio has disclosed a decision to issue new shares and a separate decision to acquire shares or equity securities in another company. The filings put both its financing and investment plans in focus, though the transaction amounts and terms could not be confirmed for this article.
 
 ## Financing alongside an acquisition plan
 

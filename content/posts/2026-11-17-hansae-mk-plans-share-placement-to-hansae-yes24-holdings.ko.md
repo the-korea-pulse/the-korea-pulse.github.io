@@ -2,7 +2,7 @@
 title: "한세엠케이, 한세예스24홀딩스 대상 제3자 배정 유상증자 추진"
 date: "2026-11-17"
 draft: false
-description: "한세엠케이가 한세예스24홀딩스를 대상으로 신주 발행을 추진하는 가운데, 제공된 공시만으로는 발행 조건을 확인할 수 없다."
+description: "한세엠케이가 한세예스24홀딩스를 대상으로 신주 발행을 추진하지만, 발행 조건은 아직 확인되지 않았다."
 slug: "hansae-mk-plans-share-placement-to-hansae-yes24-holdings"
 keywords: ["한세엠케이", "한세예스24홀딩스", "제3자 배정 유상증자", "전자공시시스템", "영업이익률"]
 categories: ["Corporate & Governance"]
@@ -11,7 +11,7 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "dart_
 og_image: "images/posts/hansae-mk-plans-share-placement-to-hansae-yes24-holdings.jpg"
 ---
 
-한세엠케이가 한세예스24홀딩스를 대상으로 제3자 배정 방식의 신주 발행을 추진한다고 연합뉴스가 회사 발표를 인용해 전했다. 다만 제공된 전자공시시스템(DART) 자료는 지분 변동 공시여서 조달액과 발행 주식 수, 발행가는 확인할 수 없다.
+한세엠케이가 한세예스24홀딩스를 대상으로 제3자 배정 방식의 신주 발행을 추진한다고 연합뉴스가 회사 발표를 인용해 전했다. 다만 출처로 든 전자공시시스템(DART) 자료는 지분 변동 공시여서, 이것만으로는 조달액과 발행 주식 수, 발행가를 알 수 없다.
 
 ## 실적에서 확인되는 수치
 
@@ -19,7 +19,7 @@ og_image: "images/posts/hansae-mk-plans-share-placement-to-hansae-yes24-holdings
 
 ## 지분 희석 판단에 필요한 발행 조건
 
-기존 주주의 지분이 얼마나 희석될지는 신주 발행가와 발행 주식 수에 달려 있다. 제공된 지분 변동 공시에는 두 조건이 없어, 이를 토대로 발행 후 지분 변화를 수치로 확인할 수는 없다.
+기존 주주의 지분이 얼마나 희석될지는 신주 발행가와 발행 주식 수에 달려 있다. 지분 변동 공시는 이 두 조건을 다루지 않아, 이를 토대로 발행 후 지분 변화를 수치로 확인할 수는 없다.
 
 <!-- syndicator:derived-data -->
 ## 데이터로 보기

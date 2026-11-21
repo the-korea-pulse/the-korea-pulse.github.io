@@ -21,7 +21,7 @@ A placement can bring in capital while increasing the number of shares outstandi
 
 ## Sigetronics’ separate filings
 
-Sigetronics has filed a notice concerning an agreement related to a change of control and another concerning the closing of its shareholder register or the setting of a record date. Neither filing summary provided here establishes the terms of the planned placement or a link between the filings.
+Sigetronics has filed a notice concerning an agreement related to a change of control and another concerning the closing of its shareholder register or the setting of a record date. The terms of the planned placement, and any link between the filings, were not available.
 
 For financial context, the company’s regulatory filing shows revenue change from a year earlier of **+10.94% (Q2 2025 → Q2 2026)** and an operating margin of **−56.52% (Q2 2026)**. Those figures describe the filed reporting periods; they do not measure the effect of the proposed share issue.
 

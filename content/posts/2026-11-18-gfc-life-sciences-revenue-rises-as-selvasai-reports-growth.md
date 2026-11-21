@@ -19,7 +19,7 @@ The revenue increase shows that GFC sold more than in the comparable quarter a y
 
 ## SelvasAI’s reported gains
 
-SelvasAI attributed its improved results to growth in medical devices and wider supply of AI solutions. Those businesses offer two potential sources of sales growth, but the material provided here does not establish how much each contributed or whether either improved profitability.
+SelvasAI attributed its improved results to growth in medical devices and wider supply of AI solutions. Those businesses offer two potential sources of sales growth, but how much each contributed, or whether either improved profitability, could not be confirmed.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers

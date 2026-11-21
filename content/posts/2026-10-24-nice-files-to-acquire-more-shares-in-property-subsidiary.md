@@ -15,7 +15,7 @@ NICE has filed a decision to acquire shares in NICE Property, its property and c
 
 ## Two companies named in the transaction
 
-NICE’s acquisition is recorded in a filing with South Korea’s Financial Supervisory Service. Yonhap separately reported the planned purchase by NICE Information & Telecommunication. The disclosed material provided here does not establish the combined cost, ownership changes or purpose of the purchases.
+NICE’s acquisition is recorded in a filing with South Korea’s Financial Supervisory Service. Yonhap separately reported the planned purchase by NICE Information & Telecommunication. The combined cost of the purchases, the resulting ownership changes and their purpose were not available.
 
 ## NICE’s latest filed performance
 

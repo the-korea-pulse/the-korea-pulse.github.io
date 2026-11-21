@@ -11,7 +11,7 @@ news: {"dateline": null, "source_names": ["rss_yna_econ", "rss_yna_econ", "rss_y
 og_image: "images/posts/ngenebio-discloses-share-issuance-and-planned-equity-acquisition.jpg"
 ---
 
-엔젠바이오는 신주를 발행하고 다른 회사의 주식 또는 지분증권을 취득하기로 결정했다고 공시했다. 이번 공시로 자금 조달과 투자 계획이 드러났지만, 제공된 공시 내용만으로는 거래 금액이나 조건을 확인할 수 없다.
+엔젠바이오는 신주를 발행하고 다른 회사의 주식 또는 지분증권을 취득하기로 결정했다고 공시했다. 이번 공시로 자금 조달과 투자 계획이 드러났지만, 거래 금액이나 조건은 이 기사에서 확인하지 못했다.
 
 ## 신주 발행과 지분 취득 계획
 
