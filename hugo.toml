@@ -120,7 +120,7 @@ timeZone = "Asia/Seoul"
   byline_is_editor = true
   author_url  = "https://pulse.koreasignals.com/editorial-standards/#who-is-responsible"
   label_byline = "Responsible editor"
-  daum_verification = ""
+  daum_verification = "d210549a8ff3fef48201be76b0880b3d9db2565879b46537f906062a487104d0:4djnnmDYbaXJEU0i2qqWPQ=="
   show_term_chips = true
   accent_color   = "#0057b8"
   # i18n (WP-64): media-hugo-shared 라벨 파라미터 — 영문 매체용 값
