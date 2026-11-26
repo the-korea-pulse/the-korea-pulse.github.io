@@ -6138,6 +6138,24 @@
       "slug_hint": "gs-ec-and-ssangyong-secure-separate-rebuilding-projects",
       "title": "GS E&C and Ssangyong Secure Separate Rebuilding Projects",
       "url": "https://pulse.koreasignals.com/posts/gs-ec-and-ssangyong-secure-separate-rebuilding-projects/"
+    },
+    {
+      "content_id": "synd:c-a769a9266583",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Bank of Korea",
+        "interest rates",
+        "monetary policy",
+        "South Korea",
+        "mortgage rates"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-11-26-bank-of-korea-raises-policy-rate-to-325.md",
+      "platform": "github_site",
+      "published_at": "2026-11-26T07:10:25.402229Z",
+      "slug_hint": "bank-of-korea-raises-policy-rate-to-325",
+      "title": "Bank of Korea Raises Policy Rate to 3.25%",
+      "url": "https://pulse.koreasignals.com/posts/bank-of-korea-raises-policy-rate-to-325/"
     }
   ],
   "version": 1
